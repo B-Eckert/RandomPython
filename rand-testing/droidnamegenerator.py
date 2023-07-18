@@ -18,9 +18,9 @@ affixes = [[
 ]
 
 option = 0
-print("-1 to quit")
-print("Choose which type of battle droid to generate a name for.\n1: B1\n2: B2\n3: BX\n4: Tactical Droid\n5: Dwarf Spider Droid\n6: Destroyer Droid")
 while(option != -1):
+    print("-1 to quit")
+    print("Choose which type of battle droid to generate a name for.\n1: B1\n2: B2\n3: BX\n4: Tactical Droid\n5: Dwarf Spider Droid\n6: Destroyer Droid")
     option = int(input())
     if(option != -1):
         option -= 1
@@ -29,3 +29,4 @@ while(option != -1):
             name = affixes[option][randomizer.randrange(0, affixes[option].__len__())]
             name += "-" + str(randomizer.randrange(1, 1000))
             print(name)
+        input()
