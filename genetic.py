@@ -9,7 +9,7 @@ randomizer.seed(seed)
 mutationFactor = 6
 speciesSensitivity = 15
 breedMax = 4
-intelligenceHandicap = 10
+intelligenceHandicap = 7
 # In this scenario we're setting up, all stats can vary between 1-20 (including brd, meaning that they can have at most 20 children)
 class SpeciesTemplate:
     def __init__(self, statList, name, parent):
