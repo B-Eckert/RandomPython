@@ -48,5 +48,5 @@ for i in range(6):
 print("=============")
 print("Sum: ", sum)
 
-print("Extras:", dice(1,20), dice(1,20))
-print("Extras (4d6kh3):", fourdsixkeephighest(), fourdsixkeephighest())
+print("Extras [d20]:", dice(1,20), dice(1,20))
+print("Extras [4d6kh3]: ", fourdsixkeephighest(), fourdsixkeephighest())
