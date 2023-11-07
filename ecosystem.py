@@ -14,7 +14,7 @@ mutationFactor = 5
 speciesSensitivity = 2
 breedMax = 4
 
-statMax = 3
+statMax = 4
 # New Gene Set:
 
 # SPECIES SET
@@ -119,7 +119,7 @@ class EcosystemCreature:
         if self.settings["Eats"] == 0:
             scavCoef = 0.25
         elif self.settings["Eats"] == 1:
-            scavCoef = 0.5
+            scavCoef = 0.667
         elif self.settings["Eats"] == 2:
             scavCoef = 1
         return self.scavNum()*scavCoef # how much food they want to eat
@@ -226,12 +226,18 @@ class World:
         if(x.settings["Eats"] == 0):
             return True
         return False
+    def omnis(self, x):
+        if(x.settings["Eats"] == 1):
+            return True
+        return False
     def huntingPhase(self):
         retStr = ""
         stealthList = blankCategories(highestNumber+2)
     # filter to carnivores
         
         carnivores = list(filter(self.carns, self.survivalList))
+        if(self.forage == 0):
+            carnivores += list(filter(self.omnis, self.survivalList))
         # you cant eat someone of the same species so you cant eat yourself so its whatever
         for x in self.survivalList:
             stealthList[x.stealthNum()-1].append(x)
@@ -245,8 +251,8 @@ class World:
                 def diffSpecies(y):
                     if carnivores[x-neg].template.name == y.template.name:
                         return False
-                    if y in carnivores:
-                        return False
+                    #if y in carnivores:
+                    #    return False
                     return True
                 preyList = list(filter(diffSpecies, preyList))
                 if(preyList.__len__() == 0):
@@ -286,7 +292,7 @@ class World:
                             ind = stealthList[s].index(prey)
                             stealthList[s].pop(ind)
         return retStr
-world = World(100)
+world = World(500)
 world.creatureList = creatureList
 # Phases:
 # 1: Breeding - New generation is born from the old. Pairings are made between animals of the same species. Species must be same to breed!
@@ -366,7 +372,6 @@ for round in range(1, time+1):
     world.forage /= 2
     for x in scavList[4] + scavList[3] + scavList[2] + scavList[1] + scavList[0]:
         feedingPhase(x, world)
-    # Final Phase: Starvation and Culling
     neg = 0
     for x in range(0, world.survivalList.__len__()):
         if not world.survivalList[x-neg].satisfied():

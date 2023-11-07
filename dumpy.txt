@@ -1,31 +1,27 @@
 ==========================[ROUND 1]===========================
 ================1st Hunt================
-O killed C in a hunt
-O killed C in a hunt
-O killed C in a hunt
 C killed O in a hunt
 O killed C in a hunt
 C killed O in a hunt
-O killed C in a hunt
-C killed O in a hunt
-================2nd Hunt================
-H killed C in a hunt
-O killed C in a hunt
-C killed O in a hunt
-O killed C in a hunt
 C killed H in a hunt
+C killed O in a hunt
+C killed O in a hunt
+C killed O in a hunt
+C killed O in a hunt
+H killed C in a hunt
+================2nd Hunt================
+C killed O in a hunt
+C killed O in a hunt
 C starved to death
 C starved to death
 C starved to death
-O starved to death
-O starved to death
-O starved to death
-O starved to death
-O starved to death
-O starved to death
-O starved to death
-O starved to death
-O starved to death
+C starved to death
+C starved to death
+C starved to death
+C starved to death
+C starved to death
+C starved to death
+C starved to death
 O starved to death
 O starved to death
 O starved to death
@@ -34,7 +30,11 @@ H starved to death
 H starved to death
 H starved to death
 H starved to death
-C survived.
+O survived.
+O survived.
+O survived.
+O survived.
+O survived.
 O survived.
 H survived.
 H survived.
@@ -57,3516 +57,2546 @@ H survived.
 H survived.
 ==========================[ROUND 2]===========================
 ================1st Hunt================
-C killed O in a hunt
-He killed C in a hunt
 ================2nd Hunt================
-C killed O in a hunt
-C starved to death
+O starved to death
+O starved to death
+Oa starved to death
+O starved to death
+O starved to death
+O starved to death
+O starved to death
+O starved to death
+H starved to death
+H starved to death
 Ha starved to death
-Hc starved to death
-Hd starved to death
-H starved to death
-H starved to death
-H starved to death
-H starved to death
-H starved to death
 H starved to death
 Ha starved to death
-Hc starved to death
-Hd starved to death
 H starved to death
+Hc starved to death
+Hb starved to death
+He starved to death
+Hf starved to death
+Hg starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+Hc starved to death
+He starved to death
 H starved to death
 Hf starved to death
-Hi starved to death
-Hg starved to death
+H starved to death
+H starved to death
+H starved to death
 Ha starved to death
 Hb starved to death
 H starved to death
-He starved to death
 O survived.
+O survived.
+O survived.
+O survived.
+Oa survived.
+O survived.
+O survived.
+O survived.
+Oa survived.
+O survived.
+H survived.
+H survived.
+H survived.
+H survived.
+H survived.
+H survived.
 Hb survived.
-H survived.
-H survived.
-H survived.
+Hc survived.
+Hb survived.
+Hd survived.
 He survived.
+H survived.
 Hf survived.
 H survived.
+H survived.
 Hg survived.
-H survived.
-H survived.
-Ha survived.
-Hb survived.
-Hc survived.
-H survived.
-Hd survived.
-H survived.
-H survived.
-H survived.
-H survived.
-Hb survived.
-He survived.
-H survived.
-Ha survived.
-Hb survived.
-Hc survived.
-H survived.
-H survived.
-H survived.
-Hd survived.
-H survived.
-H survived.
-He survived.
-Hg survived.
-H survived.
 Hh survived.
+Hi survived.
+Hj survived.
+H survived.
+H survived.
+H survived.
 H survived.
 Ha survived.
 H survived.
+Hc survived.
+Hd survived.
 H survived.
+H survived.
+H survived.
+H survived.
+H survived.
+Ha survived.
 Hb survived.
-Hc survived.
+H survived.
+H survived.
 Hd survived.
-He survived.
 H survived.
 H survived.
 H survived.
 H survived.
-Hf survived.
-Hh survived.
+H survived.
+H survived.
 H survived.
 H survived.
 Hc survived.
-Hd survived.
+H survived.
+H survived.
 H survived.
 ==========================[ROUND 3]===========================
 ================1st Hunt================
 ================2nd Hunt================
+H killed Ob in a hunt
+Hc killed O in a hunt
+Od killed H in a hunt
+Ha killed O in a hunt
+O killed Hg in a hunt
+Hk killed Oe in a hunt
+O killed H in a hunt
+O killed Hh in a hunt
+Hk killed O in a hunt
+Oa killed H in a hunt
+H killed O in a hunt
+Ob killed Hd in a hunt
+Oc killed H in a hunt
+Od killed Hd in a hunt
+Oa killed Ha in a hunt
+Oa killed Hb in a hunt
+Oa killed H in a hunt
+Oa killed Hh in a hunt
+O killed Hl in a hunt
+H killed O in a hunt
+Oc starved to death
+O starved to death
+Oa starved to death
 O starved to death
 O starved to death
 O starved to death
-Hb starved to death
-Hb starved to death
-Hb starved to death
-Hb starved to death
+Oc starved to death
+Oa starved to death
+O starved to death
 H starved to death
-Hl starved to death
-Hm starved to death
-Hn starved to death
 H starved to death
-He starved to death
-He starved to death
-Hf starved to death
-Hf starved to death
 H starved to death
-Ho starved to death
-Hg starved to death
-Hg starved to death
-Hg starved to death
-He starved to death
-Hf starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
 H starved to death
 Hg starved to death
 H starved to death
 H starved to death
 H starved to death
-H starved to death
-Ha starved to death
-Ha starved to death
-Ha starved to death
-Ha starved to death
-Hb starved to death
 Hb starved to death
 Hb starved to death
 Hb starved to death
 Hb starved to death
 Hc starved to death
+Hc starved to death
+Hc starved to death
+Hc starved to death
+Hb starved to death
+Hb starved to death
+Hb starved to death
+He starved to death
+He starved to death
+Hk starved to death
+Hl starved to death
+Hf starved to death
+Hf starved to death
+H starved to death
+H starved to death
+H starved to death
+Hn starved to death
+Ho starved to death
+Hg starved to death
+Hg starved to death
 Hh starved to death
+Hh starved to death
+Hh starved to death
+Hi starved to death
 Hi starved to death
 Hj starved to death
-Hd starved to death
-Hd starved to death
-Hd starved to death
-Hd starved to death
 H starved to death
 H starved to death
-H starved to death
-H starved to death
-H starved to death
-Hf starved to death
-H starved to death
-H starved to death
-H starved to death
-H starved to death
-H starved to death
-H starved to death
-H starved to death
-Hg starved to death
 Hh starved to death
-Hi starved to death
-Hb starved to death
-Hb starved to death
-Hb starved to death
-Hb starved to death
-He starved to death
-He starved to death
-He starved to death
-He starved to death
 H starved to death
+Hi starved to death
 Hj starved to death
 H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+Ha starved to death
+Ha starved to death
+H starved to death
 Hk starved to death
-Ha starved to death
-Ha starved to death
-Ha starved to death
-Ha starved to death
-Hb starved to death
-Hc starved to death
-Hc starved to death
-Hc starved to death
-Hc starved to death
-Hl starved to death
-Hm starved to death
-Hn starved to death
-Ho starved to death
-H starved to death
-H starved to death
-Hp starved to death
-Hq starved to death
-H starved to death
-Hr starved to death
-Hd starved to death
-Hd starved to death
-Hd starved to death
-Hd starved to death
-Hs starved to death
-Ht starved to death
-Hu starved to death
-H starved to death
-He starved to death
-Hg starved to death
-Hg starved to death
-Hg starved to death
-Hg starved to death
-Hg starved to death
-Hv starved to death
-H starved to death
-Hw starved to death
-H starved to death
-Hh starved to death
-Hh starved to death
-Hh starved to death
-H starved to death
-H starved to death
-Ha starved to death
-Ha starved to death
-Hk starved to death
-H starved to death
 Hl starved to death
 H starved to death
-Hm starved to death
-Hn starved to death
-Hb starved to death
-Hb starved to death
-Hb starved to death
+Hc starved to death
 Hc starved to death
 Hc starved to death
 Hc starved to death
 Hd starved to death
 Hd starved to death
+Hd starved to death
+Hc starved to death
+Hd starved to death
+H starved to death
 He starved to death
+Hf starved to death
+H starved to death
+Hh starved to death
+Hj starved to death
+Hk starved to death
+H starved to death
+Ha starved to death
+Hb starved to death
+Hb starved to death
+Hb starved to death
+Hb starved to death
+Hk starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+Hd starved to death
+Hd starved to death
+Hd starved to death
+Hd starved to death
+Hl starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
 He starved to death
 H starved to death
-Ho starved to death
-Hp starved to death
-H starved to death
-H starved to death
-Hq starved to death
-H starved to death
-Hs starved to death
-H starved to death
-Hu starved to death
 H starved to death
 H starved to death
 H starved to death
 H starved to death
-Hf starved to death
-Hf starved to death
-Hh starved to death
-Hh starved to death
-Hh starved to death
 H starved to death
 H starved to death
-H starved to death
-H starved to death
-Hf starved to death
 Hg starved to death
+H starved to death
 Hh starved to death
-H starved to death
-Hc starved to death
-Hc starved to death
-Hc starved to death
-Hc starved to death
-Hd starved to death
-Hd starved to death
-H starved to death
 Hi starved to death
+H starved to death
+Hj starved to death
 Hk starved to death
-Hh survived.
-Hi survived.
-Hj survived.
-Hk survived.
-H survived.
-H survived.
+H starved to death
+Hc starved to death
+Hc starved to death
+Hc starved to death
+Hc starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+Hn starved to death
+H starved to death
+H starved to death
+Od survived.
+O survived.
+Of survived.
+O survived.
+O survived.
+Oa survived.
+Oa survived.
+Ob survived.
+Ob survived.
+Oc survived.
+Od survived.
+Oa survived.
+Oa survived.
+Oa survived.
+O survived.
+Hd survived.
 H survived.
 He survived.
 Hf survived.
-Hp survived.
-Hc survived.
-Hc survived.
-Hc survived.
-H survived.
-Hb survived.
-Hb survived.
-Hb survived.
-H survived.
-H survived.
-H survived.
-H survived.
-H survived.
-H survived.
-He survived.
-He survived.
 Hh survived.
-Hh survived.
+H survived.
+Hd survived.
+He survived.
+H survived.
+Hf survived.
+Hm survived.
+Hg survived.
+Hg survived.
+Hi survived.
+Hj survived.
+Hj survived.
+Hd survived.
+H survived.
+Ha survived.
+Hb survived.
+Hg survived.
+H survived.
 Hi survived.
 H survived.
+Hi survived.
 Ha survived.
 Ha survived.
-H survived.
+Ha survived.
 Hj survived.
-Hc survived.
-Hd survived.
-He survived.
-He survived.
-Hr survived.
 H survived.
-Ht survived.
+Hm survived.
+H survived.
+Hd survived.
 Hf survived.
-Hh survived.
-Hd survived.
-Hd survived.
-Hj survived.
+H survived.
+H survived.
+Hm survived.
+H survived.
+H survived.
 ==========================[ROUND 4]===========================
 ================1st Hunt================
 ================2nd Hunt================
-Hh starved to death
-Hi starved to death
-Hi starved to death
-Hi starved to death
-Hj starved to death
-Hk starved to death
-Hk starved to death
-Hs starved to death
+Od killed H in a hunt
+Od killed Hg in a hunt
+Od killed Hd in a hunt
+Od killed Hb in a hunt
+Of killed H in a hunt
+Hp killed Of in a hunt
+Hp killed Of in a hunt
+Od killed Hj in a hunt
+Oe killed Hf in a hunt
+Oaa killed H in a hunt
+H killed Oab in a hunt
+Hb killed Oac in a hunt
+Oa killed Hh in a hunt
+Hr killed Ob in a hunt
+Ob killed Hm in a hunt
+Hh killed Ob in a hunt
+Ha killed Oc in a hunt
+Oc killed H in a hunt
+Od killed Ha in a hunt
+Od killed H in a hunt
+Od killed Hab in a hunt
+Oa killed H in a hunt
+Oa killed Ha in a hunt
+Oa killed Hg in a hunt
+Oa killed Hp in a hunt
+Oa killed Hq in a hunt
+Hf killed Oa in a hunt
+Oa killed Ha in a hunt
+Oa killed Hm in a hunt
+Oa killed Hd in a hunt
+Ob killed He in a hunt
+O killed Hl in a hunt
+Od starved to death
+Og starved to death
+Oh starved to death
+Oi starved to death
+Od starved to death
+O starved to death
+O starved to death
+Ob starved to death
+Od starved to death
+Oa starved to death
+Oa starved to death
+Oa starved to death
+Oa starved to death
+Hd starved to death
+Hd starved to death
+Hd starved to death
 H starved to death
-Hu starved to death
-Hv starved to death
-H starved to death
-H starved to death
-Hw starved to death
-He starved to death
-He starved to death
-Hf starved to death
-Hp starved to death
-Hp starved to death
-Hp starved to death
-Hc starved to death
-Hcb starved to death
-Hc starved to death
-Hc starved to death
-Hc starved to death
-Hk starved to death
-Hb starved to death
-Hb starved to death
-Hb starved to death
-Hb starved to death
-Hba starved to death
-Hbb starved to death
-H starved to death
-H starved to death
-H starved to death
-H starved to death
-Hy starved to death
-H starved to death
-Hz starved to death
-HB starved to death
-H starved to death
-HC starved to death
-HD starved to death
-HE starved to death
-H starved to death
-H starved to death
-H starved to death
-H starved to death
-H starved to death
-H starved to death
-He starved to death
-He starved to death
-Hea starved to death
-He starved to death
-He starved to death
-Hh starved to death
-Hh starved to death
-Hh starved to death
-Hh starved to death
-Hh starved to death
-Hha starved to death
-Hh starved to death
-Hhb starved to death
-Hhc starved to death
-Hhd starved to death
 Hi starved to death
 H starved to death
-Hv starved to death
-Ha starved to death
-Ha starved to death
-Ha starved to death
-Hab starved to death
-H starved to death
-H starved to death
-H starved to death
-H starved to death
-Hj starved to death
-Hj starved to death
-Hj starved to death
-Hj starved to death
-Hca starved to death
-Hc starved to death
-Hd starved to death
-Hd starved to death
-Hea starved to death
-Heb starved to death
 He starved to death
 He starved to death
 He starved to death
-Hr starved to death
-Hr starved to death
-Hr starved to death
-H starved to death
-Hy starved to death
-Ht starved to death
-Ht starved to death
-Ht starved to death
 Hf starved to death
 Hf starved to death
-Hf starved to death
-Hha starved to death
-Hhb starved to death
 Hh starved to death
 Hh starved to death
-Hhc starved to death
-Hda starved to death
-Hdb starved to death
-Hd starved to death
-Hd starved to death
-Hd starved to death
-Hd starved to death
-Hd starved to death
-Hj starved to death
-Hj starved to death
-Hj starved to death
-Hj starved to death
-Hh survived.
-Hh survived.
-Hi survived.
-Hj survived.
-Hj survived.
-Hj survived.
-Hk survived.
-Hq survived.
-Hr survived.
-Ht survived.
-H survived.
-H survived.
-He survived.
-Hf survived.
-Hf survived.
-Hca survived.
-Hc survived.
-Hc survived.
-Hc survived.
-Hc survived.
-Hcc survived.
-Hcd survived.
-H survived.
-Hl survived.
-H survived.
-Hb survived.
-Hb survived.
-Hb survived.
-Hb survived.
-Hb survived.
-Hb survived.
-Hx survived.
-HA survived.
-HF survived.
-H survived.
-He survived.
-Hi survived.
-Hi survived.
-H survived.
-Hw survived.
-Ha survived.
-Ha survived.
-Haa survived.
-Ha survived.
-Hc survived.
-Hc survived.
-Hd survived.
-He survived.
-He survived.
-Hr survived.
-Hx survived.
-H survived.
-Hdc survived.
-==========================[ROUND 5]===========================
-================1st Hunt================
-================2nd Hunt================
-Hh starved to death
-Hha starved to death
-Hhb starved to death
 Hh starved to death
 Hh starved to death
-Hib starved to death
-Hi starved to death
-Hj starved to death
-Hjb starved to death
-Hjc starved to death
-Hjd starved to death
-Hj starved to death
-Hj starved to death
-Hj starved to death
-Hj starved to death
-Hj starved to death
 Hj starved to death
 Hk starved to death
-Hk starved to death
-Hq starved to death
-Hq starved to death
-Hq starved to death
-Hq starved to death
-Hr starved to death
-Hr starved to death
-Hr starved to death
-Hr starved to death
-Ht starved to death
-Ht starved to death
-Ht starved to death
-Hx starved to death
-Hy starved to death
-Hz starved to death
-HA starved to death
-HB starved to death
-HE starved to death
-He starved to death
-He starved to death
-He starved to death
-Hf starved to death
-Hf starved to death
-Hfa starved to death
-Hf starved to death
-Hfb starved to death
-Hf starved to death
-Hf starved to death
-Hca starved to death
-Hca starved to death
-Hc starved to death
-Hce starved to death
-Hcf starved to death
-Hc starved to death
-Hc starved to death
-Hc starved to death
-Hcg starved to death
-Hch starved to death
-Hci starved to death
-Hc starved to death
-Hcj starved to death
-Hck starved to death
-Hc starved to death
-Hcc starved to death
-Hcc starved to death
-Hcc starved to death
-Hcd starved to death
-Hcd starved to death
-Hcd starved to death
-Hcd starved to death
 Hm starved to death
-H starved to death
-Ho starved to death
-Hl starved to death
-Hl starved to death
-Hl starved to death
-Hl starved to death
-Hq starved to death
-H starved to death
-Hr starved to death
-Hbd starved to death
-Hb starved to death
-Hb starved to death
-Hb starved to death
-Hbf starved to death
-Hb starved to death
-Hb starved to death
-Hb starved to death
-Hb starved to death
-Hbg starved to death
-Hbh starved to death
-Hbi starved to death
-Hb starved to death
-Hb starved to death
-Hb starved to death
-Hb starved to death
-Hb starved to death
-Hb starved to death
-Hbj starved to death
-Hbk starved to death
-Hb starved to death
-Hx starved to death
-Hx starved to death
-HA starved to death
-HA starved to death
-HA starved to death
-HA starved to death
-HF starved to death
-HF starved to death
-H starved to death
-H starved to death
-H starved to death
-H starved to death
-Heb starved to death
-Hec starved to death
-He starved to death
-Hia starved to death
-Hi starved to death
-Hi starved to death
-Hi starved to death
-Hz starved to death
-HA starved to death
-HB starved to death
-H starved to death
-Hw starved to death
-Hw starved to death
-Hw starved to death
-Hw starved to death
-Ha starved to death
-Ha starved to death
-Ha starved to death
-Ha starved to death
-Haa starved to death
-Haa starved to death
-Ha starved to death
-Ha starved to death
-Ha starved to death
-Hcb starved to death
-Hcc starved to death
-Hcd starved to death
-Hce starved to death
-Hc starved to death
-Hcf starved to death
-Hc starved to death
-Hcg starved to death
 Hd starved to death
-Hda starved to death
-Hdb starved to death
-Hec starved to death
-Hed starved to death
-He starved to death
-He starved to death
-He starved to death
-He starved to death
-He starved to death
-Hr starved to death
-Hr starved to death
-Hr starved to death
-Hr starved to death
-Hx starved to death
-Hx starved to death
-Hx starved to death
-Hx starved to death
-HC starved to death
+Hea starved to death
+Heb starved to death
 H starved to death
-HD starved to death
-Hdc starved to death
-Hdc starved to death
-Hdc starved to death
-Hh survived.
-Hia survived.
-Hja survived.
-Hk survived.
-Ht survived.
-HC survived.
-HD survived.
-Hca survived.
-Hc survived.
-Hc survived.
-Hc survived.
-Hc survived.
-Hn survived.
-Hp survived.
-Hbc survived.
-Hbe survived.
-Hb survived.
-Hx survived.
-Hx survived.
-HF survived.
-Hi survived.
-Hi survived.
-Ha survived.
-Ha survived.
-Ha survived.
-Haa survived.
-Haa survived.
-Ha survived.
-HE survived.
-Hdc survived.
-==========================[ROUND 6]===========================
-================1st Hunt================
-================2nd Hunt================
-Hh starved to death
-Hhd starved to death
-Hia starved to death
-Hja starved to death
-Hk starved to death
-Hk starved to death
-Hta starved to death
-Htb starved to death
-Htc starved to death
-Ht starved to death
-HC starved to death
-HD starved to death
-HD starved to death
-Hc starved to death
-Hcl starved to death
-Hco starved to death
-Hcr starved to death
-Hcs starved to death
-Hc starved to death
-Hcu starved to death
-Hcv starved to death
-Hcw starved to death
-Hc starved to death
-Hn starved to death
-Hn starved to death
-Hp starved to death
-Hbc starved to death
-Hbc starved to death
-Hbe starved to death
-Hbe starved to death
-Hbl starved to death
-Hx starved to death
-Hx starved to death
-Hxa starved to death
-Hx starved to death
-Hx starved to death
-Hxb starved to death
-HF starved to death
-HF starved to death
-Hib starved to death
+H starved to death
+Hfa starved to death
+Hfb starved to death
+Hfc starved to death
+Hm starved to death
+Hm starved to death
+Hg starved to death
+Hg starved to death
+Hg starved to death
+Hga starved to death
+Hg starved to death
+Hg starved to death
+Hg starved to death
 Hi starved to death
+Hj starved to death
+Hj starved to death
+Hj starved to death
+Hj starved to death
+Hda starved to death
+Hd starved to death
+Hd starved to death
+Hm starved to death
+Hn starved to death
+H starved to death
+Ha starved to death
+Ha starved to death
+Hb starved to death
+Hg starved to death
+Hg starved to death
+Hg starved to death
+H starved to death
+H starved to death
+H starved to death
+Hi starved to death
+Hi starved to death
+Hi starved to death
+H starved to death
+Hi starved to death
+Hi starved to death
+Ha starved to death
+Ha starved to death
 Ha starved to death
 Ha starved to death
 Ha starved to death
 Hac starved to death
-Ha starved to death
-Haa starved to death
-Haab starved to death
-Haac starved to death
-HE starved to death
-Hdc starved to death
-Hdcb starved to death
-Hhc survived.
-Hia survived.
-Hia survived.
-Hja survived.
-Hja survived.
-Hk survived.
-HC survived.
-HC survived.
-HD survived.
-HD survived.
-Hcaa survived.
-Hca survived.
-Hcab survived.
-Hc survived.
-Hcm survived.
-Hcn survived.
-Hcp survived.
-Hcq survived.
-Hct survived.
-Hc survived.
-Hn survived.
-Hn survived.
-Hp survived.
-Hp survived.
-Hbc survived.
-Hbc survived.
-Hbe survived.
-Hbe survived.
+Hj starved to death
+Hj starved to death
+Hn starved to death
+Hq starved to death
+Hm starved to death
+Hm starved to death
+H starved to death
+H starved to death
+Hd starved to death
+Hd starved to death
+H starved to death
+Ho starved to death
+Hp starved to death
+Hq starved to death
+H starved to death
+Hr starved to death
+Hm starved to death
+Hs starved to death
+H starved to death
+H starved to death
+H starved to death
+Hu starved to death
+Hv starved to death
+Od survived.
+Od survived.
+Od survived.
+Of survived.
+Oe survived.
+Of survived.
+Oaa survived.
+Oa survived.
+Oa survived.
+Ob survived.
+Oc survived.
+Oc survived.
+Od survived.
+Od survived.
+Oa survived.
+Oa survived.
+Oa survived.
+Oa survived.
+Oa survived.
+Oa survived.
+Oa survived.
+Oa survived.
+Ob survived.
+O survived.
+Hf survived.
+Hl survived.
+Hd survived.
+Hd survived.
+Hm survived.
+Hi survived.
+Hi survived.
+Hj survived.
+Hd survived.
+Ha survived.
 Hb survived.
-Hbm survived.
-Hbn survived.
-Hx survived.
-Hx survived.
-Hxc survived.
-HF survived.
-Hic survived.
-Hid survived.
+Hb survived.
+Hb survived.
+Hi survived.
+Ho survived.
 Hi survived.
 Hi survived.
-Ha survived.
-Ha survived.
-Ha survived.
-Had survived.
-Ha survived.
 Haa survived.
-Haa survived.
-Haa survived.
-Haaa survived.
-Haad survived.
 Ha survived.
-Hae survived.
-Haf survived.
-Hag survived.
-HE survived.
-HE survived.
-HE survived.
-Hdca survived.
-Hdc survived.
+Ha survived.
+Hj survived.
+Ho survived.
+Hp survived.
+Hm survived.
+H survived.
+Hf survived.
+Hf survived.
+Hf survived.
+Hm survived.
+Ht survived.
+Hw survived.
+==========================[ROUND 5]===========================
+================1st Hunt================
+================2nd Hunt================
+Oda killed Hp in a hunt
+Hf killed Od in a hunt
+Odb killed Hp in a hunt
+Od killed Hs in a hunt
+Odc killed Hb in a hunt
+Odd killed Hm in a hunt
+Ode killed Ho in a hunt
+Hf killed Odh in a hunt
+Hf killed Of in a hunt
+Oe killed Hf in a hunt
+Hf killed Oe in a hunt
+Of killed Hia in a hunt
+Of killed Hf in a hunt
+Oaa killed Hia in a hunt
+Oaa killed Hw in a hunt
+Hf killed Oaa in a hunt
+Oaa killed Hf in a hunt
+Oa killed Hi in a hunt
+Oba killed Hi in a hunt
+Obb killed Ha in a hunt
+Oca killed Ht in a hunt
+Occ killed Ha in a hunt
+Ocd killed Hr in a hunt
+Oce killed Hbc in a hunt
+Ocf killed Hf in a hunt
+Od killed Hf in a hunt
+Od killed Hp in a hunt
+Ha killed Odb in a hunt
+Odc killed Hj in a hunt
+Od killed Ht in a hunt
+Oa killed Hbg in a hunt
+Oa killed Hi in a hunt
+Oa killed Hw in a hunt
+Oa killed Hib in a hunt
+Hj killed Oa in a hunt
+Hf killed Oab in a hunt
+Hd killed Oac in a hunt
+Ht killed Oad in a hunt
+Hb killed Oa in a hunt
+Oa killed Hb in a hunt
+Oa killed Haf in a hunt
+Hd killed Oa in a hunt
+Oa killed Hd in a hunt
+Oa killed Hd in a hunt
+Hmb killed Oaf in a hunt
+Hah killed Oa in a hunt
+Oai killed Hia in a hunt
+Oa killed Hba in a hunt
+Oa killed Hm in a hunt
+Oa killed Hbh in a hunt
+Oa killed Hi in a hunt
+Ob killed Hm in a hunt
+Ob killed Ha in a hunt
+Hbi killed Ob in a hunt
+O killed Hi in a hunt
+Od starved to death
+Od starved to death
+Odf starved to death
+Odg starved to death
+Of starved to death
+Of starved to death
+Of starved to death
+Oa starved to death
+Oa starved to death
+Odc starved to death
+Od starved to death
+Oa starved to death
+Oaa starved to death
+Oa starved to death
+Oa starved to death
+Oae starved to death
+Oa starved to death
+Oa starved to death
+Oag starved to death
+Oah starved to death
+Ob starved to death
+Ob starved to death
+O starved to death
+O starved to death
+Hfa starved to death
+Hfb starved to death
+Hl starved to death
+Hl starved to death
+Hl starved to death
+Hd starved to death
+Hd starved to death
+Hd starved to death
+Hm starved to death
+Hi starved to death
+Hi starved to death
+Hja starved to death
+Hj starved to death
+Hd starved to death
+Hd starved to death
+Hd starved to death
+Hdb starved to death
+Ha starved to death
+Hbb starved to death
+Hbd starved to death
+Hbe starved to death
+Hb starved to death
+Hb starved to death
+Hbi starved to death
+Hi starved to death
+Hib starved to death
+Ho starved to death
+Ho starved to death
+Hi starved to death
+Hi starved to death
+Hi starved to death
+Hib starved to death
+Haa starved to death
+Haa starved to death
+Haa starved to death
+Haa starved to death
+Haa starved to death
+Had starved to death
+Ha starved to death
+Ha starved to death
+Hae starved to death
+Hag starved to death
+Ha starved to death
+Hah starved to death
+Hj starved to death
+Hj starved to death
+Ho starved to death
+Ho starved to death
+Hp starved to death
+Hmb starved to death
+H starved to death
+Hfa starved to death
+Hf starved to death
+Hfb starved to death
+Hfc starved to death
+Hf starved to death
+Hm starved to death
+Ht starved to death
+Ht starved to death
+Hw starved to death
+Hw starved to death
+Oda survived.
+Odb survived.
+Od survived.
+Odc survived.
+Odd survived.
+Ode survived.
+Oe survived.
+Of survived.
+Of survived.
+Oaa survived.
+Oaa survived.
+Oaa survived.
+Oa survived.
+Oa survived.
+Oa survived.
+Oba survived.
+Obb survived.
+Oca survived.
+Ocb survived.
+Occ survived.
+Ocd survived.
+Oce survived.
+Ocf survived.
+Oda survived.
+Od survived.
+Od survived.
+Oa survived.
+Oa survived.
+Oa survived.
+Oa survived.
+Oa survived.
+Oa survived.
+Oa survived.
+Oa survived.
+Oa survived.
+Oai survived.
+Oa survived.
+Oa survived.
+Oa survived.
+Oa survived.
+O survived.
+Hf survived.
+Hl survived.
+Hd survived.
+Hm survived.
+Hj survived.
+Hb survived.
+Hb survived.
+Hbf survived.
+Ho survived.
+Hi survived.
+Ho survived.
+Ho survived.
+Hm survived.
+Hma survived.
+Hm survived.
+==========================[ROUND 6]===========================
+================1st Hunt================
+================2nd Hunt================
+Ho killed Od in a hunt
+Ho killed Od in a hunt
+Hb killed Odc in a hunt
+Odc killed Hmd in a hunt
+Hm killed Odd in a hunt
+Hm killed Odd in a hunt
+Odd killed Hla in a hunt
+Oe killed Hj in a hunt
+Oaac killed Hl in a hunt
+Hb killed Oaa in a hunt
+Oaad killed Hmc in a hunt
+Oaae killed Ho in a hunt
+Oaaf killed Hf in a hunt
+Hma killed Oaa in a hunt
+Hbf killed Oaa in a hunt
+Hma killed Oa in a hunt
+Hbf killed Oa in a hunt
+Hb killed Oa in a hunt
+Oba killed Hbf in a hunt
+Oba killed Hoa in a hunt
+Obb killed Hi in a hunt
+Ho killed Obb in a hunt
+Oca killed Ho in a hunt
+Oca killed Ho in a hunt
+Ocb killed Hb in a hunt
+Occ killed Hbf in a hunt
+Occ killed Hm in a hunt
+Occ killed Ho in a hunt
+Ocd killed Hb in a hunt
+Hm killed Oce in a hunt
+Oce killed Hb in a hunt
+Hma killed Ocf in a hunt
+Ocf killed Hda in a hunt
+Hbj killed Oda in a hunt
+Hm killed Oda in a hunt
+Ho killed Oda in a hunt
+Hi killed Odd in a hunt
+Ode killed Hbf in a hunt
+Od killed Hi in a hunt
+Od killed Hb in a hunt
+Odf killed Hob in a hunt
+Hma killed Oal in a hunt
+Hma killed Oa in a hunt
+Oa killed Hma in a hunt
+Oa killed Hb in a hunt
+Hj killed Oa in a hunt
+Oas killed Hdb in a hunt
+Oa killed Hj in a hunt
+Oa killed Hbf in a hunt
+Hm killed Oa in a hunt
+Oai killed Ho in a hunt
+Oat killed Ho in a hunt
+Oaw killed Hjb in a hunt
+Hbj killed Oa in a hunt
+Hma killed Oac in a hunt
+Oad killed Hm in a hunt
+Oc killed Hm in a hunt
+Oda starved to death
+Oda starved to death
+Oda starved to death
+Oda starved to death
+Odb starved to death
+Odb starved to death
+Odb starved to death
+Odb starved to death
+Odi starved to death
+Od starved to death
+Odc starved to death
+Odc starved to death
+Odd starved to death
+Ode starved to death
+Ode starved to death
+Oe starved to death
+Oe starved to death
+Of starved to death
+Of starved to death
+Of starved to death
+Of starved to death
+Of starved to death
+Of starved to death
+Oaaa starved to death
+Oaab starved to death
+Oaa starved to death
+Oaae starved to death
+Oaaf starved to death
+Oad starved to death
+Oa starved to death
+Oba starved to death
+Obb starved to death
+Oca starved to death
+Oca starved to death
+Ocd starved to death
+Ocd starved to death
+Ocf starved to death
+Od starved to death
+Oaj starved to death
+Oak starved to death
+Oa starved to death
+Oam starved to death
+Oan starved to death
+Oa starved to death
+Oa starved to death
+Oa starved to death
+Oao starved to death
+Oap starved to death
+Oa starved to death
+Oa starved to death
+Oa starved to death
+Oaq starved to death
+Oar starved to death
+Oa starved to death
+Oa starved to death
+Oa starved to death
+Oa starved to death
+Oa starved to death
+Oas starved to death
+Oa starved to death
+Oa starved to death
+Oa starved to death
+Oa starved to death
+Oa starved to death
+Oa starved to death
+Oai starved to death
+Oai starved to death
+Oau starved to death
+Oaw starved to death
+Oa starved to death
+Oad starved to death
+O starved to death
+Oc starved to death
+Hf starved to death
+Hl starved to death
+Hd starved to death
+Hmb starved to death
+Hm starved to death
+Hb starved to death
+Hb starved to death
+Hbj starved to death
+Hbf starved to death
+Hbf starved to death
+Hi starved to death
+Hoc starved to death
+Hm starved to death
+Hma starved to death
+Hma starved to death
+Odc survived.
+Odd survived.
+Ode survived.
+Oaac survived.
+Oaad survived.
+Oaa survived.
+Oaa survived.
+Oa survived.
+Oa survived.
+Oba survived.
+Oca survived.
+Ocb survived.
+Ocb survived.
+Ocb survived.
+Occ survived.
+Occ survived.
+Occ survived.
+Ocd survived.
+Ocd survived.
+Oce survived.
+Ocf survived.
+Ode survived.
+Od survived.
+Odf survived.
+Odg survived.
+Oa survived.
+Oa survived.
+Oa survived.
+Oa survived.
+Oai survived.
+Oai survived.
+Oat survived.
+Oav survived.
+Oaa survived.
+Oa survived.
+Oa survived.
+Oa survived.
+Oab survived.
+O survived.
+Hf survived.
+Hlb survived.
+Hma survived.
+Hb survived.
+Hi survived.
+Hod survived.
+Ho survived.
+Hma survived.
+Hm survived.
 ==========================[ROUND 7]===========================
 ================1st Hunt================
 ================2nd Hunt================
-Hhc starved to death
-Hhc starved to death
-Hia starved to death
-Hia starved to death
-Hia starved to death
-Hia starved to death
-Hia starved to death
-Hia starved to death
-Hjaa starved to death
-Hja starved to death
-Hjab starved to death
-Hjac starved to death
-Hk starved to death
-Hk starved to death
-Hk starved to death
-HC starved to death
-HC starved to death
-HC starved to death
-HC starved to death
-HD starved to death
-HD starved to death
-HD starved to death
-HD starved to death
-HD starved to death
-HD starved to death
-HD starved to death
-Hcaa starved to death
-Hca starved to death
-Hca starved to death
-Hcac starved to death
-Hcab starved to death
-Hcab starved to death
-Hcab starved to death
-Hcx starved to death
-Hcy starved to death
-Hcm starved to death
-Hcm starved to death
-Hcm starved to death
-Hcm starved to death
-Hcn starved to death
-Hcn starved to death
-Hcn starved to death
-Hcp starved to death
-Hcp starved to death
-Hcp starved to death
-Hcq starved to death
-Hcq starved to death
-Hcq starved to death
-Hcq starved to death
-Hct starved to death
-Hcz starved to death
-Hc starved to death
-Hc starved to death
-HcA starved to death
-Hn starved to death
-Hn starved to death
-Hn starved to death
-Hn starved to death
-Hn starved to death
-Hna starved to death
-Hnb starved to death
-Hnc starved to death
-Hnd starved to death
-Hp starved to death
-Hpa starved to death
-Hp starved to death
-Hp starved to death
-Hbc starved to death
-Hbc starved to death
-Hbc starved to death
-Hbc starved to death
-Hbc starved to death
-Hbe starved to death
-Hbe starved to death
-Hbe starved to death
-Hbe starved to death
-Hbe starved to death
-Hbe starved to death
+Odca killed Hfc in a hunt
+Odcb killed Hm in a hunt
+Hod killed Odd in a hunt
+Oaac killed Hm in a hunt
+Oaac killed Hod in a hunt
+Oaac killed Hlb in a hunt
+Hma killed Oaad in a hunt
+Hma killed Oaa in a hunt
+Oaag killed Hod in a hunt
+Hma killed Oaa in a hunt
+Oaai killed Hic in a hunt
+Hf killed Oba in a hunt
+Hma killed Oba in a hunt
+Hma killed Oca in a hunt
+Hma killed Oca in a hunt
+Ocaa killed Hma in a hunt
+Hma killed Ocb in a hunt
+Ocb killed Hbk in a hunt
+Ocb killed Hma in a hunt
+Ocb killed Hlb in a hunt
+Ocbb killed Hf in a hunt
+Occ killed Hof in a hunt
+Occ killed Hog in a hunt
+Hma killed Occ in a hunt
+Hma killed Ode in a hunt
+Hma killed Odh in a hunt
+Odf killed Hma in a hunt
+Oaa killed Hma in a hunt
+Hid killed Oaa in a hunt
+Oae killed Hie in a hunt
+Odc starved to death
+Odc starved to death
+Odca starved to death
+Odcb starved to death
+Odd starved to death
+Odd starved to death
+Odd starved to death
+Ode starved to death
+Ode starved to death
+Ode starved to death
+Oaac starved to death
+Oaad starved to death
+Oaad starved to death
+Oaad starved to death
+Oaa starved to death
+Oaag starved to death
+Oaah starved to death
+Oaai starved to death
+Oa starved to death
+Ocb starved to death
+Ocb starved to death
+Ocb starved to death
+Occ starved to death
+Occ starved to death
+Occ starved to death
+Occ starved to death
+Occa starved to death
+Occc starved to death
+Ocda starved to death
+Ocdb starved to death
+Ocd starved to death
+Ocd starved to death
+Ocdc starved to death
+Ocdd starved to death
+Ocf starved to death
+Odf starved to death
+Odf starved to death
+Odg starved to death
+Oa starved to death
+Oa starved to death
+Oa starved to death
+Oa starved to death
+Oax starved to death
+Oay starved to death
+Oa starved to death
+Oaz starved to death
+OaB starved to death
+OaC starved to death
+Oa starved to death
+Oa starved to death
+Oa starved to death
+Oai starved to death
+Oai starved to death
+Oai starved to death
+Oai starved to death
+Oai starved to death
+Oai starved to death
+Oai starved to death
+Oai starved to death
+Oat starved to death
+Oat starved to death
+Oat starved to death
+Oav starved to death
+Oav starved to death
+Oav starved to death
+Oav starved to death
+Oaa starved to death
+Oa starved to death
+Oa starved to death
+Oa starved to death
+Oae starved to death
+Oaf starved to death
+Oag starved to death
+Oah starved to death
+Oab starved to death
+Od starved to death
+Oe starved to death
+Hf starved to death
+Hlb starved to death
+Hlb starved to death
+Hma starved to death
+Hma starved to death
 Hb starved to death
-Hbo starved to death
 Hb starved to death
-Hbm starved to death
-Hbm starved to death
-Hbm starved to death
-Hbm starved to death
-Hbn starved to death
-Hbn starved to death
-Hx starved to death
-Hx starved to death
-Hx starved to death
-Hx starved to death
-Hxd starved to death
-Hx starved to death
-Hx starved to death
-Hx starved to death
-Hxc starved to death
-Hxc starved to death
-Hxc starved to death
-Hxc starved to death
-Hxc starved to death
-HF starved to death
-HF starved to death
-HF starved to death
-Hic starved to death
-Hic starved to death
-Hic starved to death
-Hid starved to death
-Hid starved to death
-Hid starved to death
 Hi starved to death
-Hi starved to death
-Hi starved to death
-Hi starved to death
-Hi starved to death
-Hi starved to death
-Ha starved to death
-Ha starved to death
-Ha starved to death
-Ha starved to death
-Ha starved to death
-Hai starved to death
-Had starved to death
-Had starved to death
-Haj starved to death
-Ha starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haaa starved to death
-Haaa starved to death
-Haad starved to death
-Haad starved to death
-Ha starved to death
-Hal starved to death
-Ha starved to death
-Ha starved to death
-Hae starved to death
-Hae starved to death
-Hae starved to death
-Haf starved to death
-Haf starved to death
-Haf starved to death
-Haf starved to death
-Hag starved to death
-HE starved to death
-HE starved to death
-HE starved to death
-HE starved to death
-HE starved to death
-HE starved to death
-HEa starved to death
-HEb starved to death
-HEc starved to death
-Hdca starved to death
-Hdca starved to death
-Hdca starved to death
-Hdca starved to death
-Hdc starved to death
-Hdc starved to death
-Hdcc starved to death
-Hdc starved to death
-Hhc survived.
-Hja survived.
-Hja survived.
-HC survived.
-HC survived.
-HD survived.
-Hcaa survived.
-Hcaa survived.
-Hcab survived.
-Hc survived.
-Hc survived.
-Hct survived.
-Hct survived.
-Hct survived.
-HcB survived.
-Hpb survived.
-Hpc survived.
-Hbc survived.
-Hbc survived.
-Hbc survived.
-Hbe survived.
-Hbe survived.
-Hbp survived.
-Hbn survived.
-Hbn survived.
-Hx survived.
-Ha survived.
-Ha survived.
-Ha survived.
-Hah survived.
-Had survived.
-Hak survived.
-Haa survived.
-Haa survived.
-Haa survived.
-Haa survived.
-Haaa survived.
-Haad survived.
-Hae survived.
-Hag survived.
-Hag survived.
-Hag survived.
-HE survived.
+Hod starved to death
+Hod starved to death
+Ho starved to death
+Hma starved to death
+Hm starved to death
+Oaac survived.
+Oaac survived.
+Oaac survived.
+Oaa survived.
+Oaa survived.
+Oa survived.
+Oae survived.
+Oaf survived.
+Ocaa survived.
+Ocb survived.
+Ocb survived.
+Ocba survived.
+Ocbb survived.
+Ocb survived.
+Occ survived.
+Occb survived.
+Ocd survived.
+Oce survived.
+Oce survived.
+Ocfa survived.
+Ocf survived.
+Ode survived.
+Ode survived.
+Odi survived.
+Odj survived.
+Odf survived.
+Odg survived.
+Odg survived.
+OaA survived.
+Oa survived.
+Oa survived.
+Oat survived.
+Oaa survived.
+Oa survived.
+Oa survived.
+Oab survived.
+Oab survived.
+Of survived.
+Hbl survived.
+Hid survived.
+Hoe survived.
 ==========================[ROUND 8]===========================
 ================1st Hunt================
 ================2nd Hunt================
-Hhc starved to death
-Hhc starved to death
-Hja starved to death
-Hjad starved to death
-Hjae starved to death
-HC starved to death
-HC starved to death
-HC starved to death
-HC starved to death
-HDb starved to death
-Hcaaa starved to death
-Hcaa starved to death
-Hcab starved to death
-HcD starved to death
-Hc starved to death
-HcE starved to death
-Hct starved to death
-Hct starved to death
-Hct starved to death
-Hct starved to death
-Hct starved to death
-Hct starved to death
-Hcta starved to death
-Hct starved to death
-HcB starved to death
-HcB starved to death
-Hpb starved to death
-Hpb starved to death
-Hpc starved to death
-Hpc starved to death
-Hbc starved to death
-Hbca starved to death
-Hbcb starved to death
-Hbc starved to death
-Hbc starved to death
-Hbc starved to death
-Hbc starved to death
-Hbc starved to death
-Hbc starved to death
-Hbc starved to death
-Hbe starved to death
-Hbe starved to death
-Hbe starved to death
-Hbe starved to death
-Hbe starved to death
-Hbp starved to death
-Hbp starved to death
-Hbnb starved to death
-Hbn starved to death
-Hbn starved to death
-Hbn starved to death
-Hbn starved to death
-Hx starved to death
-Hx starved to death
-Hx starved to death
-Ha starved to death
-Ha starved to death
-Ha starved to death
-Ha starved to death
-Ha starved to death
-Ham starved to death
-Ha starved to death
-Ha starved to death
-Ha starved to death
-Hah starved to death
-Hah starved to death
-Hah starved to death
-Had starved to death
-Hak starved to death
-Haae starved to death
-Haaf starved to death
-Haa starved to death
-Haag starved to death
-Haa starved to death
-Haah starved to death
-Haai starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haaa starved to death
-Haad starved to death
-Haad starved to death
-Hae starved to death
-Hae starved to death
-Hag starved to death
-Hag starved to death
-Hag starved to death
-Hag starved to death
-Hag starved to death
-Hag starved to death
-Hag starved to death
-Hag starved to death
-Haga starved to death
-HE starved to death
-HE starved to death
-Hhc survived.
-Hja survived.
-Hjaf survived.
-Hjag survived.
-HC survived.
-HC survived.
-HDa survived.
-HD survived.
-HD survived.
-Hcaa survived.
-Hcaa survived.
-Hcaa survived.
-Hcaa survived.
-Hcaba survived.
-Hcab survived.
-Hcab survived.
-Hc survived.
-Hc survived.
-HcC survived.
-Hc survived.
-Hc survived.
-Hct survived.
-Hct survived.
-Hct survived.
-Hct survived.
-Hct survived.
-HcB survived.
-HcB survived.
-HcB survived.
-Hpb survived.
-Hpc survived.
-Hbc survived.
-Hbc survived.
-Hbe survived.
-Hbe survived.
-Hbp survived.
-Hbp survived.
-Hbna survived.
-Hbnc survived.
-Hbn survived.
-Hx survived.
-Ha survived.
-Had survived.
-Had survived.
-Hak survived.
-Hak survived.
-Haa survived.
-Haa survived.
-Haa survived.
-Haa survived.
-Haa survived.
-Haa survived.
-Haaa survived.
-Haaa survived.
-Haad survived.
-Hae survived.
-Hae survived.
-Hag survived.
-Hag survived.
-Hag survived.
-HE survived.
-HE survived.
+Oaaca killed Hid in a hunt
+Hid killed Oaacb in a hunt
+Oaac killed Hid in a hunt
+Hid killed Oaac in a hunt
+Oaacf killed Hid in a hunt
+Hid killed Oaa in a hunt
+Hid killed Oaaj in a hunt
+Hid killed Oaak in a hunt
+Oaa killed Hid in a hunt
+Oaa killed Hbl in a hunt
+Ocaa killed Hbl in a hunt
+Ocaa killed Hoe in a hunt
+Odi killed Hbl in a hunt
+Odga killed Hoe in a hunt
+Hbl killed Odg in a hunt
+Oaab killed Hbl in a hunt
+Oaac starved to death
+Oaac starved to death
+Oaacc starved to death
+Oaac starved to death
+Oaacd starved to death
+Oaace starved to death
+Oaa starved to death
+Oaa starved to death
+Oa starved to death
+Oag starved to death
+Oaf starved to death
+Ocaa starved to death
+Ocbe starved to death
+Ocba starved to death
+Ocba starved to death
+Ocbb starved to death
+Ocbb starved to death
+Ocbb starved to death
+Ocb starved to death
+Occd starved to death
+Occ starved to death
+Occe starved to death
+Occb starved to death
+Occb starved to death
+Occb starved to death
+Ocd starved to death
+Ocdf starved to death
+Oce starved to death
+Oce starved to death
+Oce starved to death
+Ocfa starved to death
+Ocfa starved to death
+Ocfa starved to death
+Ocfb starved to death
+Ocfc starved to death
+Ode starved to death
+Ode starved to death
+Odea starved to death
+Ode starved to death
+Odi starved to death
+Odi starved to death
+Odj starved to death
+Odj starved to death
+Odf starved to death
+Odga starved to death
+Odgb starved to death
+Odgc starved to death
+Odgd starved to death
+Odge starved to death
+OaA starved to death
+OaA starved to death
+OaA starved to death
+OaA starved to death
+OaD starved to death
+OaE starved to death
+OaF starved to death
+OaG starved to death
+OaH starved to death
+Oa starved to death
+OaI starved to death
+OaJ starved to death
+Oat starved to death
+Oat starved to death
+Oat starved to death
+Oat starved to death
+Oaa starved to death
+Oa starved to death
+Oaj starved to death
+Oa starved to death
+Oak starved to death
+Oaba starved to death
+Oabc starved to death
+Oab starved to death
+Oab starved to death
+Oab starved to death
+Of starved to death
+Of starved to death
+Of starved to death
+Of starved to death
+Oaaca survived.
+Oaacf survived.
+Oaacg survived.
+Oaa survived.
+Oaa survived.
+Oaa survived.
+Oae survived.
+Oae survived.
+Oaf survived.
+Ocaa survived.
+Ocaa survived.
+Ocb survived.
+Ocb survived.
+Ocb survived.
+Ocbc survived.
+Ocbd survived.
+Ocba survived.
+Ocbf survived.
+Ocb survived.
+Ocde survived.
+Oce survived.
+Ocf survived.
+Ode survived.
+Ode survived.
+Odi survived.
+Odj survived.
+Odf survived.
+Odf survived.
+Odg survived.
+Oaaa survived.
+Oaab survived.
+Oa survived.
+Oai survived.
+Oabb survived.
+Oabd survived.
+Hoe survived.
 ==========================[ROUND 9]===========================
 ================1st Hunt================
 ================2nd Hunt================
-Hhca starved to death
-Hhcb starved to death
-Hhc starved to death
-Hjah starved to death
-Hjaf starved to death
-Hjaf starved to death
-Hjag starved to death
-Hjag starved to death
-HCa starved to death
-HCb starved to death
-HCc starved to death
-HCd starved to death
-HC starved to death
-HCe starved to death
-HCf starved to death
-HDa starved to death
-HDa starved to death
-HD starved to death
-HD starved to death
-HDd starved to death
-HDe starved to death
-HD starved to death
-Hcaa starved to death
-Hcaab starved to death
-Hcaa starved to death
-Hcaa starved to death
-Hcaa starved to death
-Hcaa starved to death
-Hcaac starved to death
-Hcaad starved to death
-Hcaae starved to death
-Hcaa starved to death
-Hcaba starved to death
-Hcaba starved to death
-Hcaba starved to death
-Hcaba starved to death
-Hcabb starved to death
-Hcab starved to death
-Hcabd starved to death
-Hcabf starved to death
-Hcabg starved to death
-HcF starved to death
-HcG starved to death
-Hc starved to death
-Hc starved to death
-HcH starved to death
-HcI starved to death
-HcJ starved to death
-HcC starved to death
-HcC starved to death
-HcC starved to death
-HcC starved to death
-HcC starved to death
-Hc starved to death
-Hc starved to death
-Hc starved to death
-Hc starved to death
-Hc starved to death
-HcK starved to death
-HcL starved to death
-Hct starved to death
-Hct starved to death
-Hct starved to death
-Hct starved to death
-Hct starved to death
-Hct starved to death
-Hct starved to death
-Hct starved to death
-Hct starved to death
-Hctb starved to death
-Hctc starved to death
-Hct starved to death
-Hct starved to death
-Hctd starved to death
-Hct starved to death
-Hcte starved to death
-Hctf starved to death
-Hct starved to death
-Hct starved to death
-HcB starved to death
-HcB starved to death
-HcB starved to death
-HcB starved to death
-HcB starved to death
-HcB starved to death
-HcB starved to death
-HcB starved to death
-HcB starved to death
-HcB starved to death
-HcBb starved to death
-HcBc starved to death
-Hpb starved to death
-Hpca starved to death
-Hpc starved to death
-Hpcb starved to death
-Hbc starved to death
-Hbc starved to death
-Hbc starved to death
-Hbe starved to death
-Hbe starved to death
-Hbe starved to death
-Hbe starved to death
-Hbe starved to death
-Hbpa starved to death
-Hbpb starved to death
-Hbp starved to death
-Hbp starved to death
-Hbp starved to death
-Hbna starved to death
-Hbna starved to death
-Hbna starved to death
-Hbna starved to death
-Hbnc starved to death
-Hbnc starved to death
-Hbn starved to death
-Hbnd starved to death
-Hbn starved to death
-Hx starved to death
-Hxe starved to death
-Hxg starved to death
-Ha starved to death
-Had starved to death
-Had starved to death
-Hada starved to death
-Hadb starved to death
-Hadc starved to death
-Haka starved to death
-Hakc starved to death
-Hak starved to death
-Haa starved to death
-Haa starved to death
-Haaj starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haak starved to death
-Haa starved to death
-Haal starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haaa starved to death
-Haaa starved to death
-Haaa starved to death
-Haaa starved to death
-Haaa starved to death
-Haad starved to death
-Haad starved to death
-Haad starved to death
-Haea starved to death
-Haec starved to death
-Hae starved to death
-Hae starved to death
-Hae starved to death
-Hagb starved to death
-Hagc starved to death
-Hag starved to death
-Hag starved to death
-Hagd starved to death
-Hag starved to death
-Hage starved to death
-Hag starved to death
-Hagf starved to death
-Hagh starved to death
-Hagi starved to death
-HEe starved to death
-HE starved to death
-HEf starved to death
-HE starved to death
-HEg starved to death
-Hja survived.
-Hja survived.
-Hjaf survived.
-Hjag survived.
-HDa survived.
-HD survived.
-HD survived.
-HDc survived.
-Hcaa survived.
-Hcaa survived.
-Hcabc survived.
-Hcab survived.
-Hcabe survived.
-Hc survived.
-Hc survived.
-Hct survived.
-Hct survived.
-Hct survived.
-HcB survived.
-HcB survived.
-HcBa survived.
-Hpb survived.
-Hpb survived.
-Hbc survived.
-Hbc survived.
-Hbc survived.
-Hbc survived.
-Hbea survived.
-Hbe survived.
-Hbpc survived.
-Hbp survived.
-Hbnc survived.
-Hbnc survived.
-Hxf survived.
-Ha survived.
-Ha survived.
-Had survived.
-Hak survived.
-Hak survived.
-Hakb survived.
-Hak survived.
-Haa survived.
-Haa survived.
-Haa survived.
-Haa survived.
-Haa survived.
-Haaa survived.
-Haeb survived.
-Hae survived.
-Hagg survived.
-HEd survived.
-HE survived.
-HE survived.
+Oaaca killed Hoe in a hunt
+Oaaca killed Hoe in a hunt
+Ocaa killed Hoe in a hunt
+Oaaca starved to death
+Oaaca starved to death
+Oaacf starved to death
+Oaacf starved to death
+Oaacg starved to death
+Oaacg starved to death
+Oaacg starved to death
+Oaa starved to death
+Oaa starved to death
+Oaal starved to death
+Oaa starved to death
+Oaa starved to death
+Oaan starved to death
+Oaao starved to death
+Oaa starved to death
+Oae starved to death
+Oae starved to death
+Oaf starved to death
+Oaf starved to death
+Ocaaa starved to death
+Ocaa starved to death
+Ocaab starved to death
+Ocaa starved to death
+Ocaac starved to death
+Ocb starved to death
+Ocb starved to death
+Ocbh starved to death
+Ocbj starved to death
+Ocbc starved to death
+Ocbc starved to death
+Ocbc starved to death
+Ocba starved to death
+Ocba starved to death
+Ocbf starved to death
+Ocbk starved to death
+Ocde starved to death
+Ocea starved to death
+Oceb starved to death
+Ocf starved to death
+Ocfd starved to death
+Odec starved to death
+Ode starved to death
+Ode starved to death
+Odi starved to death
+Odi starved to death
+Odi starved to death
+Odj starved to death
+Odfa starved to death
+Odf starved to death
+Odf starved to death
+Odfb starved to death
+Odf starved to death
+Odfc starved to death
+Odgf starved to death
+Odgg starved to death
+Odgh starved to death
+Oaaa starved to death
+Oaaa starved to death
+Oaab starved to death
+Oaab starved to death
+Oa starved to death
+Oal starved to death
+Oai starved to death
+Oabb starved to death
+Oabb starved to death
+Oabb starved to death
+Oabd starved to death
+Oabd starved to death
+Oabd starved to death
+Oabd starved to death
+Oaaca survived.
+Oaaca survived.
+Oaacf survived.
+Oaacf survived.
+Oaacg survived.
+Oaa survived.
+Oaam survived.
+Oaa survived.
+Oaap survived.
+Oae survived.
+Oae survived.
+Ocaa survived.
+Ocb survived.
+Ocb survived.
+Ocbg survived.
+Ocb survived.
+Ocbi survived.
+Ocbc survived.
+Ocbd survived.
+Ocbd survived.
+Ocbd survived.
+Ocba survived.
+Ocbf survived.
+Ocbf survived.
+Ocbl survived.
+Ocbm survived.
+Ocde survived.
+Ocf survived.
+Odeb survived.
+Ode survived.
+Ode survived.
+Odj survived.
+Oaaa survived.
+Oam survived.
+Oai survived.
+Oai survived.
+Oai survived.
 ==========================[ROUND 10]===========================
 ================1st Hunt================
 ================2nd Hunt================
-Hja starved to death
-Hja starved to death
-Hja starved to death
-Hja starved to death
-Hja starved to death
-Hjaf starved to death
-Hjag starved to death
-Hjag starved to death
-Hjag starved to death
-HDa starved to death
-HDa starved to death
-HDa starved to death
-HDf starved to death
-HDg starved to death
-HD starved to death
-HD starved to death
-HDc starved to death
-HDc starved to death
-HDc starved to death
-HDc starved to death
-Hcaa starved to death
-Hcaa starved to death
-Hcaa starved to death
-Hcaa starved to death
-Hcaa starved to death
-Hcabc starved to death
-Hcabc starved to death
-Hcabc starved to death
-Hcabc starved to death
-Hcab starved to death
-Hcab starved to death
-Hcabi starved to death
-Hcabe starved to death
-Hcabe starved to death
-Hcabe starved to death
-Hc starved to death
-Hc starved to death
-Hc starved to death
-Hct starved to death
-Hct starved to death
-Hct starved to death
-Hctg starved to death
-Hct starved to death
-Hcth starved to death
-Hct starved to death
-Hct starved to death
-Hcti starved to death
-Hct starved to death
-Hct starved to death
-Hctj starved to death
-Hctk starved to death
-HcB starved to death
-HcB starved to death
-HcB starved to death
-HcB starved to death
-HcB starved to death
-HcB starved to death
-HcB starved to death
-HcB starved to death
-HcB starved to death
-HcB starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-Hpb starved to death
-Hpb starved to death
-Hpb starved to death
-Hpbb starved to death
-Hbc starved to death
-Hbcc starved to death
-Hbc starved to death
-Hbcd starved to death
-Hbc starved to death
-Hbc starved to death
-Hbc starved to death
-Hbc starved to death
-Hbc starved to death
-Hbc starved to death
-Hbc starved to death
-Hbc starved to death
-Hbcf starved to death
-Hbea starved to death
-Hbea starved to death
-Hbea starved to death
-Hbeb starved to death
-Hbec starved to death
-Hbed starved to death
-Hbe starved to death
-Hbpc starved to death
-Hbpc starved to death
-Hbpc starved to death
-Hbp starved to death
-Hbpe starved to death
-Hbnca starved to death
-Hbncb starved to death
-Hbnc starved to death
-Hbnc starved to death
-Hbnc starved to death
-Hbnc starved to death
-Hbnc starved to death
-Hxf starved to death
-Hxf starved to death
-Hxf starved to death
-Han starved to death
-Hao starved to death
-Hap starved to death
-Ha starved to death
-Had starved to death
-Had starved to death
-Had starved to death
-Hak starved to death
-Hakd starved to death
-Hak starved to death
-Hake starved to death
-Hakg starved to death
-Hak starved to death
-Hak starved to death
-Hakb starved to death
-Hakb starved to death
-Hakb starved to death
-Hakb starved to death
-Hakb starved to death
-Hakh starved to death
-Haki starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haam starved to death
-Haa starved to death
-Haan starved to death
-Haao starved to death
-Haaa starved to death
-Haaa starved to death
-Haaa starved to death
-Haeb starved to death
-Haeb starved to death
-Hae starved to death
-Hae starved to death
-Hae starved to death
-Hae starved to death
-Hagg starved to death
-Hagg starved to death
-Hagg starved to death
-HEd starved to death
-HEd starved to death
-HE starved to death
-HE starved to death
-HE starved to death
-HE starved to death
-HE starved to death
-Hja survived.
-Hjaf survived.
-Hjaf survived.
-HD survived.
-HDh survived.
-HD survived.
-HD survived.
-Hcaa survived.
-Hcabc survived.
-Hcabh survived.
-Hcabe survived.
-Hc survived.
-Hc survived.
-HcM survived.
-Hc survived.
-Hc survived.
-Hct survived.
-HcBa survived.
-Hpb survived.
-Hpba survived.
-Hbc survived.
-Hbce survived.
-Hbpd survived.
-Hbp survived.
-Hbnc survived.
-Hxf survived.
-Ha survived.
-Ha survived.
-Hakf survived.
-Hakj survived.
-Haa survived.
-Haeb survived.
-HEd survived.
-HEd survived.
-HEh survived.
-HEi survived.
-HE survived.
+Oaaca starved to death
+Oaaca starved to death
+Oaaca starved to death
+Oaaca starved to death
+Oaaca starved to death
+Oaaca starved to death
+Oaacaa starved to death
+Oaacab starved to death
+Oaacf starved to death
+Oaacf starved to death
+Oaacfa starved to death
+Oaacf starved to death
+Oaacf starved to death
+Oaacf starved to death
+Oaacga starved to death
+Oaacgb starved to death
+Oaacgc starved to death
+Oaacgd starved to death
+Oaa starved to death
+Oaa starved to death
+Oaaq starved to death
+Oaa starved to death
+Oaam starved to death
+Oaam starved to death
+Oaam starved to death
+Oaam starved to death
+Oaar starved to death
+Oaas starved to death
+Oaa starved to death
+Oaat starved to death
+Oaap starved to death
+Oaap starved to death
+Oaap starved to death
+Oaap starved to death
+Oaea starved to death
+Ocaad starved to death
+Ocaa starved to death
+Ocbn starved to death
+Ocb starved to death
+Ocb starved to death
+Ocb starved to death
+Ocb starved to death
+Ocbg starved to death
+Ocb starved to death
+Ocb starved to death
+Ocbo starved to death
+Ocbi starved to death
+Ocbi starved to death
+Ocbi starved to death
+Ocbca starved to death
+Ocbcb starved to death
+Ocbcc starved to death
+Ocbc starved to death
+Ocbda starved to death
+Ocbd starved to death
+Ocbdb starved to death
+Ocbd starved to death
+Ocbd starved to death
+Ocbd starved to death
+Ocbd starved to death
+Ocbd starved to death
+Ocbd starved to death
+Ocba starved to death
+Ocba starved to death
+Ocba starved to death
+Ocbf starved to death
+Ocbf starved to death
+Ocbfa starved to death
+Ocbfb starved to death
+Ocbfc starved to death
+Ocbf starved to death
+Ocbl starved to death
+Ocbm starved to death
+Ocde starved to death
+Ocdea starved to death
+Ocfe starved to death
+Ocf starved to death
+Ocff starved to death
+Odeb starved to death
+Odeb starved to death
+Odeb starved to death
+Oded starved to death
+Odee starved to death
+Odef starved to death
+Odeg starved to death
+Odeh starved to death
+Odei starved to death
+Odja starved to death
+Oaaa starved to death
+Oaaaa starved to death
+Oaaa starved to death
+Oam starved to death
+Oam starved to death
+Oam starved to death
+Oai starved to death
+Oaia starved to death
+Oai starved to death
+Oaib starved to death
+Oaic starved to death
+Oaid starved to death
+Oai starved to death
+Oai starved to death
+Oai starved to death
+Oaacf survived.
+Oaacf survived.
+Oae survived.
+Oae survived.
+Oae survived.
+Ocaae survived.
+Ocb survived.
+Ocbg survived.
+Ocbg survived.
+Ocbdc survived.
+Ocbl survived.
+Ocbm survived.
+Ocbm survived.
+Odjb survived.
+Oai survived.
+Oai survived.
+Oai survived.
 ==========================[ROUND 11]===========================
 ================1st Hunt================
 ================2nd Hunt================
-Hja starved to death
-Hjai starved to death
-Hjaf starved to death
-Hjaf starved to death
-Hjafa starved to death
-HD starved to death
-HD starved to death
-HD starved to death
-HDh starved to death
-HDh starved to death
-HDk starved to death
-Hcaa starved to death
-Hcabc starved to death
-Hcabc starved to death
-Hcabc starved to death
-Hcabc starved to death
-Hcabh starved to death
-Hcabh starved to death
-Hcabh starved to death
-Hcabe starved to death
-Hcabe starved to death
-Hcabe starved to death
-Hcabe starved to death
-Hc starved to death
-Hc starved to death
-Hc starved to death
-HcO starved to death
-HcM starved to death
-HcM starved to death
-HcM starved to death
-HcM starved to death
-Hc starved to death
-Hc starved to death
-Hc starved to death
-Hc starved to death
-HcQ starved to death
-Hct starved to death
-Hct starved to death
-Hct starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-Hpbc starved to death
-Hpba starved to death
-Hpba starved to death
-Hpba starved to death
-Hbc starved to death
-Hbc starved to death
-Hbc starved to death
-Hbce starved to death
-Hbce starved to death
-Hbce starved to death
-Hbpd starved to death
-Hbpd starved to death
-Hbpd starved to death
-Hbp starved to death
-Hbpf starved to death
-Hbp starved to death
-Hbp starved to death
-Hbnc starved to death
-Hbncc starved to death
-Hbnc starved to death
-Hbnc starved to death
-Hxf starved to death
-Hxf starved to death
-Ha starved to death
-Haq starved to death
-Ha starved to death
-Ha starved to death
-Har starved to death
-Hakf starved to death
-Hakf starved to death
-Hakj starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haeb starved to death
-Haeb starved to death
-Haeb starved to death
-HEda starved to death
-HEdb starved to death
-HEd starved to death
-HEd starved to death
-HEd starved to death
-HEh starved to death
-HEh starved to death
-HEh starved to death
-HEi starved to death
-HEi starved to death
-HE starved to death
-HE starved to death
-Hja survived.
-Hjaf survived.
-Hjaf survived.
-Hjafb survived.
-HD survived.
-HDh survived.
-HDh survived.
-HDi survived.
-HD survived.
-HDj survived.
-HD survived.
-HDl survived.
-HDm survived.
-HDn survived.
-Hcaa survived.
-Hcaa survived.
-Hcabc survived.
-Hcabh survived.
-Hc survived.
-HcN survived.
-Hc survived.
-HcP survived.
-HcR survived.
-Hc survived.
-Hct survived.
-HcBa survived.
-Hpb survived.
-Hpb survived.
-Hbc survived.
-Hbpd survived.
-Hxf survived.
-Hxf survived.
-Has survived.
-Hakf survived.
-Hakf survived.
-Hakj survived.
-Hakj survived.
-Hakj survived.
-Haa survived.
-HEdc survived.
-HEd survived.
-HEdd survived.
-HEh survived.
-HEi survived.
-HEi survived.
-HE survived.
-HE survived.
+Oaacfc starved to death
+Ocaae starved to death
+Ocbg starved to death
+Oai starved to death
+Oaacfb survived.
+Oaacf survived.
+Oaacf survived.
+Oaacf survived.
+Oaacf survived.
+Oaacfd survived.
+Oaacfe survived.
+Oae survived.
+Oae survived.
+Oae survived.
+Oae survived.
+Oae survived.
+Oae survived.
+Ocaae survived.
+Ocaae survived.
+Ocb survived.
+Ocbp survived.
+Ocb survived.
+Ocbga survived.
+Ocbgb survived.
+Ocbg survived.
+Ocbg survived.
+Ocbg survived.
+Ocbdc survived.
+Ocbdc survived.
+Ocbdc survived.
+Ocbl survived.
+Ocbl survived.
+Ocbm survived.
+Ocbm survived.
+Ocbm survived.
+Ocbm survived.
+Ocbma survived.
+Odjb survived.
+Odjb survived.
+Oaie survived.
+Oai survived.
+Oaif survived.
+Oai survived.
+Oaig survived.
+Oai survived.
+Oaih survived.
+Oai survived.
+Oai survived.
+Oai survived.
+Oai survived.
 ==========================[ROUND 12]===========================
 ================1st Hunt================
 ================2nd Hunt================
-Hja starved to death
-Hjaj starved to death
-Hja starved to death
-Hjaf starved to death
-Hjaf starved to death
-Hjafc starved to death
-Hjaf starved to death
-Hjaf starved to death
-Hjaf starved to death
-Hjafb starved to death
-Hjafb starved to death
-Hjafb starved to death
-HD starved to death
-HD starved to death
-HD starved to death
-HDh starved to death
-HDh starved to death
-HDh starved to death
-HDh starved to death
-HDha starved to death
-HDhb starved to death
-HDhc starved to death
-HDhd starved to death
-HDi starved to death
-HDi starved to death
-HDi starved to death
-HD starved to death
-HD starved to death
-HD starved to death
-HDj starved to death
-HDj starved to death
-HDj starved to death
-HD starved to death
-HD starved to death
-HDp starved to death
-HDl starved to death
-HDl starved to death
-HDm starved to death
-HDm starved to death
-HDm starved to death
-HDm starved to death
-HDn starved to death
-HDn starved to death
-HDn starved to death
-Hcaaf starved to death
-Hcaa starved to death
-Hcaag starved to death
-Hcaa starved to death
-Hcabc starved to death
-Hcabc starved to death
-Hcabc starved to death
-Hcabc starved to death
-Hcabh starved to death
-Hcabh starved to death
-Hcabh starved to death
-HcS starved to death
-Hc starved to death
-HcU starved to death
-HcN starved to death
-HcN starved to death
-HcV starved to death
-HcW starved to death
-Hc starved to death
-HcP starved to death
-HcP starved to death
-HcP starved to death
-HcR starved to death
-HcR starved to death
-HcR starved to death
-HcR starved to death
-Hc starved to death
-Hc starved to death
-Hc starved to death
-Hc starved to death
-Hct starved to death
-Hct starved to death
-HcBa starved to death
-HcBa starved to death
-Hpb starved to death
-Hpb starved to death
-Hpb starved to death
-Hpbd starved to death
-Hpbe starved to death
-Hpbf starved to death
-Hbc starved to death
-Hbc starved to death
-Hbcg starved to death
-Hbc starved to death
-Hbc starved to death
-Hbpd starved to death
-Hxfa starved to death
-Hxfb starved to death
-Hxf starved to death
-Hxfc starved to death
-Hxfd starved to death
-Hxf starved to death
-Hxf starved to death
-Hxf starved to death
-Has starved to death
-Has starved to death
-Hakf starved to death
-Hakf starved to death
-Hakf starved to death
-Hakf starved to death
-Hakj starved to death
-Hakj starved to death
-Hakj starved to death
-Hakj starved to death
-Hakj starved to death
-Hakj starved to death
-Hakja starved to death
-Hakj starved to death
-Hakj starved to death
-Hakj starved to death
-Haa starved to death
-Haa starved to death
-HEdc starved to death
-HEdc starved to death
-HEdc starved to death
-HEdc starved to death
-HEd starved to death
-HEd starved to death
-HEd starved to death
-HEd starved to death
-HEdd starved to death
-HEdd starved to death
-HEh starved to death
-HEh starved to death
-HEia starved to death
-HEib starved to death
-HEic starved to death
-HEid starved to death
-HEie starved to death
-HEi starved to death
-HEif starved to death
-HEi starved to death
-HE starved to death
-HEj starved to death
-HEk starved to death
-HE starved to death
-HE starved to death
-HEl starved to death
-HE starved to death
-Hjaf survived.
-HD survived.
-HDi survived.
-HDo survived.
-HD survived.
-HDl survived.
-HDl survived.
-HDn survived.
-Hcaa survived.
-Hcaa survived.
-Hcabc survived.
-HcT survived.
-HcN survived.
-HcN survived.
-HcP survived.
-Hct survived.
-Hct survived.
-HcBa survived.
-HcBa survived.
-Hbpda survived.
-Hbpd survived.
-Hbpd survived.
-Has survived.
-Hakf survived.
-Hakf survived.
-Hakf survived.
-Hakj survived.
-Hakj survived.
-Hakj survived.
-Haa survived.
-Haa survived.
-HEdd survived.
-HEdd survived.
-HEh survived.
-HEh survived.
-HE survived.
-HEm survived.
+Oaacfb starved to death
+Oaacfb starved to death
+Oaacfb starved to death
+Oaacfb starved to death
+Oaacff starved to death
+Oaacf starved to death
+Oaacfh starved to death
+Oaacf starved to death
+Oaacf starved to death
+Oaacf starved to death
+Oaacf starved to death
+Oaacf starved to death
+Oaacfd starved to death
+Oaacfd starved to death
+Oaacfd starved to death
+Oaacfe starved to death
+Oaacfe starved to death
+Oaacfe starved to death
+Oae starved to death
+Oae starved to death
+Oaeb starved to death
+Oaec starved to death
+Oae starved to death
+Oae starved to death
+Oae starved to death
+Oae starved to death
+Oae starved to death
+Oae starved to death
+Oae starved to death
+Oae starved to death
+Ocaae starved to death
+Ocaae starved to death
+Ocaae starved to death
+Ocaae starved to death
+Ocb starved to death
+Ocb starved to death
+Ocbp starved to death
+Ocbp starved to death
+Ocbp starved to death
+Ocbq starved to death
+Ocb starved to death
+Ocbga starved to death
+Ocbga starved to death
+Ocbga starved to death
+Ocbgb starved to death
+Ocbgb starved to death
+Ocbgb starved to death
+Ocbgd starved to death
+Ocbge starved to death
+Ocbg starved to death
+Ocbgf starved to death
+Ocbg starved to death
+Ocbg starved to death
+Ocbg starved to death
+Ocbdc starved to death
+Ocbdc starved to death
+Ocbdc starved to death
+Ocbdc starved to death
+Ocbdc starved to death
+Ocbdc starved to death
+Ocbl starved to death
+Ocbl starved to death
+Ocbm starved to death
+Ocbm starved to death
+Ocbmd starved to death
+Ocbme starved to death
+Ocbmf starved to death
+Ocbm starved to death
+Ocbm starved to death
+Ocbma starved to death
+Ocbma starved to death
+Odjb starved to death
+Odjba starved to death
+Odjb starved to death
+Oaie starved to death
+Oaie starved to death
+Oaie starved to death
+Oai starved to death
+Oai starved to death
+Oai starved to death
+Oai starved to death
+Oaif starved to death
+Oaif starved to death
+Oaif starved to death
+Oaif starved to death
+Oai starved to death
+Oai starved to death
+Oai starved to death
+Oaig starved to death
+Oaig starved to death
+Oaig starved to death
+Oaii starved to death
+Oai starved to death
+Oaij starved to death
+Oaik starved to death
+Oaih starved to death
+Oaih starved to death
+Oaih starved to death
+Oaih starved to death
+Oail starved to death
+Oaim starved to death
+Oain starved to death
+Oai starved to death
+Oai starved to death
+Oai starved to death
+Oaio starved to death
+Oaip starved to death
+Oaiq starved to death
+Oair starved to death
+Oai starved to death
+Oais starved to death
+Oait starved to death
+Oaacf survived.
+Oaacfg survived.
+Oaacf survived.
+Oaacf survived.
+Oaacf survived.
+Oaacfi survived.
+Oaacfj survived.
+Oaacfk survived.
+Oaacfd survived.
+Oaacfe survived.
+Ocaae survived.
+Ocaae survived.
+Ocb survived.
+Ocbp survived.
+Ocbr survived.
+Ocbgc survived.
+Ocbg survived.
+Ocbdc survived.
+Ocbdca survived.
+Ocbla survived.
+Ocbl survived.
+Ocbmb survived.
+Ocbmc survived.
+Ocbm survived.
+Ocbm survived.
+Odjb survived.
+Oaie survived.
+Oai survived.
+Oaig survived.
+Oai survived.
+Oai survived.
+Oai survived.
 ==========================[ROUND 13]===========================
 ================1st Hunt================
 ================2nd Hunt================
-HD starved to death
-HDq starved to death
-HDr starved to death
-HDi starved to death
-HDo starved to death
-HDo starved to death
-HDo starved to death
-HDo starved to death
-HD starved to death
-HD starved to death
-HD starved to death
-HDl starved to death
-HDl starved to death
-HDl starved to death
-HDl starved to death
-HDl starved to death
-HDl starved to death
-HDl starved to death
-HDna starved to death
-HDn starved to death
-Hcaah starved to death
-Hcaai starved to death
-Hcaak starved to death
-Hcabc starved to death
-Hcabc starved to death
-Hcabc starved to death
-Hcabc starved to death
-HcT starved to death
-HcT starved to death
-HcT starved to death
-HcT starved to death
-HcN starved to death
-HcN starved to death
-HcN starved to death
-HcN starved to death
-HcN starved to death
-HcP starved to death
-HcP starved to death
-Hct starved to death
-Hct starved to death
-Hct starved to death
-Hct starved to death
-HcBa starved to death
-HcBa starved to death
-HcBaa starved to death
-HcBab starved to death
-Hbpda starved to death
-Hbpda starved to death
-Hbpda starved to death
-Hbpdb starved to death
-Hbpd starved to death
-Hbpdd starved to death
-Hbpd starved to death
-Hbpd starved to death
-Hbpdf starved to death
-Has starved to death
-Hakfa starved to death
-Hakfb starved to death
-Hakf starved to death
-Hakfc starved to death
-Hakf starved to death
-Hakf starved to death
-Hakf starved to death
-Hakf starved to death
-Hakf starved to death
-Hakjb starved to death
-Hakjc starved to death
-Hakje starved to death
-Hakjf starved to death
-Hakj starved to death
-Hakj starved to death
-Hakj starved to death
-Hakjg starved to death
-Hakj starved to death
-Hakj starved to death
-Hakj starved to death
-Hakj starved to death
-Hakj starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-Haa starved to death
-HEdd starved to death
-HEdd starved to death
-HEdd starved to death
-HEh starved to death
-HEh starved to death
-HEh starved to death
-HEh starved to death
-HEh starved to death
-HE starved to death
-HEn starved to death
-HEo starved to death
-HEm starved to death
-HEm starved to death
-HEm starved to death
-Hjaf survived.
-Hjaf survived.
-Hjafd survived.
-HD survived.
-HDi survived.
-HDi survived.
-HDi survived.
-HD survived.
-HDnb survived.
-HDn survived.
-Hcaaj survived.
-Hcaal survived.
-Hcaa survived.
-Hcabc survived.
-HcN survived.
-HcN survived.
-HcN survived.
-HcP survived.
-HcP survived.
-Hctl survived.
-Hct survived.
-Hct survived.
-Hct survived.
-HcBa survived.
-HcBa survived.
-HcBa survived.
-HcBac survived.
-Hbpda survived.
-Hbpdc survived.
-Hbpde survived.
-Has survived.
-Has survived.
-Hakf survived.
-Hakjd survived.
-Haa survived.
-HEdd survived.
-HEdd survived.
-HEdd survived.
-HEdd survived.
-HEdd survived.
-HEh survived.
-HEh survived.
-HEp survived.
-HEm survived.
-HEm survived.
+Oaacfl starved to death
+Oaacfm starved to death
+Oaacf starved to death
+Oaacf starved to death
+Oaacfg starved to death
+Oaacfg starved to death
+Oaacfg starved to death
+Oaacfg starved to death
+Oaacfn starved to death
+Oaacfo starved to death
+Oaacfp starved to death
+Oaacf starved to death
+Oaacf starved to death
+Oaacf starved to death
+Oaacf starved to death
+Oaacf starved to death
+Oaacf starved to death
+Oaacfq starved to death
+Oaacfi starved to death
+Oaacfj starved to death
+Oaacfj starved to death
+Oaacfk starved to death
+Oaacfk starved to death
+Oaacfk starved to death
+Oaacfk starved to death
+Oaacfd starved to death
+Oaacfd starved to death
+Oaacfd starved to death
+Oaacfe starved to death
+Oaacfe starved to death
+Oaacfe starved to death
+Oaacfe starved to death
+Ocaae starved to death
+Ocaae starved to death
+Ocaae starved to death
+Ocaae starved to death
+Ocaaea starved to death
+Ocb starved to death
+Ocb starved to death
+Ocb starved to death
+Ocbp starved to death
+Ocbr starved to death
+Ocbgc starved to death
+Ocbgc starved to death
+Ocbg starved to death
+Ocbg starved to death
+Ocbg starved to death
+Ocbdc starved to death
+Ocbdca starved to death
+Ocbla starved to death
+Ocbl starved to death
+Ocblb starved to death
+Ocbmb starved to death
+Ocbmb starved to death
+Ocbmc starved to death
+Ocbmc starved to death
+Ocbmc starved to death
+Ocbmg starved to death
+Ocbmh starved to death
+Ocbmj starved to death
+Ocbmk starved to death
+Odjbb starved to death
+Oaiea starved to death
+Oaie starved to death
+Oai starved to death
+Oai starved to death
+Oai starved to death
+Oaiga starved to death
+Oai starved to death
+Oai starved to death
+Oai starved to death
+Oai starved to death
+Oai starved to death
+Oai starved to death
+Oai starved to death
+Oai starved to death
+Oai starved to death
+Oaiu starved to death
+Oai starved to death
+Oai starved to death
+Oaacf survived.
+Oaacf survived.
+Oaacfi survived.
+Oaacfi survived.
+Oaacfj survived.
+Oaacfj survived.
+Oaacfd survived.
+Ocaae survived.
+Ocbp survived.
+Ocbp survived.
+Ocbp survived.
+Ocbr survived.
+Ocbr survived.
+Ocbgc survived.
+Ocbdc survived.
+Ocbdc survived.
+Ocbdca survived.
+Ocbla survived.
+Ocbla survived.
+Ocbmb survived.
+Ocbm survived.
+Ocbmi survived.
+Odjb survived.
+Oaie survived.
+Oaie survived.
+Oai survived.
+Oaig survived.
+Oaig survived.
 ==========================[ROUND 14]===========================
 ================1st Hunt================
 ================2nd Hunt================
-Hjaf starved to death
-Hjaf starved to death
-Hjaff starved to death
-Hjaf starved to death
-Hjafd starved to death
-Hjafd starved to death
-Hjafd starved to death
-HD starved to death
-HDt starved to death
-HDia starved to death
-HDi starved to death
-HDib starved to death
-HDi starved to death
-HDi starved to death
-HDi starved to death
-HDi starved to death
-HDi starved to death
-HDi starved to death
-HDi starved to death
-HD starved to death
-HD starved to death
-HDnb starved to death
-HDnb starved to death
-HDnb starved to death
-HDnb starved to death
-HDnc starved to death
-HDnd starved to death
-HDne starved to death
-Hcaaj starved to death
-Hcaaj starved to death
-Hcaaj starved to death
-Hcaal starved to death
-Hcaal starved to death
-Hcaam starved to death
-Hcabc starved to death
-Hcabc starved to death
-Hcabc starved to death
-Hcabc starved to death
-HcN starved to death
-HcN starved to death
-HcNa starved to death
-HcNb starved to death
-HcN starved to death
-HcN starved to death
-HcN starved to death
-HcN starved to death
-HcN starved to death
-HcN starved to death
-HcP starved to death
-HcP starved to death
-HcP starved to death
-HcP starved to death
-HcP starved to death
-HcP starved to death
-HcP starved to death
-HcP starved to death
-Hctl starved to death
-Hctl starved to death
-Hct starved to death
-Hctm starved to death
-Hct starved to death
-Hct starved to death
-Hct starved to death
-Hctn starved to death
-Hct starved to death
-Hct starved to death
-Hct starved to death
-Hct starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBae starved to death
-HcBa starved to death
-HcBa starved to death
-HcBac starved to death
-HcBac starved to death
-HcBac starved to death
-HcBac starved to death
-Hbpdab starved to death
-Hbpdac starved to death
-Hbpdc starved to death
-Hbpdc starved to death
-Hbpdc starved to death
-Hbpdc starved to death
-Hbpde starved to death
-Hbpde starved to death
-Hbpde starved to death
-Hbpde starved to death
-Hasa starved to death
-Has starved to death
-Has starved to death
-Hakf starved to death
-Hakf starved to death
-Hakjd starved to death
-Hakjd starved to death
-Hakjd starved to death
-Hakjd starved to death
-Haap starved to death
-Haa starved to death
-Haar starved to death
-HEdd starved to death
-HEdd starved to death
-HEdd starved to death
-HEdd starved to death
-HEdd starved to death
-HEdd starved to death
-HEdda starved to death
-HEdd starved to death
-HEdd starved to death
-HEddb starved to death
-HEddc starved to death
-HEdd starved to death
-HEdd starved to death
-HEdd starved to death
-HEddd starved to death
-HEh starved to death
-HEh starved to death
-HEh starved to death
-HEh starved to death
-HEh starved to death
-HEp starved to death
-HEp starved to death
-HEp starved to death
-HEp starved to death
-HEmb starved to death
-HEmc starved to death
-HEmd starved to death
-HEm starved to death
-HEmg starved to death
-HEm starved to death
-HEm starved to death
-Hjafe survived.
-Hjaf survived.
-HDs survived.
-HD survived.
-HDic survived.
-HD survived.
-HD survived.
-HDn survived.
-Hcaal survived.
-Hcaa survived.
-Hcaa survived.
-Hcabc survived.
-HcN survived.
-HcN survived.
-Hctl survived.
-Hctl survived.
-Hct survived.
-Hct survived.
-HcBa survived.
-HcBa survived.
-HcBa survived.
-HcBa survived.
-HcBa survived.
-HcBad survived.
-Hbpdaa survived.
-Has survived.
-Hasb survived.
-Has survived.
-Hakfd survived.
-Hakjd survived.
-Haaq survived.
-HEdd survived.
-HEdd survived.
-HEdde survived.
-HEdd survived.
-HEdd survived.
-HEh survived.
-HEha survived.
-HEma survived.
-HEme survived.
-HEmf survived.
+Oaacf starved to death
+Oaacf starved to death
+Oaacf starved to death
+Oaacfr starved to death
+Oaacfs starved to death
+Oaacft starved to death
+Oaacfu starved to death
+Oaacfi starved to death
+Oaacfia starved to death
+Oaacfi starved to death
+Oaacfi starved to death
+Oaacfj starved to death
+Oaacfja starved to death
+Oaacfjc starved to death
+Oaacfj starved to death
+Oaacfj starved to death
+Oaacfd starved to death
+Oaacfd starved to death
+Oaacfd starved to death
+Ocaae starved to death
+Ocaae starved to death
+Ocaaeb starved to death
+Ocbp starved to death
+Ocbpa starved to death
+Ocbpb starved to death
+Ocbpc starved to death
+Ocbp starved to death
+Ocbp starved to death
+Ocbp starved to death
+Ocbp starved to death
+Ocbp starved to death
+Ocbp starved to death
+Ocbp starved to death
+Ocbr starved to death
+Ocbrc starved to death
+Ocbr starved to death
+Ocbgca starved to death
+Ocbgcb starved to death
+Ocbgc starved to death
+Ocbdcb starved to death
+Ocbdc starved to death
+Ocbdc starved to death
+Ocbdc starved to death
+Ocbdc starved to death
+Ocbdcaa starved to death
+Ocbdca starved to death
+Ocbla starved to death
+Ocbla starved to death
+Ocbla starved to death
+Ocbla starved to death
+Ocbla starved to death
+Ocbmb starved to death
+Ocbmb starved to death
+Ocbml starved to death
+Ocbm starved to death
+Odjbc starved to death
+Oaieb starved to death
+Oaiec starved to death
+Oaie starved to death
+Oaie starved to death
+Oaie starved to death
+Oaie starved to death
+Oaied starved to death
+Oaie starved to death
+Oai starved to death
+Oai starved to death
+Oai starved to death
+Oaig starved to death
+Oaig starved to death
+Oaigb starved to death
+Oaigd starved to death
+Oaacf survived.
+Oaacfi survived.
+Oaacfi survived.
+Oaacfi survived.
+Oaacfjb survived.
+Oaacfj survived.
+Oaacfj survived.
+Oaacfd survived.
+Ocbp survived.
+Ocbra survived.
+Ocbrb survived.
+Ocbdc survived.
+Ocbla survived.
+Ocbmb survived.
+Ocbm survived.
+Ocbmi survived.
+Ocbmi survived.
+Odjb survived.
+Oai survived.
+Oaig survived.
+Oaigc survived.
 ==========================[ROUND 15]===========================
 ================1st Hunt================
 ================2nd Hunt================
-Hjafe starved to death
-Hjafe starved to death
-Hjafe starved to death
-Hjafe starved to death
-Hjaf starved to death
-Hjaf starved to death
-HDs starved to death
-HDs starved to death
-HDs starved to death
-HDs starved to death
-HD starved to death
-HD starved to death
-HD starved to death
-HD starved to death
-HDu starved to death
-HD starved to death
-HD starved to death
-HD starved to death
-HD starved to death
-HDv starved to death
-HDw starved to death
-HDn starved to death
-HDnf starved to death
-HDnh starved to death
-Hcaal starved to death
-Hcaal starved to death
-Hcaala starved to death
-Hcaa starved to death
-Hcaan starved to death
-Hcaao starved to death
-Hcaap starved to death
-Hcaaq starved to death
-Hcaa starved to death
-Hcabc starved to death
-Hcabc starved to death
-Hcabca starved to death
-Hcabc starved to death
-HcN starved to death
-HcN starved to death
-HcN starved to death
-HcN starved to death
-HcN starved to death
-HcN starved to death
-Hctl starved to death
-Hctl starved to death
-Hctl starved to death
-Hctla starved to death
-Hctlb starved to death
-Hctl starved to death
-Hctl starved to death
-Hcto starved to death
-Hctq starved to death
-Hct starved to death
-Hct starved to death
-Hct starved to death
-Hct starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBad starved to death
-HcBad starved to death
-HcBad starved to death
-HcBad starved to death
-Hbpdaa starved to death
-Hbpdaa starved to death
-Has starved to death
-Has starved to death
-Hasb starved to death
-Hasb starved to death
-Hasb starved to death
-Hasc starved to death
-Has starved to death
-Has starved to death
-Hakfd starved to death
-Hakfd starved to death
-Hakfd starved to death
-Hakjd starved to death
-Hakjd starved to death
-Hakjd starved to death
-Hakjd starved to death
-Hakjd starved to death
-Haaq starved to death
-Haaq starved to death
-Haaq starved to death
-Haaq starved to death
-HEdd starved to death
-HEddf starved to death
-HEddg starved to death
-HEddh starved to death
-HEdd starved to death
-HEddj starved to death
-HEdde starved to death
-HEdde starved to death
-HEdde starved to death
-HEdde starved to death
-HEddk starved to death
-HEddl starved to death
-HEddm starved to death
-HEdd starved to death
-HEdd starved to death
-HEdd starved to death
-HEdd starved to death
-HEh starved to death
-HEh starved to death
-HEha starved to death
-HEha starved to death
-HEma starved to death
-HEma starved to death
-HEme starved to death
-HEme starved to death
-HEme starved to death
-HEme starved to death
-HEme starved to death
-HEme starved to death
-HEmf starved to death
-HEmf starved to death
-HEmf starved to death
-HEmf starved to death
-HEmf starved to death
-HEmf starved to death
-Hjaf survived.
-HDs survived.
-HDic survived.
-HDic survived.
-HDic survived.
-HDic survived.
-HD survived.
-HDng survived.
-HcN survived.
-HcN survived.
-Hctl survived.
-Hctp survived.
-Hct survived.
-HcBa survived.
-HcBa survived.
-HcBa survived.
-HcBa survived.
-HcBaf survived.
-HcBag survived.
-HcBa survived.
-HcBa survived.
-HcBa survived.
-Hbpdaa survived.
-Has survived.
-HEdd survived.
-HEddi survived.
-HEdde survived.
-HEdd survived.
-HEhb survived.
-HEha survived.
-HEma survived.
+Oaacfj starved to death
+Oaacfj starved to death
+Oaacfj starved to death
+Oaacfda starved to death
+Ocbdc starved to death
+Ocbmba starved to death
+Ocbmbc starved to death
+Oai starved to death
+Oaacfv survived.
+Oaacfw survived.
+Oaacfx survived.
+Oaacfi survived.
+Oaacfi survived.
+Oaacfi survived.
+Oaacfi survived.
+Oaacfi survived.
+Oaacfi survived.
+Oaacfi survived.
+Oaacfi survived.
+Oaacfi survived.
+Oaacfjb survived.
+Oaacfjb survived.
+Oaacfjb survived.
+Oaacfjb survived.
+Oaacfj survived.
+Oaacfj survived.
+Oaacfj survived.
+Oaacfj survived.
+Oaacfj survived.
+Oaacfd survived.
+Oaacfd survived.
+Oaacfdb survived.
+Ocbp survived.
+Ocbp survived.
+Ocbp survived.
+Ocbp survived.
+Ocbra survived.
+Ocbra survived.
+Ocbrb survived.
+Ocbrb survived.
+Ocbdc survived.
+Ocbdc survived.
+Ocbla survived.
+Ocbla survived.
+Ocbla survived.
+Ocbmbb survived.
+Ocbmm survived.
+Ocbm survived.
+Ocbmn survived.
+Ocbmi survived.
+Ocbmi survived.
+Ocbmi survived.
+Ocbmi survived.
+Odjb survived.
+Odjb survived.
+Oai survived.
+Oai survived.
+Oai survived.
+Oaig survived.
+Oaig survived.
+Oaige survived.
+Oaigc survived.
+Oaigc survived.
+Oaigc survived.
 ==========================[ROUND 16]===========================
 ================1st Hunt================
 ================2nd Hunt================
-HDs starved to death
-HDs starved to death
-HDs starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HD starved to death
-HD starved to death
-HD starved to death
-HDng starved to death
-HDng starved to death
-HcN starved to death
-HcN starved to death
-HcN starved to death
-HcNe starved to death
-HcN starved to death
-Hctl starved to death
-Hctlc starved to death
-Hctl starved to death
-Hctp starved to death
-Hctp starved to death
-Hct starved to death
-Hct starved to death
-Hctr starved to death
-Hct starved to death
-HcBah starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBai starved to death
-HcBa starved to death
-HcBaf starved to death
-HcBaf starved to death
-HcBag starved to death
-HcBag starved to death
-HcBag starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-Hbpdaa starved to death
-Hbpdaa starved to death
-Has starved to death
-HEdd starved to death
-HEddi starved to death
-HEdde starved to death
-HEdde starved to death
-HEdde starved to death
-HEdde starved to death
-HEdd starved to death
-HEdd starved to death
-HEdd starved to death
-HEhb starved to death
-HEha starved to death
-HEha starved to death
-HEhaa starved to death
-HEma starved to death
-HEma starved to death
-HEma starved to death
-Hjafg survived.
-Hjaf survived.
-Hjaf survived.
-HDs survived.
-HDs survived.
-HDic survived.
-HDic survived.
-HDic survived.
-HDic survived.
-HDic survived.
-HDic survived.
-HDic survived.
-HDic survived.
-HD survived.
-HDng survived.
-HDng survived.
-HcNc survived.
-HcN survived.
-HcN survived.
-HcNd survived.
-Hctl survived.
-Hctp survived.
-Hctp survived.
-HcBa survived.
-HcBa survived.
-HcBa survived.
-HcBa survived.
-HcBa survived.
-HcBa survived.
-HcBa survived.
-HcBa survived.
-HcBaf survived.
-HcBag survived.
-HcBaj survived.
-HcBak survived.
-HcBa survived.
-HcBa survived.
-HcBa survived.
-HcBal survived.
-HcBa survived.
-Hbpdaa survived.
-Hasd survived.
-Has survived.
-HEdd survived.
-HEdd survived.
-HEdd survived.
-HEddi survived.
-HEddi survived.
-HEddi survived.
-HEddi survived.
-HEddea survived.
-HEdd survived.
-HEhb survived.
-HEhb survived.
+Oaacfv starved to death
+Oaacfv starved to death
+Oaacfv starved to death
+Oaacfw starved to death
+Oaacfw starved to death
+Oaacfw starved to death
+Oaacfx starved to death
+Oaacfx starved to death
+Oaacfx starved to death
+Oaacfi starved to death
+Oaacfib starved to death
+Oaacfic starved to death
+Oaacfi starved to death
+Oaacfi starved to death
+Oaacfid starved to death
+Oaacfie starved to death
+Oaacfif starved to death
+Oaacfig starved to death
+Oaacfih starved to death
+Oaacfi starved to death
+Oaacfii starved to death
+Oaacfi starved to death
+Oaacfi starved to death
+Oaacfi starved to death
+Oaacfij starved to death
+Oaacfik starved to death
+Oaacfil starved to death
+Oaacfim starved to death
+Oaacfin starved to death
+Oaacfi starved to death
+Oaacfi starved to death
+Oaacfi starved to death
+Oaacfi starved to death
+Oaacfio starved to death
+Oaacfjb starved to death
+Oaacfjba starved to death
+Oaacfjb starved to death
+Oaacfjb starved to death
+Oaacfjb starved to death
+Oaacfjbb starved to death
+Oaacfjbc starved to death
+Oaacfjb starved to death
+Oaacfjb starved to death
+Oaacfjb starved to death
+Oaacfjb starved to death
+Oaacfjb starved to death
+Oaacfjb starved to death
+Oaacfjb starved to death
+Oaacfjb starved to death
+Oaacfjb starved to death
+Oaacfj starved to death
+Oaacfj starved to death
+Oaacfj starved to death
+Oaacfj starved to death
+Oaacfj starved to death
+Oaacfjd starved to death
+Oaacfje starved to death
+Oaacfj starved to death
+Oaacfjf starved to death
+Oaacfj starved to death
+Oaacfj starved to death
+Oaacfj starved to death
+Oaacfj starved to death
+Oaacfj starved to death
+Oaacfj starved to death
+Oaacfj starved to death
+Oaacfj starved to death
+Oaacfj starved to death
+Oaacfj starved to death
+Oaacfd starved to death
+Oaacfd starved to death
+Oaacfd starved to death
+Oaacfd starved to death
+Oaacfd starved to death
+Oaacfdc starved to death
+Oaacfd starved to death
+Oaacfdd starved to death
+Oaacfdb starved to death
+Oaacfdb starved to death
+Oaacfdb starved to death
+Oaacfdb starved to death
+Ocbpd starved to death
+Ocbpe starved to death
+Ocbp starved to death
+Ocbp starved to death
+Ocbpf starved to death
+Ocbpg starved to death
+Ocbph starved to death
+Ocbp starved to death
+Ocbp starved to death
+Ocbpi starved to death
+Ocbpj starved to death
+Ocbpk starved to death
+Ocbp starved to death
+Ocbp starved to death
+Ocbp starved to death
+Ocbp starved to death
+Ocbraa starved to death
+Ocbra starved to death
+Ocbra starved to death
+Ocbrb starved to death
+Ocbrba starved to death
+Ocbrbb starved to death
+Ocbdc starved to death
+Ocbdc starved to death
+Ocbdc starved to death
+Ocbdcc starved to death
+Ocbdcd starved to death
+Ocbdc starved to death
+Ocbla starved to death
+Ocbla starved to death
+Ocbla starved to death
+Ocbla starved to death
+Ocbla starved to death
+Ocbla starved to death
+Ocbla starved to death
+Ocblaa starved to death
+Ocbla starved to death
+Ocbmbb starved to death
+Ocbmbb starved to death
+Ocbmbb starved to death
+Ocbmm starved to death
+Ocbmm starved to death
+Ocbmm starved to death
+Ocbmm starved to death
+Ocbm starved to death
+Ocbm starved to death
+Ocbmo starved to death
+Ocbmn starved to death
+Ocbmi starved to death
+Ocbmi starved to death
+Ocbmi starved to death
+Ocbmia starved to death
+Ocbmib starved to death
+Odjbd starved to death
+Odjbe starved to death
+Odjb starved to death
+Odjb starved to death
+Oai starved to death
+Oai starved to death
+Oai starved to death
+Oai starved to death
+Oaiv starved to death
+Oai starved to death
+Oai starved to death
+Oai starved to death
+Oai starved to death
+Oai starved to death
+Oai starved to death
+Oai starved to death
+Oaig starved to death
+Oaig starved to death
+Oaig starved to death
+Oaigf starved to death
+Oaigg starved to death
+Oaigh starved to death
+Oaige starved to death
+Oaige starved to death
+Oaige starved to death
+Oaigc starved to death
+Oaigc starved to death
+Oaigc starved to death
+Oaigca starved to death
+Oaigcb starved to death
+Oaigc starved to death
+Oaigcc starved to death
+Oaigc starved to death
+Oaigc starved to death
+Oaigcd starved to death
+Oaacfi survived.
+Oaacfi survived.
+Ocbrab survived.
+Ocbrb survived.
+Ocbmn survived.
+Ocbmi survived.
+Ocbmi survived.
+Ocbmi survived.
 ==========================[ROUND 17]===========================
 ================1st Hunt================
 ================2nd Hunt================
-Hjafg starved to death
-Hjafg starved to death
-Hjafg starved to death
-Hjafi starved to death
-Hjaf starved to death
-Hjaf starved to death
-HDs starved to death
-HDs starved to death
-HDs starved to death
-HDs starved to death
-HDs starved to death
-HDs starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDica starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HD starved to death
-HD starved to death
-HD starved to death
-HDnga starved to death
-HDngb starved to death
-HDngc starved to death
-HDng starved to death
-HDnge starved to death
-HDngf starved to death
-HcNc starved to death
-HcNc starved to death
-HcNc starved to death
-HcNc starved to death
-HcN starved to death
-HcNf starved to death
-HcN starved to death
-HcN starved to death
-HcN starved to death
-HcNg starved to death
-HcN starved to death
-HcNd starved to death
-Hctl starved to death
-Hctl starved to death
-Hctl starved to death
-Hctp starved to death
-Hctp starved to death
-Hctp starved to death
-Hctp starved to death
-Hctp starved to death
-Hctp starved to death
-Hctp starved to death
-HcBam starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBan starved to death
-HcBa starved to death
-HcBa starved to death
-HcBap starved to death
-HcBaq starved to death
-HcBar starved to death
-HcBa starved to death
-HcBa starved to death
-HcBat starved to death
-HcBau starved to death
-HcBaw starved to death
-HcBax starved to death
-HcBay starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBaf starved to death
-HcBaf starved to death
-HcBag starved to death
-HcBag starved to death
-HcBaj starved to death
-HcBaj starved to death
-HcBaj starved to death
-HcBak starved to death
-HcBak starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBaz starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBal starved to death
-HcBal starved to death
-HcBaA starved to death
-HcBa starved to death
-HcBaB starved to death
-Hbpdaa starved to death
-Hbpdaab starved to death
-Hasd starved to death
-Hasd starved to death
-Has starved to death
-Has starved to death
-HEdd starved to death
-HEdd starved to death
-HEdd starved to death
-HEddn starved to death
-HEdd starved to death
-HEddp starved to death
-HEdd starved to death
-HEddq starved to death
-HEddia starved to death
-HEddi starved to death
-HEddib starved to death
-HEddic starved to death
-HEddid starved to death
-HEddi starved to death
-HEddi starved to death
-HEddi starved to death
-HEddi starved to death
-HEddi starved to death
-HEddi starved to death
-HEddi starved to death
-HEddie starved to death
-HEddif starved to death
-HEddi starved to death
-HEddi starved to death
-HEddi starved to death
-HEddi starved to death
-HEddi starved to death
-HEddi starved to death
-HEddea starved to death
-HEddea starved to death
-HEddea starved to death
-HEddea starved to death
-HEddr starved to death
-HEdd starved to death
-HEdd starved to death
-HEhb starved to death
-HEhb starved to death
-HEhb starved to death
-HEhb starved to death
-HEhb starved to death
-HEhb starved to death
-Hjafg survived.
-Hjafh survived.
-Hjaf survived.
-Hjaf survived.
-HDs survived.
-HDsa survived.
-HDs survived.
-HDs survived.
-HDic survived.
-HDic survived.
-HDic survived.
-HDic survived.
-HDic survived.
-HD survived.
-HDngd survived.
-HDng survived.
-HcNc survived.
-HcN survived.
-HcNh survived.
-HcNd survived.
-HcNd survived.
-HcNd survived.
-Hctl survived.
-Hctp survived.
-HcBa survived.
-HcBa survived.
-HcBao survived.
-HcBa survived.
-HcBa survived.
-HcBas survived.
-HcBa survived.
-HcBav survived.
-HcBa survived.
-HcBa survived.
-HcBaf survived.
-HcBag survived.
-HcBag survived.
-HcBak survived.
-HcBa survived.
-HcBa survived.
-HcBa survived.
-HcBa survived.
-HcBal survived.
-HcBa survived.
-Hbpdaaa survived.
-Hasd survived.
-Hase survived.
-HEdd survived.
-HEdd survived.
-HEdd survived.
-HEddo survived.
-HEddea survived.
-HEdds survived.
+Oaacfi survived.
+Oaacfi survived.
+Oaacfi survived.
+Oaacfi survived.
+Oaacfi survived.
+Ocbrab survived.
+Ocbrab survived.
+Ocbrb survived.
+Ocbrb survived.
+Ocbmn survived.
+Ocbmn survived.
+Ocbmi survived.
+Ocbmic survived.
+Ocbmi survived.
+Ocbmi survived.
+Ocbmi survived.
+Ocbmi survived.
 ==========================[ROUND 18]===========================
 ================1st Hunt================
 ================2nd Hunt================
-Hjafg starved to death
-Hjafg starved to death
-Hjafg starved to death
-Hjafh starved to death
-Hjaf starved to death
-Hjaf starved to death
-Hjaf starved to death
-HDs starved to death
-HDs starved to death
-HDs starved to death
-HDs starved to death
-HDs starved to death
-HDsa starved to death
-HDsa starved to death
-HDs starved to death
-HDsb starved to death
-HDsc starved to death
-HDsd starved to death
-HDs starved to death
-HDse starved to death
-HDs starved to death
-HDicb starved to death
-HDicc starved to death
-HDicd starved to death
-HDic starved to death
-HDic starved to death
-HDice starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HD starved to death
-HD starved to death
-HD starved to death
-HDngd starved to death
-HDngd starved to death
-HDngd starved to death
-HDng starved to death
-HDng starved to death
-HcNc starved to death
-HcNca starved to death
-HcNcb starved to death
-HcNc starved to death
-HcNc starved to death
-HcN starved to death
-HcN starved to death
-HcNh starved to death
-HcNh starved to death
-HcNh starved to death
-HcNd starved to death
-HcNd starved to death
-HcNd starved to death
-HcNda starved to death
-HcNd starved to death
-HcNd starved to death
-HcNd starved to death
-HcNd starved to death
-HcNd starved to death
-Hctld starved to death
-Hctp starved to death
-Hctp starved to death
-Hctp starved to death
-HcBa starved to death
-HcBa starved to death
-HcBaC starved to death
-HcBaD starved to death
-HcBaE starved to death
-HcBao starved to death
-HcBao starved to death
-HcBao starved to death
-HcBao starved to death
-HcBa starved to death
-HcBaH starved to death
-HcBa starved to death
-HcBaI starved to death
-HcBa starved to death
-HcBaJ starved to death
-HcBas starved to death
-HcBas starved to death
-HcBas starved to death
-HcBas starved to death
-HcBas starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBaK starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBaL starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBaf starved to death
-HcBaf starved to death
-HcBag starved to death
-HcBag starved to death
-HcBag starved to death
-HcBag starved to death
-HcBag starved to death
-HcBag starved to death
-HcBag starved to death
-HcBak starved to death
-HcBaka starved to death
-HcBaM starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBaN starved to death
-HcBa starved to death
-HcBaO starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBal starved to death
-HcBal starved to death
-HcBal starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-Hbpdaaa starved to death
-Hbpdaaa starved to death
-Hasd starved to death
-Hase starved to death
-Hase starved to death
-Hase starved to death
-HEddu starved to death
-HEdd starved to death
-HEdd starved to death
-HEdd starved to death
-HEdd starved to death
-HEddw starved to death
-HEdd starved to death
-HEddo starved to death
-HEddo starved to death
-HEddo starved to death
-HEddo starved to death
-HEddeaa starved to death
-HEddea starved to death
-HEddeac starved to death
-HEdds starved to death
-HEdds starved to death
-HEdds starved to death
-Hjafg survived.
-Hjafh survived.
-Hjafh survived.
-Hjafj survived.
-Hjaf survived.
-Hjaf survived.
-HDsa survived.
-HDs survived.
-HDic survived.
-HDic survived.
-HDic survived.
-HDic survived.
-HDic survived.
-HDic survived.
-HD survived.
-HDngd survived.
-HDng survived.
-HDng survived.
-HcN survived.
-HcN survived.
-HcNh survived.
-HcNd survived.
-HcNdb survived.
-HcNd survived.
-Hctl survived.
-Hctl survived.
-Hctp survived.
-HcBaF survived.
-HcBao survived.
-HcBa survived.
-HcBaG survived.
-HcBa survived.
-HcBa survived.
-HcBav survived.
-HcBav survived.
-HcBav survived.
-HcBa survived.
-HcBaf survived.
-HcBag survived.
-HcBak survived.
-HcBa survived.
-HcBa survived.
-Hbpdaaa survived.
-Hasda survived.
-Hasdb survived.
-HEddt survived.
-HEddv survived.
-HEdd survived.
-HEdd survived.
-HEddea survived.
-HEddeab survived.
+Oaacfiw starved to death
+Oaacfip survived.
+Oaacfi survived.
+Oaacfiq survived.
+Oaacfir survived.
+Oaacfi survived.
+Oaacfis survived.
+Oaacfit survived.
+Oaacfi survived.
+Oaacfi survived.
+Oaacfi survived.
+Oaacfiu survived.
+Oaacfiv survived.
+Ocbrab survived.
+Ocbrab survived.
+Ocbraba survived.
+Ocbrabb survived.
+Ocbrb survived.
+Ocbrb survived.
+Ocbrb survived.
+Ocbrb survived.
+Ocbmn survived.
+Ocbmn survived.
+Ocbmna survived.
+Ocbmnb survived.
+Ocbmnc survived.
+Ocbmi survived.
+Ocbmid survived.
+Ocbmic survived.
+Ocbmic survived.
+Ocbmi survived.
+Ocbmi survived.
+Ocbmie survived.
+Ocbmi survived.
+Ocbmi survived.
+Ocbmi survived.
+Ocbmi survived.
+Ocbmi survived.
 ==========================[ROUND 19]===========================
 ================1st Hunt================
 ================2nd Hunt================
-Hjafg starved to death
-Hjafg starved to death
-Hjafg starved to death
-Hjafg starved to death
-Hjafh starved to death
-Hjafh starved to death
-Hjafha starved to death
-Hjafhb starved to death
-Hjafhc starved to death
-Hjafk starved to death
-Hjaf starved to death
-Hjafl starved to death
-Hjaf starved to death
-Hjaf starved to death
-HDsa starved to death
-HDsa starved to death
-HDsf starved to death
-HDsg starved to death
-HDic starved to death
-HDic starved to death
-HDicf starved to death
-HDicg starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDic starved to death
-HDich starved to death
-HDic starved to death
-HDic starved to death
-HDici starved to death
-HDicj starved to death
-HDick starved to death
-HDicl starved to death
-HDic starved to death
-HDicm starved to death
-HD starved to death
-HD starved to death
-HDx starved to death
-HD starved to death
-HDy starved to death
-HDngd starved to death
-HDngd starved to death
-HDngd starved to death
-HDng starved to death
-HDng starved to death
-HDng starved to death
-HDngg starved to death
-HDngh starved to death
-HcN starved to death
-HcNj starved to death
-HcN starved to death
-HcNk starved to death
-HcN starved to death
-HcNh starved to death
-HcNh starved to death
-HcNd starved to death
-HcNd starved to death
-HcNd starved to death
-HcNd starved to death
-HcNdc starved to death
-HcNdd starved to death
-HcNde starved to death
-Hctle starved to death
-Hctl starved to death
-Hctlf starved to death
-Hctl starved to death
-Hctl starved to death
-Hctp starved to death
-Hctp starved to death
-HcBaF starved to death
-HcBaF starved to death
-HcBao starved to death
-HcBao starved to death
-HcBao starved to death
-HcBao starved to death
-HcBao starved to death
-HcBaP starved to death
-HcBa starved to death
-HcBa starved to death
-HcBaQ starved to death
-HcBaG starved to death
-HcBaG starved to death
-HcBaG starved to death
-HcBa starved to death
-HcBaR starved to death
-HcBaS starved to death
-HcBa starved to death
-HcBaT starved to death
-HcBa starved to death
-HcBa starved to death
-HcBaU starved to death
-HcBav starved to death
-HcBav starved to death
-HcBav starved to death
-HcBava starved to death
-HcBav starved to death
-HcBavb starved to death
-HcBav starved to death
-HcBav starved to death
-HcBav starved to death
-HcBaX starved to death
-HcBaf starved to death
-HcBaf starved to death
-HcBaf starved to death
-HcBag starved to death
-HcBak starved to death
-HcBak starved to death
-HcBak starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-Hbpdaaa starved to death
-Hbpdaaa starved to death
-Hasda starved to death
-Hasda starved to death
-Hasdb starved to death
-Hasdb starved to death
-HEddt starved to death
-HEddt starved to death
-HEddx starved to death
-HEdd starved to death
-HEdd starved to death
-HEdd starved to death
-HEddea starved to death
-HEddea starved to death
-HEddead starved to death
-HEddea starved to death
-HEddeab starved to death
-HEddeab starved to death
-Hjafh survived.
-Hjafj survived.
-Hjafj survived.
-Hjafj survived.
-Hjaf survived.
-HDsa survived.
-HDs survived.
-HDs survived.
-HDic survived.
-HDic survived.
-HDic survived.
-HDic survived.
-HDngd survived.
-HDng survived.
-HDng survived.
-HDng survived.
-HcNi survived.
-HcN survived.
-HcN survived.
-HcNh survived.
-HcNha survived.
-HcNdb survived.
-HcNdb survived.
-HcNdb survived.
-HcNd survived.
-Hctl survived.
-Hctp survived.
-HcBaF survived.
-HcBa survived.
-HcBaG survived.
-HcBaG survived.
-HcBa survived.
-HcBa survived.
-HcBa survived.
-HcBaV survived.
-HcBaW survived.
-HcBag survived.
-HcBag survived.
-HcBag survived.
-HcBa survived.
-HcBaY survived.
-HcBa survived.
-Hbpdaaa survived.
-Hasda survived.
-Hasdb survived.
-HEddt survived.
-HEddv survived.
-HEddv survived.
-HEddv survived.
-HEdd survived.
-HEdd survived.
-HEdd survived.
-HEddy survived.
-HEddea survived.
-HEddeab survived.
-HEddeab survived.
+Oaacfiq starved to death
+Oaacfiy starved to death
+Oaacfi starved to death
+Oaacfiz starved to death
+Oaacfit starved to death
+Oaacfit starved to death
+Oaacfi starved to death
+OaacfiC starved to death
+Oaacfi starved to death
+Oaacfi starved to death
+Oaacfiu starved to death
+Oaacfiu starved to death
+Ocbrab starved to death
+Ocbraba starved to death
+Ocbrbf starved to death
+Ocbmna starved to death
+Ocbmna starved to death
+Ocbmic starved to death
+Ocbmic starved to death
+Ocbmic starved to death
+Ocbmi starved to death
+Oaacfip survived.
+Oaacfip survived.
+Oaacfix survived.
+Oaacfi survived.
+Oaacfiq survived.
+Oaacfir survived.
+Oaacfir survived.
+Oaacfis survived.
+Oaacfis survived.
+Oaacfit survived.
+OaacfiA survived.
+OaacfiB survived.
+Oaacfi survived.
+Oaacfi survived.
+Oaacfi survived.
+Oaacfi survived.
+Oaacfiu survived.
+Oaacfiv survived.
+Oaacfiv survived.
+Oaacfiv survived.
+Ocbrabc survived.
+Ocbrab survived.
+Ocbrab survived.
+Ocbraba survived.
+Ocbrabb survived.
+Ocbrabb survived.
+Ocbrb survived.
+Ocbrb survived.
+Ocbrbc survived.
+Ocbrb survived.
+Ocbrb survived.
+Ocbrbd survived.
+Ocbrbe survived.
+Ocbmn survived.
+Ocbmn survived.
+Ocbmnd survived.
+Ocbmn survived.
+Ocbmn survived.
+Ocbmne survived.
+Ocbmna survived.
+Ocbmnb survived.
+Ocbmnb survived.
+Ocbmnc survived.
+Ocbmnc survived.
+Ocbmi survived.
+Ocbmi survived.
+Ocbmid survived.
+Ocbmid survived.
+Ocbmica survived.
+Ocbmi survived.
+Ocbmi survived.
+Ocbmi survived.
+Ocbmie survived.
+Ocbmie survived.
+Ocbmif survived.
+Ocbmig survived.
+Ocbmih survived.
+Ocbmii survived.
+Ocbmij survived.
+Ocbmi survived.
+Ocbmi survived.
+Ocbmi survived.
+Ocbmi survived.
+Ocbmi survived.
 ==========================[ROUND 20]===========================
 ================1st Hunt================
 ================2nd Hunt================
-Hjafhd starved to death
-Hjafh starved to death
-Hjafh starved to death
-Hjafh starved to death
-Hjafj starved to death
-Hjafj starved to death
-Hjafj starved to death
-Hjafj starved to death
-Hjafj starved to death
-Hjafj starved to death
-Hjafj starved to death
-Hjaf starved to death
-Hjaf starved to death
-Hjaf starved to death
-HDsaa starved to death
-HDsa starved to death
-HDs starved to death
-HDsi starved to death
-HDs starved to death
-HDicn starved to death
-HDico starved to death
-HDic starved to death
-HDic starved to death
-HDicq starved to death
-HDicr starved to death
-HDics starved to death
-HDic starved to death
-HDict starved to death
-HDicu starved to death
-HDicv starved to death
-HDngd starved to death
-HDngda starved to death
-HDngd starved to death
-HDng starved to death
-HDng starved to death
-HDngj starved to death
-HDng starved to death
-HDng starved to death
-HDng starved to death
-HDng starved to death
-HDng starved to death
-HDng starved to death
-HcNi starved to death
-HcNi starved to death
-HcN starved to death
-HcN starved to death
-HcNl starved to death
-HcN starved to death
-HcN starved to death
-HcNn starved to death
-HcNo starved to death
-HcNh starved to death
-HcNh starved to death
-HcNhb starved to death
-HcNha starved to death
-HcNha starved to death
-HcNdb starved to death
-HcNdb starved to death
-HcNdb starved to death
-HcNdb starved to death
-HcNdb starved to death
-HcNdb starved to death
-HcNdb starved to death
-HcNdb starved to death
-HcNd starved to death
-HcNd starved to death
-HcNd starved to death
-Hctl starved to death
-Hctl starved to death
-Hctl starved to death
-Hctp starved to death
-Hctp starved to death
-Hctp starved to death
-HcBaFa starved to death
-HcBaFb starved to death
-HcBaF starved to death
-HcBaZ starved to death
-HcBa starved to death
-HcBaa starved to death
-HcBab starved to death
-HcBac starved to death
-HcBaG starved to death
-HcBaG starved to death
-HcBaGb starved to death
-HcBaG starved to death
-HcBaG starved to death
-HcBaG starved to death
-HcBaGd starved to death
-HcBaGe starved to death
-HcBae starved to death
-HcBag starved to death
-HcBah starved to death
-HcBa starved to death
-HcBai starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBaV starved to death
-HcBaV starved to death
-HcBaV starved to death
-HcBaV starved to death
-HcBaW starved to death
-HcBaW starved to death
-HcBaW starved to death
-HcBag starved to death
-HcBaga starved to death
-HcBagb starved to death
-HcBagc starved to death
-HcBag starved to death
-HcBag starved to death
-HcBagd starved to death
-HcBage starved to death
-HcBag starved to death
-HcBag starved to death
-HcBagf starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBa starved to death
-HcBaY starved to death
-HcBaY starved to death
-HcBaY starved to death
-HcBa starved to death
-HcBa starved to death
-Hbpdaaaa starved to death
-Hbpdaaa starved to death
-Hasda starved to death
-Hasdb starved to death
-HEddt starved to death
-HEddv starved to death
-HEddv starved to death
-HEddv starved to death
-HEddv starved to death
-HEddv starved to death
-HEddv starved to death
-HEdd starved to death
-HEdd starved to death
-HEddz starved to death
-HEdd starved to death
-HEddA starved to death
-HEdd starved to death
-HEddB starved to death
-HEdd starved to death
-HEdd starved to death
-HEdd starved to death
-HEddC starved to death
-HEddy starved to death
-HEddy starved to death
-HEddy starved to death
-HEddeaf starved to death
-HEddea starved to death
-HEddeab starved to death
-HEddeab starved to death
-HEddeab starved to death
-HEddeaba starved to death
-HEddeab starved to death
-Hjafj survived.
-Hjafj survived.
-HDsa survived.
-HDs survived.
-HDsh survived.
-HDs survived.
-HDs survived.
-HDs survived.
-HDs survived.
-HDic survived.
-HDicp survived.
-HDic survived.
-HDngdb survived.
-HDngi survived.
-HDngk survived.
-HDngl survived.
-HcNi survived.
-HcNm survived.
-HcNhc survived.
-HcNha survived.
-HcNha survived.
-HcNdb survived.
-HcNd survived.
-Hctl survived.
-HcBaF survived.
-HcBaGa survived.
-HcBaGc survived.
-HcBa survived.
-HcBad survived.
-HcBaf survived.
-HcBa survived.
-HcBaj survived.
-HcBa survived.
-HcBaW survived.
-HcBaY survived.
-HcBak survived.
-Hbpdaaab survived.
-Hasda survived.
-Hasda survived.
-Hasdb survived.
-Hasdb survived.
-HEddt survived.
-HEddt survived.
-HEddv survived.
-HEddv survived.
-HEddv survived.
-HEdd survived.
-HEddy survived.
-HEddea survived.
-HEddeae survived.
-HEddea survived.
-HEddeab survived.
-HEddeab survived.
-HEddeab survived.
+Oaacfip starved to death
+Oaacfip starved to death
+Oaacfipa starved to death
+Oaacfix starved to death
+Oaacfix starved to death
+Oaacfis starved to death
+Oaacfis starved to death
+Oaacfit starved to death
+Oaacfit starved to death
+Oaacfit starved to death
+OaacfiA starved to death
+OaacfiA starved to death
+OaacfiA starved to death
+OaacfiB starved to death
+Oaacfi starved to death
+OaacfiD starved to death
+OaacfiF starved to death
+Oaacfi starved to death
+Oaacfi starved to death
+Oaacfi starved to death
+OaacfiH starved to death
+Oaacfi starved to death
+Oaacfiu starved to death
+Oaacfiu starved to death
+Oaacfiva starved to death
+Oaacfiv starved to death
+Oaacfiv starved to death
+Oaacfiv starved to death
+Oaacfiv starved to death
+Oaacfiv starved to death
+Oaacfivb starved to death
+Oaacfivc starved to death
+Oaacfivd starved to death
+Ocbrab starved to death
+Ocbrab starved to death
+Ocbrab starved to death
+Ocbrab starved to death
+Ocbrabab starved to death
+Ocbrabb starved to death
+Ocbrabba starved to death
+Ocbrabb starved to death
+Ocbrbg starved to death
+Ocbrb starved to death
+Ocbrbh starved to death
+Ocbrbc starved to death
+Ocbrbc starved to death
+Ocbrb starved to death
+Ocbrbi starved to death
+Ocbrbj starved to death
+Ocbrb starved to death
+Ocbrbd starved to death
+Ocbrbe starved to death
+Ocbrbe starved to death
+Ocbmn starved to death
+Ocbmn starved to death
+Ocbmnh starved to death
+Ocbmn starved to death
+Ocbmni starved to death
+Ocbmnj starved to death
+Ocbmnk starved to death
+Ocbmna starved to death
+Ocbmna starved to death
+Ocbmna starved to death
+Ocbmnb starved to death
+Ocbmnb starved to death
+Ocbmnb starved to death
+Ocbmnb starved to death
+Ocbmnc starved to death
+Ocbmnc starved to death
+Ocbmnc starved to death
+Ocbmi starved to death
+Ocbmil starved to death
+Ocbmid starved to death
+Ocbmida starved to death
+Ocbmid starved to death
+Ocbmid starved to death
+Ocbmica starved to death
+Ocbmica starved to death
+Ocbmi starved to death
+Ocbmi starved to death
+Ocbmi starved to death
+Ocbmie starved to death
+Ocbmie starved to death
+Ocbmiea starved to death
+Ocbmieb starved to death
+Ocbmif starved to death
+Ocbmif starved to death
+Ocbmig starved to death
+Ocbmih starved to death
+Ocbmih starved to death
+Ocbmih starved to death
+Ocbmii starved to death
+Ocbmij starved to death
+Ocbmij starved to death
+Ocbmim starved to death
+Ocbmi starved to death
+Ocbmi starved to death
+Ocbmi starved to death
+Ocbmi starved to death
+Ocbmi starved to death
+Ocbmi starved to death
+Oaacfip survived.
+Oaacfi survived.
+Oaacfi survived.
+Oaacfiq survived.
+Oaacfiq survived.
+Oaacfir survived.
+Oaacfira survived.
+Oaacfir survived.
+Oaacfir survived.
+Oaacfis survived.
+Oaacfisa survived.
+OaacfiA survived.
+OaacfiB survived.
+Oaacfi survived.
+OaacfiE survived.
+OaacfiG survived.
+Oaacfi survived.
+Ocbrabc survived.
+Ocbrabc survived.
+Ocbrabaa survived.
+Ocbraba survived.
+Ocbrabb survived.
+Ocbrb survived.
+Ocbrbc survived.
+Ocbrbd survived.
+Ocbrbd survived.
+Ocbrbe survived.
+Ocbmnf survived.
+Ocbmng survived.
+Ocbmnd survived.
+Ocbmnd survived.
+Ocbmnd survived.
+Ocbmn survived.
+Ocbmn survived.
+Ocbmn survived.
+Ocbmne survived.
+Ocbmne survived.
+Ocbmne survived.
+Ocbmnc survived.
+Ocbmik survived.
+Ocbmi survived.
+Ocbmi survived.
+Ocbmi survived.
+Ocbmi survived.
+Ocbmig survived.
+Ocbmii survived.
+Ocbmi survived.
+Ocbmin survived.
+Ocbmio survived.
 ===============================
 Final Surviving Species
-Species: Hjafj
-Stats: {'Combative': 2, 'Scavenging': 3, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: Hjafj
-Stats: {'Combative': 2, 'Scavenging': 3, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: HDsa
-Stats: {'Combative': 1, 'Scavenging': 1, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: HDs
-Stats: {'Combative': 0, 'Scavenging': 1, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: HDsh
-Stats: {'Combative': 0, 'Scavenging': 1, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 3}
-Settings: {'Eats': 2}
-Species: HDs
-Stats: {'Combative': 0, 'Scavenging': 2, 'Stealth': 0, 'Breeding': 2, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: HDs
-Stats: {'Combative': 0, 'Scavenging': 1, 'Stealth': 0, 'Breeding': 2, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: HDs
-Stats: {'Combative': 0, 'Scavenging': 1, 'Stealth': 0, 'Breeding': 2, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: HDs
-Stats: {'Combative': 0, 'Scavenging': 1, 'Stealth': 0, 'Breeding': 2, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: HDic
-Stats: {'Combative': 0, 'Scavenging': 1, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 3}
-Settings: {'Eats': 2}
-Species: HDicp
+Species: Oaacfip
 Stats: {'Combative': 0, 'Scavenging': 1, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: HDic
-Stats: {'Combative': 0, 'Scavenging': 1, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: HDngdb
-Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 3}
-Settings: {'Eats': 2}
-Species: HDngi
-Stats: {'Combative': 2, 'Scavenging': 2, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: HDngk
-Stats: {'Combative': 1, 'Scavenging': 2, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 3}
-Settings: {'Eats': 2}
-Species: HDngl
-Stats: {'Combative': 1, 'Scavenging': 2, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 3}
-Settings: {'Eats': 2}
-Species: HcNi
-Stats: {'Combative': 0, 'Scavenging': 2, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 3}
-Settings: {'Eats': 2}
-Species: HcNm
-Stats: {'Combative': 0, 'Scavenging': 1, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 3}
-Settings: {'Eats': 2}
-Species: HcNhc
-Stats: {'Combative': 0, 'Scavenging': 2, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: HcNha
-Stats: {'Combative': 0, 'Scavenging': 2, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 3}
-Settings: {'Eats': 2}
-Species: HcNha
-Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 3}
-Settings: {'Eats': 2}
-Species: HcNdb
-Stats: {'Combative': 0, 'Scavenging': 1, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: HcNd
+Settings: {'Eats': 1}
+Species: Oaacfi
 Stats: {'Combative': 0, 'Scavenging': 2, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: Hctl
-Stats: {'Combative': 0, 'Scavenging': 1, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: HcBaF
-Stats: {'Combative': 1, 'Scavenging': 2, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: HcBaGa
-Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 2, 'Breeding': 2, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: HcBaGc
-Stats: {'Combative': 0, 'Scavenging': 2, 'Stealth': 2, 'Breeding': 1, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: HcBa
-Stats: {'Combative': 0, 'Scavenging': 2, 'Stealth': 0, 'Breeding': 2, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: HcBad
-Stats: {'Combative': 0, 'Scavenging': 1, 'Stealth': 0, 'Breeding': 2, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: HcBaf
-Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 0, 'Breeding': 2, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: HcBa
-Stats: {'Combative': 0, 'Scavenging': 2, 'Stealth': 0, 'Breeding': 2, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: HcBaj
-Stats: {'Combative': 0, 'Scavenging': 0, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: HcBa
-Stats: {'Combative': 0, 'Scavenging': 1, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: HcBaW
-Stats: {'Combative': 0, 'Scavenging': 0, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: HcBaY
-Stats: {'Combative': 0, 'Scavenging': 1, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 3}
-Settings: {'Eats': 2}
-Species: HcBak
-Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: Hbpdaaab
-Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 2, 'Breeding': 1, 'Resourcefulness': 3}
-Settings: {'Eats': 2}
-Species: Hasda
+Settings: {'Eats': 1}
+Species: Oaacfi
+Stats: {'Combative': 0, 'Scavenging': 2, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Oaacfiq
 Stats: {'Combative': 1, 'Scavenging': 1, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: Hasda
+Settings: {'Eats': 1}
+Species: Oaacfiq
+Stats: {'Combative': 1, 'Scavenging': 1, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Oaacfir
+Stats: {'Combative': 0, 'Scavenging': 2, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Oaacfira
+Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Oaacfir
+Stats: {'Combative': 2, 'Scavenging': 2, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Oaacfir
+Stats: {'Combative': 1, 'Scavenging': 2, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Oaacfis
+Stats: {'Combative': 0, 'Scavenging': 1, 'Stealth': 1, 'Breeding': 0, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Oaacfisa
 Stats: {'Combative': 1, 'Scavenging': 0, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: Hasdb
-Stats: {'Combative': 0, 'Scavenging': 0, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: Hasdb
-Stats: {'Combative': 0, 'Scavenging': 0, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
-Species: HEddt
-Stats: {'Combative': 1, 'Scavenging': 3, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 3}
-Settings: {'Eats': 2}
-Species: HEddt
-Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 3}
-Settings: {'Eats': 2}
-Species: HEddv
-Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 1, 'Breeding': 0, 'Resourcefulness': 3}
-Settings: {'Eats': 2}
-Species: HEddv
-Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 1, 'Breeding': 0, 'Resourcefulness': 3}
-Settings: {'Eats': 2}
-Species: HEddv
-Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 1, 'Breeding': 0, 'Resourcefulness': 3}
-Settings: {'Eats': 2}
-Species: HEdd
-Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 1, 'Breeding': 1, 'Resourcefulness': 3}
-Settings: {'Eats': 2}
-Species: HEddy
-Stats: {'Combative': 1, 'Scavenging': 3, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 3}
-Settings: {'Eats': 2}
-Species: HEddea
-Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 0, 'Breeding': 2, 'Resourcefulness': 3}
-Settings: {'Eats': 2}
-Species: HEddeae
-Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 0, 'Breeding': 3, 'Resourcefulness': 3}
-Settings: {'Eats': 2}
-Species: HEddea
-Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 0, 'Breeding': 2, 'Resourcefulness': 3}
-Settings: {'Eats': 2}
-Species: HEddeab
-Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 0, 'Breeding': 2, 'Resourcefulness': 3}
-Settings: {'Eats': 2}
-Species: HEddeab
+Settings: {'Eats': 1}
+Species: OaacfiA
+Stats: {'Combative': 0, 'Scavenging': 1, 'Stealth': 0, 'Breeding': 2, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: OaacfiB
+Stats: {'Combative': 0, 'Scavenging': 1, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Oaacfi
+Stats: {'Combative': 0, 'Scavenging': 2, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: OaacfiE
+Stats: {'Combative': 0, 'Scavenging': 2, 'Stealth': 0, 'Breeding': 2, 'Resourcefulness': 3}
+Settings: {'Eats': 1}
+Species: OaacfiG
 Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 3}
-Settings: {'Eats': 2}
-Species: HEddeab
+Settings: {'Eats': 1}
+Species: Oaacfi
+Stats: {'Combative': 0, 'Scavenging': 2, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 3}
+Settings: {'Eats': 1}
+Species: Ocbrabc
+Stats: {'Combative': 1, 'Scavenging': 4, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 3}
+Settings: {'Eats': 1}
+Species: Ocbrabc
+Stats: {'Combative': 1, 'Scavenging': 4, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Ocbrabaa
+Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 1, 'Breeding': 1, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Ocbraba
+Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 2, 'Breeding': 1, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Ocbrabb
+Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 1, 'Breeding': 1, 'Resourcefulness': 3}
+Settings: {'Eats': 1}
+Species: Ocbrb
+Stats: {'Combative': 0, 'Scavenging': 4, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Ocbrbc
+Stats: {'Combative': 0, 'Scavenging': 4, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 3}
+Settings: {'Eats': 1}
+Species: Ocbrbd
 Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 2}
-Settings: {'Eats': 2}
+Settings: {'Eats': 1}
+Species: Ocbrbd
+Stats: {'Combative': 0, 'Scavenging': 4, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Ocbrbe
+Stats: {'Combative': 0, 'Scavenging': 4, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Ocbmnf
+Stats: {'Combative': 1, 'Scavenging': 3, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Ocbmng
+Stats: {'Combative': 0, 'Scavenging': 2, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Ocbmnd
+Stats: {'Combative': 0, 'Scavenging': 4, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Ocbmnd
+Stats: {'Combative': 0, 'Scavenging': 4, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Ocbmnd
+Stats: {'Combative': 0, 'Scavenging': 4, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Ocbmn
+Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Ocbmn
+Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Ocbmn
+Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Ocbmne
+Stats: {'Combative': 0, 'Scavenging': 4, 'Stealth': 1, 'Breeding': 1, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Ocbmne
+Stats: {'Combative': 1, 'Scavenging': 3, 'Stealth': 1, 'Breeding': 1, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Ocbmne
+Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Ocbmnc
+Stats: {'Combative': 2, 'Scavenging': 3, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Ocbmik
+Stats: {'Combative': 0, 'Scavenging': 4, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 3}
+Settings: {'Eats': 1}
+Species: Ocbmi
+Stats: {'Combative': 0, 'Scavenging': 4, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Ocbmi
+Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Ocbmi
+Stats: {'Combative': 0, 'Scavenging': 4, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Ocbmi
+Stats: {'Combative': 1, 'Scavenging': 3, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Ocbmig
+Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 2, 'Breeding': 0, 'Resourcefulness': 3}
+Settings: {'Eats': 1}
+Species: Ocbmii
+Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 1, 'Breeding': 0, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Ocbmi
+Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 1, 'Breeding': 0, 'Resourcefulness': 2}
+Settings: {'Eats': 1}
+Species: Ocbmin
+Stats: {'Combative': 0, 'Scavenging': 2, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 3}
+Settings: {'Eats': 1}
+Species: Ocbmio
+Stats: {'Combative': 0, 'Scavenging': 4, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 3}
+Settings: {'Eats': 1}
 =======================
 Geneology of Random
-H->HE->HEd->HEdd->HEdde->HEddea->HEddeab
-H:{'Combative': 1, 'Scavenging': 1, 'Stealth': 1, 'Breeding': 1, 'Resourcefulness': 1}:{'Eats': 2}->HE:{'Combative': 1, 'Scavenging': 2, 'Stealth': 1, 'Breeding': 1, 'Resourcefulness': 2}:{'Eats': 2}->HEd:{'Combative': 1, 'Scavenging': 2, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 3}:{'Eats': 2}->HEdd:{'Combative': 1, 'Scavenging': 3, 'Stealth': 1, 'Breeding': 1, 'Resourcefulness': 3}:{'Eats': 2}->HEdde:{'Combative': 1, 'Scavenging': 3, 'Stealth': 0, 'Breeding': 2, 'Resourcefulness': 3}:{'Eats': 2}->HEddea:{'Combative': 0, 'Scavenging': 3, 'Stealth': 1, 'Breeding': 2, 'Resourcefulness': 3}:{'Eats': 2}->HEddeab:{'Combative': 0, 'Scavenging': 3, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 3}:{'Eats': 2}
+O->Oc->Ocb->Ocbm->Ocbmi->Ocbmio
+O:{'Combative': 1, 'Scavenging': 1, 'Stealth': 1, 'Breeding': 1, 'Resourcefulness': 1}:{'Eats': 1}->Oc:{'Combative': 1, 'Scavenging': 2, 'Stealth': 1, 'Breeding': 1, 'Resourcefulness': 2}:{'Eats': 1}->Ocb:{'Combative': 2, 'Scavenging': 3, 'Stealth': 1, 'Breeding': 1, 'Resourcefulness': 2}:{'Eats': 1}->Ocbm:{'Combative': 1, 'Scavenging': 3, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 2}:{'Eats': 1}->Ocbmi:{'Combative': 0, 'Scavenging': 3, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 2}:{'Eats': 1}->Ocbmio:{'Combative': 0, 'Scavenging': 4, 'Stealth': 0, 'Breeding': 0, 'Resourcefulness': 3}:{'Eats': 1}
