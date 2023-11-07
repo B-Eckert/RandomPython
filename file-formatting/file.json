@@ -325,7 +325,7 @@
         },
         "-NifRzTDcqIXMcX-MjXK": {
             "id": "-NifRzTDcqIXMcX-MjXK",
-            "name": "Molten: When the monster starts its turn on a tile, that tile becomes molten. Anyone who steps onto that tile automatically takes 2d6/4d6/6d6/8d6 fire damage. The molten effect dissipates at the start of their next turn. A molten monster is resistant/resistant/immune/immune to fire damage and cannot be affected by other molten tiles."
+            "name": "Magmatic: When the monster starts its turn on a tile, that tile becomes molten. Anyone who steps onto that tile automatically takes 2d6/4d6/6d6/8d6 fire damage. The molten effect dissipates at the start of their next turn. A molten monster is resistant/resistant/immune/immune to fire damage and cannot be affected by other molten tiles."
         },
         "-NifT6Dc213liG-FgBDC": {
             "id": "-NifT6Dc213liG-FgBDC",
