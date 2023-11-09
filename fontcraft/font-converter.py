@@ -25,6 +25,7 @@ serif_bold_numbers = {'0': '𝟬', '1': '𝟭', '2': '𝟮', '3': '𝟯', '4': '
 monospace_numbers = {'0': '𝟶', '1': '𝟷', '2': '𝟸', '3': '𝟹', '4': '𝟺', '5': '𝟻', '6': '𝟼', '7': '𝟽', '8': '𝟾', '9': '𝟿'}
 
 import re
+import os
 # CONFIGURE THIS FIRST
 letterFontset = fraktur_bold
 numberFontset = serif_bold_numbers
@@ -45,3 +46,7 @@ while(opt != "q"):
             else:
                 building += c
     print(building)
+    __location__ = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file__)))
+    file = open(os.path.join(__location__, 'converted.txt'), "w", encoding="utf-8")
+    file.write(building)
+    file.close()
