@@ -9,4 +9,5 @@ This is as the repository says. It's a repository for all the little miniature p
 - Something that formats JSON into plaintext and takes all of the fields called name
 - An enter remover/adder that replaces all indents and multiple spaces with blanks and you can specify = where you actually want indents
 - And more!
-Feel free to explore the repository at your leisure. Unless you're in my Grimmest Gaol campaign, then don't look at tags.py!
+Feel free to explore the repository at your leisure. 
+> :warning: **Warning:** If you're in my Grimmest Gaol campaign or Low Key D&D, then don't look at tags.py!
