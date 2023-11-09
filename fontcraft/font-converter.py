@@ -47,6 +47,6 @@ while(opt != "q"):
                 building += c
     print(building)
     __location__ = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file__)))
-    file = open(os.path.join(__location__, 'converted.txt'), "w", encoding="utf-8")
+    file = open(os.path.join(__location__, 'converted.md'), "w", encoding="utf-8")
     file.write(building)
     file.close()
