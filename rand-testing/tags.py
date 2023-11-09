@@ -2,8 +2,6 @@ eliteTable= ['Elite-Table', 'Nocturnal: Crits on 19s in dim light and 18s in dar
 
 import random
 from datetime import datetime
-threshhold = 72
-x = []
 randomizer = random.Random()
 seed = datetime.now().microsecond * datetime.now().second
 print("This is the seed: ", seed)
