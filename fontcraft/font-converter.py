@@ -20,23 +20,29 @@ monospace = {'A': '𝙰', 'B': '𝙱', 'C': '𝙲', 'D': '𝙳', 'E': '𝙴', 'F
                'b': '𝚋', 'c': '𝚌', 'd': '𝚍', 'e': '𝚎', 'f': '𝚏', 'g': '𝚐', 'h': '𝚑', 'i': '𝚒', 'j': '𝚓', 'k': '𝚔', 'l': '𝚕', 'm':'𝚖', 'n': '𝚗', 
                'o': '𝚘', 'p': '𝚙', 'q': '𝚚', 'r': '𝚛', 's': '𝚜', 't': '𝚝', 'u': '𝚞', 'v': '𝚟', 'w': '𝚠', 'x': '𝚡', 'y': '𝚢', 'z': '𝚣'}
 
+bold_script = {'A': '𝓐', 'B': '𝓑', 'C': '𝓒', 'D': '𝓓', 'E': '𝓔', 'F': '𝓕', 'G': '𝓖', 'H': '𝓗', 'I': '𝓘', 'J': '𝓙', 'K': '𝓚', 'L': '𝓛', 'M': '𝓜', 
+               'N': '𝓝', 'O': '𝓞', 'P': '𝓟', 'Q': '𝓠', 'R': '𝓡', 'S': '𝓢', 'T': '𝓣', 'U': '𝓤', 'V': '𝓥', 'W': '𝓦', 'X': '𝓧', 'Y': '𝓨', 'Z': '𝓩', 'a': 
+               '𝓪', 'b': '𝓫', 'c': '𝓬', 'd': '𝓭', 'e': '𝓮', 'f': '𝓯', 'g': '𝓰', 'h': '𝓱', 'i': '𝓲', 'j': '𝓳', 'k': '𝓴', 'l': '𝓵', 'm': '𝓶', 'n': '𝓷', 'o': 
+               '𝓸', 'p': '𝓹', 'q': '𝓺', 'r': '𝓻', 's': '𝓼', 't': '𝓽', 'u': '𝓾', 'v': '𝓿', 'w': '𝔀', 'x': '𝔁', 'y': '𝔂', 'z': '𝔃'}
+
 serif_bold_numbers = {'0': '𝟬', '1': '𝟭', '2': '𝟮', '3': '𝟯', '4': '𝟰', '5': '𝟱', '6': '𝟲', '7': '𝟳', '8': '𝟴', '9': '𝟵'}
 
 monospace_numbers = {'0': '𝟶', '1': '𝟷', '2': '𝟸', '3': '𝟹', '4': '𝟺', '5': '𝟻', '6': '𝟼', '7': '𝟽', '8': '𝟾', '9': '𝟿'}
 
 import re
+import os
 # CONFIGURE THIS FIRST
-letterFontset = fraktur_bold
+letterFontset = bold_script
 numberFontset = serif_bold_numbers
 # CONFIGURE THIS FIRST
 opt = ""
 letterRegex = r'[A-Za-z]'
 numberRegex = r'[0-9]'
 while(opt != "q"):
-    print("Enter a string to fontify in unicode, type 'q' to quit: ", end = "")
+    print("Enter a string to fontify in unicode, type 'q' to quit or 'f' for file: ", end = "")
     opt = input()
     building = ""
-    if(opt != "q"):
+    if(opt != "q" and opt != "f"):
         for c in opt:
             if(re.match(letterRegex, c)):
                 building += letterFontset[c]
@@ -44,4 +50,26 @@ while(opt != "q"):
                 building += numberFontset[c]
             else:
                 building += c
-    print(building)
+        print(building)
+    if(opt == "f"):
+        print("Enter the filename to convert.")
+        opt = input()
+        __location__ = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file__)))
+        file = open(os.path.join(__location__, opt), "r", encoding="utf-8", errors="ignore")
+        oldLines = file.readlines()
+        file.close()
+        newLines = []
+        for line in oldLines:
+            newLine = ""
+            for c in line:
+                if(re.match(letterRegex, c)):
+                    newLine += letterFontset[c]
+                elif(re.match(numberRegex, c)):
+                    newLine += numberFontset[c]
+                else:
+                    newLine += c
+            newLines.append(newLine)
+        file = open(os.path.join(__location__, opt + ".edited.txt"), "w", encoding="utf-8", errors="ignore")
+        file.writelines(newLines)
+        file.close()
+

@@ -3,7 +3,7 @@ import re
 import sys
 import codecs
 __location__ = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file__)))
-file = open(os.path.join(__location__, 'unicode/egyptian.hieroglyph.txt'), "r", encoding="utf-8", errors="ignore")
+file = open(os.path.join(__location__, 'unicode/mathematical.bold.script.txt'), "r", encoding="utf-8", errors="ignore")
 n = file.readlines()
 file.close()
 """
@@ -35,7 +35,7 @@ def wordToNumString(word):
     
 
 #regex = r'(.*?);.*?(CAPITAL|SMALL|DIGIT|SIGN).*?([A-Z]|ONE|TWO|THREE|FOUR|FIVE|SIX|SEVEN|EIGHT|NINE|ZERO);(.*).*'
-regex = r'(.*?);.*?(CAPITAL|SMALL|DIGIT|SIGN|HIEROGLYPH).*?(.*?);(.*).*'
+regex = r'(.*?);.*?(CAPITAL|SMALL|DIGIT|SIGN|HIEROGLYPH).*? (.*?);(.*).*'
 
 tuples = []
 pictographic = False
