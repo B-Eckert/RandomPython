@@ -31,6 +31,7 @@ monospace_numbers = {'0': '𝟶', '1': '𝟷', '2': '𝟸', '3': '𝟹', '4': '�
 
 import re
 import os
+import os
 # CONFIGURE THIS FIRST
 letterFontset = bold_script
 numberFontset = serif_bold_numbers
@@ -49,8 +50,11 @@ while(opt != "q"):
             elif(re.match(numberRegex, c)):
                 building += numberFontset[c]
             else:
-                building += c
         print(building)
+        __location__ = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file__)))
+        file = open(os.path.join(__location__, 'converted.txt'), "w", encoding="utf-8")
+        file.write(building)
+        file.close()
     if(opt == "f"):
         print("Enter the filename to convert.")
         opt = input()
@@ -72,4 +76,3 @@ while(opt != "q"):
         file = open(os.path.join(__location__, opt + ".edited.txt"), "w", encoding="utf-8", errors="ignore")
         file.writelines(newLines)
         file.close()
-

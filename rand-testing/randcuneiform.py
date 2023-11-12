@@ -80,7 +80,7 @@ hieroglpyhics = ['𓀀', '𓀁', '𓀂', '𓀃', '𓀄', '𓀅', '𓀆', '𓀇',
 import random
 from datetime import datetime
 sillyfont = hieroglpyhics
-sillyfontName = "hieroglpyhics"
+sillyfontName = "cuneiform"
 x = []
 randomizer = random.Random()
 seed = datetime.now().microsecond * datetime.now().second
