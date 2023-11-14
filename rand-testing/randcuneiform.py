@@ -79,7 +79,7 @@ hieroglpyhics = ['𓀀', '𓀁', '𓀂', '𓀃', '𓀄', '𓀅', '𓀆', '𓀇',
     '𓐒', '𓐓', '𓐔', '𓐕', '𓐖', '𓐗', '𓐘', '𓐙', '𓐚', '𓐛', '𓐜', '𓐝', '𓐞', '𓐟', '𓐠', '𓐡', '𓐢', '𓐣', '𓐤', '𓐥', '𓐦', '𓐧', '𓐨', '𓐩', '𓐪', '𓐫', '𓐬', '𓐭', '𓐮']
 import random
 from datetime import datetime
-sillyfont = hieroglpyhics
+sillyfont = cuneiform
 sillyfontName = "cuneiform"
 x = []
 randomizer = random.Random()
