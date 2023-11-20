@@ -39,7 +39,6 @@ class Dice:
             set.append(self.r(face))
         return [set, sum(set)+modifier] # returns the set of numbers, then the actual number in the second field. roll[1] is what you want.
     
-    
 dice = Dice()
 
 print(dice.roll(8, 3))
