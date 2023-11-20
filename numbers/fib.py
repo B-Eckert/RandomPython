@@ -1,4 +1,5 @@
 import scientific as sci
+# If a fibonacci number's index divides another fibonacci number's index, then the fibonacci numbers are divisible.
 fibNums = [1, 1]
 for i in range(2,100):
     fibNums.append(fibNums[i-1]+fibNums[i-2])
