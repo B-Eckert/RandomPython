@@ -33,7 +33,7 @@ import re
 import os
 import os
 # CONFIGURE THIS FIRST
-letterFontset = bold_script
+letterFontset = serif_bold
 numberFontset = serif_bold_numbers
 # CONFIGURE THIS FIRST
 opt = ""
