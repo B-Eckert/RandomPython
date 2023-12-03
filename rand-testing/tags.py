@@ -47,7 +47,7 @@ eliteTable = [
     'Tainted: All of its attacks deal an extra 1d4/2d4/3d4/4d4 necrotic damage.',
     'Terrifying: Can spend its bonus/action to cause all creatures within 20ft of it to make a Wisdom saving throw DC-Cha/Str (Humanoid) or Con/Str/Dex (Monster) for one minute. The creature can re-make the saving throw at the end of their turn. Recharge 5-6.',
     'Thick Skin: Gain resistance to physical damage.',
-    "Thief: Can spend a bonus action to attempt to steal an item from a creature that they are not holding, but can be wearing. They gain proficiency or expertise in Stealth and Sleight of Hand and can make a Sleight of Hand check from stealth against the target's passive perception. If they fail this check, they break stealth.", 
+    "Thief: Can spend a bonus action to attempt to steal an item from a creature that they are not holding, but can be wearing. They gain proficiency or expertise in Stealth and Sleight of Hand and can make a Sleight of Hand check from stealth against the target's passive perception.", 
     'Thorn Armor: When this enemy is struck in melee, they deal 1d4/2d4/3d4/4d4 piercing damage to the attacker automatically. When they roll a 4 on the thorns, they gain resistance to the incoming damage that caused this.',
     "Toxic: At the start of this creature's turn, everyone within 10ft of the creature must make a DC-Con Constitution saving throw or take 1d8/2d8/3d8/4d8 poison damage.", 
     'Toxic Spores: Can spend its action to cause everyone within 30ft to make a DC-Con Constitution saving throw or take 1d8/2d8/3d8/4d8 poison damage, or half damage on fail.',
