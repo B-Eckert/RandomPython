@@ -1,0 +1,21 @@
+Idea  I had:
+
+If children can just import the father as a module, the father could have the one constant generative function stored in a docstring that it can just replicate and use to replicate itself.
+
+Basically, the psuedocode:
+
+import father
+__location__ = where you want it
+file = open(os.path.join(__location__, 'child' + str(num) +'.py'), 'w')
+file.write(father.docstringFunction)
+file.close()
+subprocess.call(['python', 'child' + str(num) + '.py'])
+
+father would be the first iteration of this and would contain the entire docstring and also be that docstring
+so it'd be like 
+
+func = """
+    CODE
+"""
+
+CODE AGAIN 
