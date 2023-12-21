@@ -21,11 +21,11 @@ def print_x():
     print("x1")
     with lock:
         time.sleep(1)
-        shared_resource.change("x")
-        print("resource changed to x")
-    print("x2")
+        print("Returning...")
+        return
 def print_y():
     print("y1")
+    time.sleep(.5)
     with lock:
         shared_resource.change("y")
         print("resource changed to y")
@@ -43,18 +43,23 @@ def write_a():
         shared_resource.changeTwo("a")
         print("resource2 changed to a")
     print("a2")
+def returns_one():
+    return 1
 t1 = threading.Thread(target=print_x)
 t2 = threading.Thread(target=print_y)
 t3 = threading.Thread(target=write_z)
 t4 = threading.Thread(target=write_a)
+t5 = threading.Thread(target=returns_one)
 
 t1.start()
 t2.start()
 t3.start()
 t4.start()
+t5.start()
 
 t1.join()
 t2.join()
 t3.join()
 t4.join()
+variable = t5.join()
 print("Done:", shared_resource.get(), "and", shared_resource.getTwo())
