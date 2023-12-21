@@ -8,6 +8,8 @@ This is as the repository says. It's a repository for all the little miniature p
 - Heads/Tails coin flipper
 - Something that formats JSON into plaintext and takes all of the fields called name
 - An enter remover/adder that replaces all indents and multiple spaces with blanks and you can specify = where you actually want indents
+- Multithreading projects including a coffee survival script
+- Experimental genetic algorithms
 - And more!
 Feel free to explore the repository at your leisure. 
 > :warning: **Warning:** If you're in my Grimmest Gaol campaign or Low Key D&D, then don't look at tags.py!
