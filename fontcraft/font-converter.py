@@ -32,7 +32,7 @@ monospace_numbers = {'0': '𝟶', '1': '𝟷', '2': '𝟸', '3': '𝟹', '4': '�
 import re
 import os
 # CONFIGURE THIS FIRST
-letterFontset = serif_bold
+letterFontset = bold_script
 numberFontset = serif_bold_numbers
 # CONFIGURE THIS FIRST
 opt = ""
