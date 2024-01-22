@@ -103,6 +103,6 @@ while(option != -1):
             sentence += sillyfont[random.randrange(0, sillyfont.__len__())]
         print(sentence)
         __location__ = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file__)))
-        file = open(os.path.join(__location__, 'format.txt'), "w", encoding="utf-8")
+        file = open(os.path.join(__location__, 'outputs/format.txt'), "w", encoding="utf-8")
         file.write(sentence)
         file.close()
