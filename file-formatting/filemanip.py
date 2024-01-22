@@ -4,7 +4,7 @@ import os
 
 USE_EQUALS_FOR_NEWLINE = True
 __location__ = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file__)))
-file = open(os.path.join(__location__, 'format.txt'), "r")
+file = open(os.path.join(__location__, 'format.txt'), "r", encoding="utf-8")
 n = file.readlines()
 file.close()
 def cat(a, b):
@@ -16,6 +16,6 @@ vals = vals.replace("   ", " ").replace("  ", " ")
 if(USE_EQUALS_FOR_NEWLINE):
     vals = vals.replace("=", "\n")
 print(vals)
-file = open(os.path.join(__location__, 'format.txt'), "w")
+file = open(os.path.join(__location__, 'format.txt'), "w", encoding="utf-8")
 file.write(vals)
 file.close()
