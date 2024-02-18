@@ -1,0 +1,3 @@
+str = "(_properties.test=2"
+(#4q4_properties.durnehir=2343
+_properties.DUNMAGLASS = 23 35234525
