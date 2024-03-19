@@ -67,7 +67,7 @@ eliteTable = [
     "Aquatic: You gain the ability to breathe underwater and a swim speed equal to 1.5x your movement speed. You can cast 'Create Water' once per long rest.", 
     'Corrupting: As a bonus action, can turn a Corpse into a Corrupted Corpse. Enemies who end their turn within 5/5/10/10ft of a Corrupted Corpse must make a DC-Mental Charisma saving throw or take 1d6/3d6/5d6/7d6 necrotic damage. Corrupted corpses stop being corrupted when the monster with this tag dies.',
     'Lore Keeper: Your Intelligence increases by 6. Choose up to 3 cantrips or 1st level/2nd level/3rd level/4th level spells. They can cast each of these once per day. They use Intelligence to cast.',
-    'Molten: At the start of its turn, everyone within 5/5/10/10ft of it must make a Constitution saving throw or take 1d6/2d6/3d6/4d6 fire damage. When someone hits you, they take fire damage equal to your CR.',
+    'Molten: At the start of its turn, everyone within 5/5/10/10ft of it must make a Constitution saving throw DC Constitution or take 1d6/2d6/3d6/4d6 fire damage. When someone hits you, they take fire damage equal to your CR.',
     'Moonlit: Sheds 10ft of dim light around it. Deals an additional 1d6/2d6/3d6/4d6 radiant damage on one of its attacks in dim light.',
     'Spiteful: When this creature takes damage, it can use its reaction to make an attack against the target that damaged it.',
     'Venomous: Once per turn, it can apply an additional 1d4/2d4/3d4/4d4 poison damage on an attack. When someone takes this poison damage, they have disadvantage on their next Constitution saving throw within 1 minute.',
