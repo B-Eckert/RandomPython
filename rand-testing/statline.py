@@ -8,34 +8,36 @@ print("This is the seed: ", seed)
 randomizer.seed(seed)
 
 def dice(num, face):
-    sum = 0
-    for i in range(num):
-        sum += randomizer.randrange(1, face+1)
-    return sum
+    summ = 0
+    for y in range(num):
+        del y
+        summ += randomizer.randrange(1, face+1)
+    return summ
 
 def fourdsixkeephighest():
     z = []
-    for i in range(4):
+    for y in range(4):
+        del y
         z.append(dice(1, 6))
     z.remove(min(z))
-    sum = 0
-    for i in z:
-        sum += i
-    return sum
+    summ = 0
+    for y in z:
+        summ += y
+    return summ
 
 iters = 0
 enough = False
-while enough == False:
-    sum = 0
+while enough is False:
+    total = 0
     for i in range(6):
         x.append(fourdsixkeephighest())
-        sum += x[i]
-    if(sum >= threshhold):
+        total += x[i]
+    if(total >= threshhold):
         print("It took ", iters, " tries.")
         enough = True
     else:
-        print("Bad Sum: ", sum)
-        if(sum < 60):
+        print("Bad Sum: ", total)
+        if(total < 60):
             print("=============")
             for i in range(6):
                 print("Bad Number ", i+1, ": ", x[i])
@@ -46,7 +48,7 @@ x.sort(reverse=True)
 for i in range(6):
     print("Number ", i+1, ": ", x[i])
 print("=============")
-print("Sum: ", sum)
+print("Sum: ", total)
 
 print("Extras [d20]:", dice(1,20), dice(1,20))
 print("Extras [4d6kh3]: ", fourdsixkeephighest(), fourdsixkeephighest())

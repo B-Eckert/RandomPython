@@ -8,9 +8,10 @@ import re
 
 readable = r'.*(.txt|.nut)'
 properties = r'.properties.(.*?)(\/|\)|\s|=)'
+prefstring = r'(\[CREATURE:.*? MAN.*?\])'
 
 # credit to stack overflow user monkut for the get_size method
-def findlines(filepath):
+def findlines(filepath, regex):
     validlines = []
     for dirpath, dirnames, filenames in os.walk(filepath):
         for f in filenames:
@@ -22,8 +23,9 @@ def findlines(filepath):
                     file = open(fp, "r", encoding="utf-8")
                     lines = file.readlines()
                     file.close()
+                    # validlines.append([f])
                     for line in lines:
-                        results = re.findall(properties, line)
+                        results = re.findall(regex, line)
                         if(results != []):
                             if(results not in validlines):
                                 validlines.append(results) 
@@ -58,10 +60,12 @@ if(not os.path.isdir(found_dir)):
 masterlist = []
 dirs = glob(found_dir + "/*/")
 for x in range(0, len(dirs)):
-    foundlines = findlines(dirs[x])
+    foundlines = findlines(dirs[x], prefstring)
     cleanedlist = []
     for entry in foundlines:
         for item in entry:
-            if item[0] not in cleanedlist:
-                cleanedlist.append(item[0])
+            if item not in cleanedlist:
+                cleanedlist.append(item)
     print(dirs[x][len(found_dir):] + " : " + str(cleanedlist))
+    for item in cleanedlist:
+        print(item)
