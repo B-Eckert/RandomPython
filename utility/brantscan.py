@@ -2,7 +2,6 @@ from pathlib import *
 from glob import *
 from getopt import *
 import os
-import shutil
 import sys
 import re
 

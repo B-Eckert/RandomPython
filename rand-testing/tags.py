@@ -1,3 +1,6 @@
+import random
+from datetime import datetime
+
 eliteTable = [
     'Elite-Table',
     'Nocturnal: Crits on 19s in dim light and 18s in darkness.',
@@ -83,8 +86,6 @@ eliteTable = [
     'Combustible: When this creature dies, it explodes, causing a DC Con Dexterity saving throw that deals 2d8/4d8/6d8/8d8 fire damage in a 10/15/20/25ft radius around itself, or half damage on a failure.'
 ]
 
-import random
-from datetime import datetime
 randomizer = random.Random()
 seed = datetime.now().microsecond * datetime.now().second
 print("This is the seed: ", seed)

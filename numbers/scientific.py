@@ -23,4 +23,3 @@ def wrtSci(x):
     return writeScientific(scientific(x))
 
 writeScientific(scientific(100))
-

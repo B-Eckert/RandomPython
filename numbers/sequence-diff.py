@@ -19,5 +19,5 @@ numbers = [ 1,
             265000,
             305000,
             355000]
-for x in range(1, numbers.__len__()-1):
+for x in range(1, len(numbers)-1):
     print(str(x) + "=>" + str(x+1) + ": " + str(numbers[x+1] - numbers[x]) + " / " + str((numbers[x+1] - numbers[x])/(numbers[x] - numbers[x-1])))

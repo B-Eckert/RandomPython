@@ -1,7 +1,6 @@
 import os
 import re
-import sys
-import codecs
+
 __location__ = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file__)))
 file = open(os.path.join(__location__, 'unicode/mathematical.bold.script.txt'), "r", encoding="utf-8", errors="ignore")
 n = file.readlines()

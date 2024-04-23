@@ -26,7 +26,7 @@ while(option != -1):
         option -= 1
         number = int(input("How many: "))
         for x in range(0, number):
-            name = affixes[option][randomizer.randrange(0, affixes[option].__len__())]
+            name = affixes[option][randomizer.randrange(0, len(affixes[option]))]
             name += "-" + str(randomizer.randrange(1, 1000))
             print(name)
         input()

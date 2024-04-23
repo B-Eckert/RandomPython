@@ -1,10 +1,10 @@
 def commasFunction(number):
     numstr = str(number)
-    if(numstr.__len__() <= 3):
+    if(len(numstr) <= 3):
         print(number)
     else:
         commastr = ""
-        while(numstr.__len__() > 3):
+        while(len(numstr) > 3):
             commastr = "," + numstr[-3:] + commastr
             numstr = numstr[0:-3]
         commastr = numstr + commastr

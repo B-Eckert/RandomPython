@@ -29,7 +29,7 @@ class Dice:
     # These rolls are for context highlighting, roll and r are if we only care about the output value and nothing else.
     def rollA(self, face, advantage, modifier=0):
         rolls = [self.r(face), self.r(face)]
-        if advantage == True:
+        if advantage is True:
             return [rolls, max(rolls)+modifier]
         else:
             return [rolls, min(rolls)+modifier]
