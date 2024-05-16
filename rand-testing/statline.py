@@ -1,17 +1,14 @@
-import random
-from datetime import datetime
+import secrets
 threshhold = 72
+midness_range = 4
+midness_acceptable_max = 17
 x = []
-randomizer = random.Random()
-seed = datetime.now().microsecond * datetime.now().second
-print("This is the seed: ", seed)
-randomizer.seed(seed)
 
 def dice(num, face):
     summ = 0
     for y in range(num):
         del y
-        summ += randomizer.randrange(1, face+1)
+        summ += secrets.randbelow(face)+1
     return summ
 
 def fourdsixkeephighest():
@@ -25,6 +22,12 @@ def fourdsixkeephighest():
         summ += y
     return summ
 
+def midstatline(statline):
+    # I define a "mid" statline as a statline where all the numbers are only 2-4 points distant
+    if(max(statline) - min(statline) < midness_range and max(statline) < midness_acceptable_max):
+        return True
+    return False
+
 iters = 0
 enough = False
 while enough is False:
@@ -32,22 +35,24 @@ while enough is False:
     for i in range(6):
         x.append(fourdsixkeephighest())
         total += x[i]
-    if(total >= threshhold):
+    if(total >= threshhold and not midstatline(x)):
         print("It took ", iters, " tries.")
         enough = True
+    elif(midstatline(x)):
+        print("Statline was mid. Biggest number was:", max(x), "| Smallest number was:", min(x),"| Total was:", total)
     else:
         print("Bad Sum: ", total)
         if(total < 60):
-            print("=============")
+            print("===============")
             for i in range(6):
                 print("Bad Number ", i+1, ": ", x[i])
-            print("=============")
+            print("===============")
         iters+=1
         x.clear()
 x.sort(reverse=True)
 for i in range(6):
     print("Number ", i+1, ": ", x[i])
-print("=============")
+print("===============")
 print("Sum: ", total)
 
 print("Extras [d20]:", dice(1,20), dice(1,20))
