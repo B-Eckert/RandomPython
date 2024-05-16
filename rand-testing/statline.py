@@ -38,8 +38,10 @@ while enough is False:
     if(total >= threshhold and not midstatline(x)):
         print("It took ", iters, " tries.")
         enough = True
-    elif(midstatline(x)):
+    elif(midstatline(x) and total >= threshhold):
         print("Statline was mid. Biggest number was:", max(x), "| Smallest number was:", min(x),"| Total was:", total)
+        iters += 1
+        x.clear()
     else:
         print("Bad Sum: ", total)
         if(total < 60):
