@@ -1,6 +1,6 @@
 import secrets
 threshhold = 72
-midness_range = 4
+midness_range = 5
 midness_acceptable_max = 17
 x = []
 
