@@ -7,8 +7,8 @@ import re
 
 readable = r'.*(.txt|.nut)'
 properties = r'.properties.(.*?)(\/|\)|\s|=)'
-prefstring = r'(\[CREATURE:.*? MAN.*?\])'
-
+#prefstring = r'(\[CREATURE:.*? MAN.*?\])'
+prefstring = r"buildAttachedLocation"
 # credit to stack overflow user monkut for the get_size method
 def findlines(filepath, regex):
     validlines = []
@@ -27,7 +27,7 @@ def findlines(filepath, regex):
                         results = re.findall(regex, line)
                         if(results != []):
                             if(results not in validlines):
-                                validlines.append(results) 
+                                validlines.append((results, f)) 
                 except:
                     continue
     return validlines
@@ -63,8 +63,8 @@ for x in range(0, len(dirs)):
     cleanedlist = []
     for entry in foundlines:
         for item in entry:
-            if item not in cleanedlist:
+            if item[0] not in cleanedlist:
                 cleanedlist.append(item)
     print(dirs[x][len(found_dir):] + " : " + str(cleanedlist))
-    for item in cleanedlist:
-        print(item)
+    #for item in cleanedlist:
+    #    print(item)
