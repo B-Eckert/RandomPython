@@ -1,5 +1,6 @@
 import random
 from datetime import datetime
+import secrets
 
 eliteTable = [
     'Elite-Table',
@@ -108,11 +109,6 @@ eliteTable = [
     'Monstrous: Your creature type becomes Monstrosity. They also gain one of the following traits: [[1d3]]\nMonstrous Claws: Your Strength increases by 4 and you gain a Claw attack that deals 1d6/2d6/3d6/4d6 slashing damage added to your Multiattack.\nMonstrous Hide: Increase your Constitution by 4 and choose 1/1/2/3 damage types to gain resistance to.\nMonstrous Appendage: Gain 1/1/2/3 of the following speeds equal to your movement speed - A fly speed, a climb speed, a burrow speed.'
 ]
 
-randomizer = random.Random()
-seed = datetime.now().microsecond * datetime.now().second
-print("This is the seed: ", seed)
-randomizer.seed(seed)
-
 option = 0
 while(option != -1):
     print("===========================================================")
@@ -121,9 +117,9 @@ while(option != -1):
     print("===========================================================")
     alreadyRolled = []
     for x in range(0, option):
-        trait = randomizer.randrange(1, eliteTable.__len__())
+        trait = secrets.randbelow(eliteTable.__len__()-1)
         while(trait in alreadyRolled):
-            trait = randomizer.randrange(1, eliteTable.__len__())
+            trait = secrets.randbelow(eliteTable.__len__()-1)
         alreadyRolled.append(trait)
         trait = eliteTable[trait]
         print(trait)
