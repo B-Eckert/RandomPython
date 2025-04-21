@@ -3,7 +3,6 @@ from datetime import datetime
 import secrets
 
 eliteTable = [
-    'Elite-Table',
     'Nocturnal: Crits on 19s in dim light and 18s in darkness.',
     'Abyssal: The area 10ft around the creature is always considered as being dark. If the creature does not have darkvision, they gain 30ft of darkvision.',
     'Adaptive Defense: When under 75% HP, you gain 1 AC. When under 50% HP, you gain resistance to physical damage. When under 25% HP, you gain an additional +1 AC.',
