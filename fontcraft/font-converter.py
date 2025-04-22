@@ -25,15 +25,24 @@ bold_script = {'A': '𝓐', 'B': '𝓑', 'C': '𝓒', 'D': '𝓓', 'E': '𝓔', 
                '𝓪', 'b': '𝓫', 'c': '𝓬', 'd': '𝓭', 'e': '𝓮', 'f': '𝓯', 'g': '𝓰', 'h': '𝓱', 'i': '𝓲', 'j': '𝓳', 'k': '𝓴', 'l': '𝓵', 'm': '𝓶', 'n': '𝓷', 'o': 
                '𝓸', 'p': '𝓹', 'q': '𝓺', 'r': '𝓻', 's': '𝓼', 't': '𝓽', 'u': '𝓾', 'v': '𝓿', 'w': '𝔀', 'x': '𝔁', 'y': '𝔂', 'z': '𝔃'}
 
+# Note: Other non-corresponding letters are included for my amusement
+norse_runes = {'A' : 'ᚫ', 'B' : 'ᛒ', 'C' : 'ᛍ', 'D' : 'ᛞ', 'E' : 'ᛂ', 'F' : 'ᚠ', 'G' : 'ᚵ', 'H' : 'ᚻ', 'I' : 'ᛁ', 'J' : 'ᛃ', 'K' : 'ᚴ', 'L' : 'ᛚ', 'M': 'ᛗ', 'N' : 'ᛀ', 'O' : 'ᚮ', 'P' : 'ᛈ', 'Q' : 'ᛩ', 'R' : 'ᚱ', 'S' : 'ᛊ', 'T' : 'ᛏ', 'U' : 'ᚢ', 'V' : 'ᚡ', 'W' : 'ᚥ', 'X' : 'ᛪ', 'Y' : 'ᚤ', 'Z' : 'ᛎ', 
+               'a' : 'ᚨ',  'b' : 'ᛓ', 'c' : 'ᛍ', 'd' : 'ᛞ', 'e' : 'ᛂ', 'f' : 'ᚠ', 'g' : 'ᚵ', 'h' : 'ᚻ', 'i' : 'ᛁ', 'j' : 'ᛃ', 'k' : 'ᚴ', 'l' : 'ᛚ', 'm': 'ᛗ', 'n' : 'ᛀ', 'o' : 'ᚮ', 'p' : 'ᛈ', 'q' : 'ᛩ', 'r' : 'ᚱ', 's' : 'ᛊ', 't' : 'ᛏ', 'u' : 'ᚢ', 'v' : 'ᚡ', 'w' : 'ᚥ', 'x' : 'ᛪ', 'y' : 'ᚤ', 'z' : 'ᛎ'}
+norse_runes_extra = {'Long Ar (Ae)' : 'ᛅ', 'Short Ar' : 'ᛆ', 'Aesc' : 'ᚫ', 'Cen' : 'ᚳ', 'Ehwaz' : 'ᛖ', 'Eng' : 'ᚶ', 'Eolhx': 'ᛉ', 'Eth' : 'ᚧ', 'Ger' : 'ᛄ', 'Gar' : 'ᚸ', 'Gyfu' : 'ᚷ', 'Haglaz' : 'ᚺ', 'Long Hagall' : 'ᚼ', 'Short Hagall' : 'ᚽ',  'Logr' : 'ᛚ', 'Dotted L' : 'ᛛ', 'Ingwaz' : 'ᛜ', 'Ing': 'ᛝ', 'Different D' : 'ᛑ', 'Othalan' : 'ᛟ',
+               'Iwaz' : 'ᛇ', 'Kauna' : 'ᚲ', 'Naud' : 'ᚾ', 'Short Naud' : 'ᚿ', 'Long O' : 'ᚬ', 'Short O': 'ᚭ', 'Os' : 'ᚩ', 'Oe' : 'ᚯ', 'On' : 'ᚰ', 'Different M' : 'ᛀ', 'Long Madr' : 'ᛘ', 'Short Madr' : 'ᛙ', 'Dotted P' : 'ᛔ', 'Open P' : 'ᛕ', 'Long Sol S': 'ᛋ', 'Short Sol S' : 'ᛌ', 'Short T' : 'ᛐ', 'Th': 'ᚦ', 'Wynn' : 'ᚹ', 'Yr' : 'ᚣ',
+               'Ear' : 'ᛠ', 'Ior' : 'ᛡ', 'Cweorth' : 'ᛢ', 'Calc' : 'ᛣ', 'Cealc' : 'ᛤ', 'Stan' : 'ᛥ', 'Long Yr' : 'ᛦ', 'Short Yr' : 'ᛧ', 'Icelandic Yr' : 'ᛨ'}
+#abcdefghijklmnopqrstuvwxyz
 serif_bold_numbers = {'0': '𝟬', '1': '𝟭', '2': '𝟮', '3': '𝟯', '4': '𝟰', '5': '𝟱', '6': '𝟲', '7': '𝟳', '8': '𝟴', '9': '𝟵'}
 
 monospace_numbers = {'0': '𝟶', '1': '𝟷', '2': '𝟸', '3': '𝟹', '4': '𝟺', '5': '𝟻', '6': '𝟼', '7': '𝟽', '8': '𝟾', '9': '𝟿'}
 
+regular_numbers = {'0' : '0', '1' : '1', '2' : '2', '3' : '3', '4' : '4', '5' :'5', '6' : '6', '7' :'7', '8' : '8', '9' : '9'}
+
 import re
 import os
 # CONFIGURE THIS FIRST
-letterFontset = bold_script
-numberFontset = serif_bold_numbers
+letterFontset = norse_runes
+numberFontset = regular_numbers
 # CONFIGURE THIS FIRST
 opt = ""
 letterRegex = r'[A-Za-z]'
