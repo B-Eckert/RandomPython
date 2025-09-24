@@ -1,0 +1,1128 @@
+==========================[ROUND 1]===========================
+================1st Hunt================
+C killed O in a hunt
+C killed O in a hunt
+C killed O in a hunt
+C killed H in a hunt
+C killed O in a hunt
+C killed O in a hunt
+C killed H in a hunt
+================2nd Hunt================
+O killed C in a hunt
+O killed C in a hunt
+O killed C in a hunt
+C killed H in a hunt
+O killed C in a hunt
+C killed O in a hunt
+O killed C in a hunt
+C killed H in a hunt
+C killed O in a hunt
+O killed C in a hunt
+O killed C in a hunt
+C starved to death
+O starved to death
+O starved to death
+O starved to death
+O starved to death
+O starved to death
+O starved to death
+O starved to death
+O starved to death
+O starved to death
+O starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+C survived.
+C survived.
+C survived.
+C survived.
+O survived.
+H survived.
+H survived.
+H survived.
+H survived.
+H survived.
+H survived.
+H survived.
+H survived.
+H survived.
+==========================[ROUND 2]===========================
+================1st Hunt================
+C killed O in a hunt
+Ca killed C in a hunt
+Ca killed C in a hunt
+C killed Ca in a hunt
+================2nd Hunt================
+C killed Hd in a hunt
+Ca killed Ha in a hunt
+C killed H in a hunt
+C killed H in a hunt
+Ca starved to death
+C starved to death
+O starved to death
+O starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+Hb starved to death
+Hc starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+Hb starved to death
+Hc starved to death
+H starved to death
+Ha starved to death
+Hc starved to death
+C survived.
+Ca survived.
+C survived.
+H survived.
+H survived.
+H survived.
+H survived.
+H survived.
+H survived.
+H survived.
+Ha survived.
+Hd survived.
+H survived.
+H survived.
+H survived.
+H survived.
+H survived.
+H survived.
+Hb survived.
+H survived.
+H survived.
+H survived.
+==========================[ROUND 3]===========================
+================1st Hunt================
+C killed Hb in a hunt
+C killed Hi in a hunt
+C killed Ca in a hunt
+Hd killed C in a hunt
+================2nd Hunt================
+C killed H in a hunt
+C killed H in a hunt
+C killed Hf in a hunt
+H starved to death
+Hb starved to death
+H starved to death
+Hc starved to death
+Hd starved to death
+He starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+Hf starved to death
+H starved to death
+Hg starved to death
+Hh starved to death
+H starved to death
+He starved to death
+H starved to death
+Hh starved to death
+Hi starved to death
+Hk starved to death
+H starved to death
+Ha starved to death
+Ha starved to death
+Hd starved to death
+H starved to death
+H starved to death
+H starved to death
+Hl starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+He starved to death
+H starved to death
+Hf starved to death
+Hg starved to death
+H starved to death
+He starved to death
+Hf starved to death
+H starved to death
+Hb starved to death
+Hb starved to death
+Hb starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+Hg starved to death
+Hh starved to death
+H starved to death
+Hj starved to death
+Hk starved to death
+H starved to death
+Hl starved to death
+C survived.
+C survived.
+C survived.
+H survived.
+Ha survived.
+Hg survived.
+Hj survived.
+Ha survived.
+Ha survived.
+Ha survived.
+Hd survived.
+Hd survived.
+Hd survived.
+H survived.
+H survived.
+Hd survived.
+H survived.
+H survived.
+==========================[ROUND 4]===========================
+================1st Hunt================
+Cb killed H in a hunt
+Cc killed Hd in a hunt
+Cd killed Cb in a hunt
+Cc killed Ce in a hunt
+C killed Cb in a hunt
+================2nd Hunt================
+Cd killed Had in a hunt
+C killed Cd in a hunt
+C starved to death
+H starved to death
+Ha starved to death
+Hg starved to death
+Hg starved to death
+Hg starved to death
+Hg starved to death
+Hg starved to death
+Hj starved to death
+Hj starved to death
+Hj starved to death
+Hj starved to death
+Hj starved to death
+Ha starved to death
+Haa starved to death
+Hab starved to death
+Hac starved to death
+Ha starved to death
+Haf starved to death
+Hag starved to death
+Hah starved to death
+Ha starved to death
+Hai starved to death
+Ha starved to death
+Hd starved to death
+Hd starved to death
+Hd starved to death
+Hd starved to death
+Hd starved to death
+Hd starved to death
+Hd starved to death
+Hd starved to death
+H starved to death
+H starved to death
+Hm starved to death
+Hn starved to death
+Hd starved to death
+Hd starved to death
+Hd starved to death
+Hd starved to death
+Hh starved to death
+Hi starved to death
+Hj starved to death
+Hk starved to death
+H starved to death
+H starved to death
+Cc survived.
+H survived.
+H survived.
+Ha survived.
+Ha survived.
+Ha survived.
+Hae survived.
+Hda survived.
+Hdb survived.
+Hd survived.
+H survived.
+H survived.
+H survived.
+H survived.
+Hl survived.
+Hm survived.
+==========================[ROUND 5]===========================
+================1st Hunt================
+Cc killed H in a hunt
+Cc killed Haa in a hunt
+Cc killed Hi in a hunt
+================2nd Hunt================
+Cc killed Hl in a hunt
+Cc killed Ha in a hunt
+Cc starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+Ha starved to death
+Ha starved to death
+Hab starved to death
+Haj starved to death
+Hak starved to death
+Hal starved to death
+Ha starved to death
+Ham starved to death
+Hae starved to death
+Hae starved to death
+Hae starved to death
+Hae starved to death
+Hae starved to death
+Hae starved to death
+Hda starved to death
+Hda starved to death
+Hdc starved to death
+Hd starved to death
+H starved to death
+H starved to death
+H starved to death
+Hq starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+Hr starved to death
+Hs starved to death
+H starved to death
+Hl starved to death
+Hl starved to death
+Hl starved to death
+Hm starved to death
+Hm starved to death
+Cc survived.
+Cc survived.
+H survived.
+H survived.
+Ha survived.
+Ha survived.
+Hda survived.
+Hda survived.
+Hdb survived.
+Hdb survived.
+Hdb survived.
+Hdb survived.
+Hdb survived.
+Hdd survived.
+Hde survived.
+Ho survived.
+Hp survived.
+Hm survived.
+Hm survived.
+==========================[ROUND 6]===========================
+================1st Hunt================
+Hk killed Cc in a hunt
+Cc killed Hj in a hunt
+Hm killed Cc in a hunt
+Hdbg killed Cc in a hunt
+Cc killed Hdbh in a hunt
+Hdb killed Cc in a hunt
+================2nd Hunt================
+Cc killed Hdb in a hunt
+Cc killed Hp in a hunt
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+H starved to death
+Hl starved to death
+Ha starved to death
+Hac starved to death
+Had starved to death
+Ha starved to death
+Ha starved to death
+Ha starved to death
+Hda starved to death
+Hdaa starved to death
+Hda starved to death
+Hdab starved to death
+Hda starved to death
+Hda starved to death
+Hda starved to death
+Hda starved to death
+Hdba starved to death
+Hdbb starved to death
+Hdbc starved to death
+Hdbd starved to death
+Hdbe starved to death
+Hdb starved to death
+Hdbf starved to death
+Hdbg starved to death
+Hdbi starved to death
+Hdb starved to death
+Hdb starved to death
+Hdb starved to death
+Hdb starved to death
+Hdb starved to death
+Hdb starved to death
+Hdb starved to death
+Hdbj starved to death
+Hdb starved to death
+Hdb starved to death
+Hdbk starved to death
+Hdd starved to death
+Hdd starved to death
+Hdd starved to death
+Hdd starved to death
+Hde starved to death
+Hde starved to death
+Hde starved to death
+Hde starved to death
+Hde starved to death
+Ho starved to death
+Ho starved to death
+Ho starved to death
+Ho starved to death
+Hp starved to death
+Hp starved to death
+Hm starved to death
+Hm starved to death
+Hma starved to death
+Hm starved to death
+Hm starved to death
+Hm starved to death
+Hm starved to death
+Hm starved to death
+Cc survived.
+Cc survived.
+Hk survived.
+Hdb survived.
+Hdb survived.
+Hdbl survived.
+==========================[ROUND 7]===========================
+================1st Hunt================
+Cc killed Hdb in a hunt
+Cc killed Hdbn in a hunt
+Cca killed Hk in a hunt
+Cc killed Hk in a hunt
+Ccb killed Cc in a hunt
+Ccc killed Hdbl in a hunt
+================2nd Hunt================
+Ccb killed Cc in a hunt
+Cca killed Hdbm in a hunt
+Cc killed Hk in a hunt
+Ccb killed Cc in a hunt
+Ccb starved to death
+Cca survived.
+Ccc survived.
+Hk survived.
+Hdb survived.
+Hdb survived.
+Hdb survived.
+Hdbo survived.
+Hdbp survived.
+Hdb survived.
+Hdbl survived.
+Hdbl survived.
+Hdbl survived.
+Hdbl survived.
+==========================[ROUND 8]===========================
+================1st Hunt================
+Cca killed Hk in a hunt
+Cca killed Hdb in a hunt
+Cca killed Hdbr in a hunt
+Ccc killed Hdbl in a hunt
+Hdb killed Ccc in a hunt
+Ccc killed Hdb in a hunt
+================2nd Hunt================
+Cca killed Hdb in a hunt
+Cca killed Hdbl in a hunt
+Cca starved to death
+Hk starved to death
+Hk starved to death
+Hk starved to death
+Hdbq starved to death
+Hdbs starved to death
+Hdb starved to death
+Hdb starved to death
+Hdbt starved to death
+Hdb starved to death
+Hdbu starved to death
+Hdbv starved to death
+Hdbw starved to death
+Hdbo starved to death
+Hdbo starved to death
+Hdbo starved to death
+Hdbp starved to death
+Hdbp starved to death
+Hdbp starved to death
+Hdbp starved to death
+Hdbp starved to death
+Hdb starved to death
+Hdb starved to death
+Hdbx starved to death
+Hdby starved to death
+Hdb starved to death
+Hdbl starved to death
+Hdbl starved to death
+Hdbl starved to death
+Hdbl starved to death
+Hdbl starved to death
+Hdbl starved to death
+Hdbl starved to death
+Hdbl starved to death
+Hdbl starved to death
+Hdbl starved to death
+Hdbl starved to death
+Hdbl starved to death
+Hdbl starved to death
+Hdbl starved to death
+Hdbl starved to death
+Hdbl starved to death
+Hdbl starved to death
+Cca survived.
+Cca survived.
+Ccc survived.
+Ccc survived.
+Hdb survived.
+Hdbo survived.
+Hdbo survived.
+Hdbl survived.
+==========================[ROUND 9]===========================
+================1st Hunt================
+Cca killed Ccae in a hunt
+Ccaa killed Ccab in a hunt
+Ccac killed Hdbl in a hunt
+Ccaa killed Cca in a hunt
+Ccad killed Ccac in a hunt
+Cca killed Ccc in a hunt
+Hdbl killed Ccc in a hunt
+Cca killed Ccc in a hunt
+Cca killed Ccca in a hunt
+Cca killed Ccc in a hunt
+================2nd Hunt================
+Cca killed Hdbod in a hunt
+Ccad killed Hdbz in a hunt
+Ccaa starved to death
+Hdbob starved to death
+Hdboc starved to death
+Hdbl starved to death
+Cca survived.
+Ccad survived.
+Hdb survived.
+Hdb survived.
+HdbA survived.
+Hdboa survived.
+Hdbo survived.
+Hdbo survived.
+Hdbo survived.
+Hdbo survived.
+Hdbo survived.
+Hdboe survived.
+Hdbof survived.
+Hdbl survived.
+Hdbl survived.
+Hdbl survived.
+==========================[ROUND 10]===========================
+================1st Hunt================
+Ccaf killed HdbC in a hunt
+Cca killed Hdb in a hunt
+Ccag killed Hdboa in a hunt
+Ccah killed Ccad in a hunt
+Cca killed Ccad in a hunt
+================2nd Hunt================
+Ccaf killed Ccah in a hunt
+Cca killed Ccaf in a hunt
+Ccag starved to death
+HdbD starved to death
+Hdb starved to death
+HdbA starved to death
+HdbA starved to death
+HdbA starved to death
+Hdboa starved to death
+Hdboa starved to death
+Hdboa starved to death
+Hdboa starved to death
+Hdbo starved to death
+Hdbog starved to death
+Hdboh starved to death
+Hdbo starved to death
+Hdbo starved to death
+Hdbo starved to death
+Hdbo starved to death
+Hdbo starved to death
+Hdbo starved to death
+Hdboi starved to death
+Hdbo starved to death
+Hdbo starved to death
+Hdboj starved to death
+Hdbok starved to death
+Hdbo starved to death
+Hdbo starved to death
+Hdbo starved to death
+Hdbo starved to death
+Hdbo starved to death
+Hdbol starved to death
+Hdbom starved to death
+Hdbon starved to death
+Hdboo starved to death
+Hdbo starved to death
+Hdboe starved to death
+Hdboe starved to death
+Hdboe starved to death
+Hdboe starved to death
+Hdbof starved to death
+Hdbof starved to death
+Hdbof starved to death
+Hdbof starved to death
+Hdbof starved to death
+Hdbof starved to death
+Hdbl starved to death
+Hdbla starved to death
+Hdbl starved to death
+Hdbl starved to death
+Hdblb starved to death
+Hdblc starved to death
+Hdbld starved to death
+Hdble starved to death
+Hdblf starved to death
+Hdblg starved to death
+Hdblh starved to death
+Hdbli starved to death
+Hdbl starved to death
+Hdbl starved to death
+Hdblj starved to death
+Hdblk starved to death
+Cca survived.
+HdbB survived.
+HdbE survived.
+Hdb survived.
+Hdb survived.
+HdbA survived.
+Hdboa survived.
+Hdbo survived.
+Hdbo survived.
+==========================[ROUND 11]===========================
+================1st Hunt================
+Cca killed Ccai in a hunt
+Cca killed HdbF in a hunt
+Cca killed Hdboa in a hunt
+================2nd Hunt================
+Cca killed HdbJ in a hunt
+Cca killed HdbE in a hunt
+Cca starved to death
+HdbB starved to death
+HdbB starved to death
+HdbE starved to death
+HdbE starved to death
+HdbH starved to death
+Hdb starved to death
+Hdb starved to death
+HdbI starved to death
+HdbA starved to death
+Hdboa starved to death
+Hdboa starved to death
+Hdboa starved to death
+Hdboa starved to death
+Hdboa starved to death
+Hdbo starved to death
+Hdbo starved to death
+Hdbo starved to death
+Hdbo starved to death
+Hdbop starved to death
+Hdboq starved to death
+Hdbor starved to death
+Hdbo starved to death
+Cca survived.
+Cca survived.
+HdbB survived.
+HdbB survived.
+HdbE survived.
+HdbG survived.
+Hdb survived.
+HdbA survived.
+HdbA survived.
+HdbA survived.
+Hdbo survived.
+Hdbos survived.
+Hdbo survived.
+Hdbo survived.
+==========================[ROUND 12]===========================
+================1st Hunt================
+Cca killed HdbM in a hunt
+Ccaj killed HdboD in a hunt
+Ccak killed HdbAa in a hunt
+Ccal killed Ccam in a hunt
+Cca killed HdbAc in a hunt
+Ccan killed HdbAd in a hunt
+Ccao killed Ccan in a hunt
+================2nd Hunt================
+Cca killed Ccao in a hunt
+Ccaj killed HdbL in a hunt
+Ccak killed HdbB in a hunt
+Ccal killed Ccaj in a hunt
+Cca killed HdbK in a hunt
+Ccal starved to death
+HdbB starved to death
+HdbB starved to death
+HdbB starved to death
+HdbB starved to death
+HdbB starved to death
+HdbE starved to death
+HdbE starved to death
+HdbE starved to death
+HdbG starved to death
+HdbG starved to death
+HdbG starved to death
+HdbG starved to death
+Hdb starved to death
+HdbA starved to death
+HdbA starved to death
+HdbA starved to death
+HdbAb starved to death
+HdbAe starved to death
+HdbAf starved to death
+HdbAg starved to death
+HdbAh starved to death
+Hdbo starved to death
+Hdbot starved to death
+Hdbou starved to death
+Hdbov starved to death
+Hdbow starved to death
+Hdbo starved to death
+Hdbos starved to death
+Hdbos starved to death
+Hdbos starved to death
+Hdbos starved to death
+Hdbos starved to death
+Hdbox starved to death
+Hdboy starved to death
+Hdbo starved to death
+Hdboz starved to death
+HdboA starved to death
+HdboB starved to death
+HdboC starved to death
+Hdbo starved to death
+HdboE starved to death
+HdboF starved to death
+Cca survived.
+Ccak survived.
+Cca survived.
+HdbB survived.
+HdbB survived.
+HdbEa survived.
+HdbA survived.
+Hdbos survived.
+Hdbo survived.
+==========================[ROUND 13]===========================
+================1st Hunt================
+Cca killed Hdbos in a hunt
+Ccap killed HdbB in a hunt
+Cca killed Ccas in a hunt
+Ccaq killed Cca in a hunt
+Ccak killed HdboI in a hunt
+Ccak killed HdbB in a hunt
+Ccak killed HdbB in a hunt
+Cca killed Ccak in a hunt
+Cca killed Ccap in a hunt
+Ccar killed Hdbos in a hunt
+Cca killed Ccaq in a hunt
+================2nd Hunt================
+Cca killed Ccak in a hunt
+Ccak killed Hdbos in a hunt
+Ccak killed Hdbos in a hunt
+Ccak killed Cca in a hunt
+Cca killed Ccar in a hunt
+Ccak killed Cca in a hunt
+HdbB starved to death
+HdbB starved to death
+HdbB starved to death
+HdbEa starved to death
+HdbEa starved to death
+HdbEa starved to death
+HdbA starved to death
+HdbA starved to death
+HdbA starved to death
+Hdbos starved to death
+Hdbos starved to death
+HdboH starved to death
+Hdbo starved to death
+Cca survived.
+Ccak survived.
+Ccak survived.
+HdbB survived.
+HdbB survived.
+HdbA survived.
+HdboG survived.
+HdboJ survived.
+Hdbo survived.
+==========================[ROUND 14]===========================
+================1st Hunt================
+Cca killed HdbA in a hunt
+Cca killed HdbB in a hunt
+Ccat killed HdbB in a hunt
+Cca killed Ccak in a hunt
+Ccak killed HdboG in a hunt
+Ccakd killed Ccak in a hunt
+Ccak killed HdbB in a hunt
+Ccaka killed Ccak in a hunt
+Ccakb killed HdboJ in a hunt
+Cca killed Ccakc in a hunt
+Ccakd killed Ccakb in a hunt
+================2nd Hunt================
+Ccakd killed Cca in a hunt
+Ccakd killed Cca in a hunt
+Ccat killed Ccaka in a hunt
+Cca killed HdbB in a hunt
+Ccak killed Hdbo in a hunt
+Ccakd killed Cca in a hunt
+Ccakd starved to death
+HdbB starved to death
+HdbB starved to death
+HdbB starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboJ starved to death
+HdboJ starved to death
+HdboJ starved to death
+HdboJ starved to death
+HdboJ starved to death
+HdboK starved to death
+Hdbo starved to death
+HdboL starved to death
+HdboM starved to death
+Hdbo starved to death
+Ccat survived.
+Ccak survived.
+HdbB survived.
+HdbA survived.
+HdbA survived.
+HdbA survived.
+HdboG survived.
+HdboG survived.
+==========================[ROUND 15]===========================
+================1st Hunt================
+Ccat killed HdbB in a hunt
+Ccat killed HdbAj in a hunt
+Ccat killed HdbB in a hunt
+Ccat killed Ccak in a hunt
+Ccak killed HdbAk in a hunt
+Ccak killed Ccake in a hunt
+================2nd Hunt================
+Ccat killed HdboG in a hunt
+Ccat killed HdboG in a hunt
+Ccat killed HdbA in a hunt
+Ccat killed HdboG in a hunt
+Ccak killed HdbA in a hunt
+Ccak killed Ccat in a hunt
+Ccak starved to death
+HdbBa starved to death
+HdbB starved to death
+HdbAi starved to death
+HdbAl starved to death
+HdbA starved to death
+HdbA starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+Ccat survived.
+Ccat survived.
+Ccat survived.
+Ccak survived.
+HdbA survived.
+HdbA survived.
+HdbA survived.
+HdbAm survived.
+HdboG survived.
+HdboG survived.
+HdboG survived.
+HdboG survived.
+==========================[ROUND 16]===========================
+================1st Hunt================
+Ccat killed HdbAm in a hunt
+Ccat killed Ccakg in a hunt
+Ccat killed Ccatc in a hunt
+Ccat killed HdboG in a hunt
+Ccat killed HdbAm in a hunt
+Ccata killed HdboG in a hunt
+Ccatb killed HdboG in a hunt
+Ccat killed Ccata in a hunt
+Ccat killed HdbAm in a hunt
+Ccatd killed Ccat in a hunt
+Ccat killed HdbA in a hunt
+Ccat killed Ccate in a hunt
+Ccatf killed HdbAm in a hunt
+Ccakf killed HdbA in a hunt
+Ccak killed Ccat in a hunt
+Ccak killed Ccat in a hunt
+================2nd Hunt================
+Ccat killed Ccatd in a hunt
+Ccak killed Ccat in a hunt
+Ccat killed Ccakf in a hunt
+Ccak killed Ccat in a hunt
+Ccat killed Ccatf in a hunt
+Ccak killed HdboG in a hunt
+Ccak killed Ccatb in a hunt
+Ccat starved to death
+Ccat starved to death
+Ccak starved to death
+HdbAn starved to death
+HdbAo starved to death
+HdbA starved to death
+HdbAp starved to death
+HdbA starved to death
+HdbA starved to death
+HdbA starved to death
+HdbA starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+Ccat survived.
+Ccak survived.
+HdbA survived.
+HdbA survived.
+HdboG survived.
+HdboG survived.
+HdboG survived.
+HdboG survived.
+HdboG survived.
+==========================[ROUND 17]===========================
+================1st Hunt================
+Ccatg killed Ccakh in a hunt
+Ccath killed Ccak in a hunt
+Ccatg killed Ccati in a hunt
+Ccak killed HdboG in a hunt
+Ccaki killed Ccak in a hunt
+================2nd Hunt================
+Ccatg killed HdbAs in a hunt
+Ccath killed HdboG in a hunt
+Ccatg killed Ccaki in a hunt
+Ccatg starved to death
+HdbAq starved to death
+HdbAu starved to death
+HdbAw starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboGb starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboGc starved to death
+HdboG starved to death
+HdboG starved to death
+HdboGe starved to death
+HdboGf starved to death
+HdboGg starved to death
+HdboG starved to death
+HdboG starved to death
+HdboGh starved to death
+Ccath survived.
+HdbAr survived.
+HdbAt survived.
+HdbAv survived.
+HdbA survived.
+HdboG survived.
+HdboGa survived.
+HdboG survived.
+HdboG survived.
+HdboGd survived.
+HdboG survived.
+==========================[ROUND 18]===========================
+================1st Hunt================
+Ccath killed HdbAr in a hunt
+Ccath killed HdbAr in a hunt
+================2nd Hunt================
+Ccath killed HdbAt in a hunt
+Ccath killed HdbAt in a hunt
+HdbAr starved to death
+HdbAt starved to death
+HdbAt starved to death
+HdbAt starved to death
+HdbAv starved to death
+HdbAv starved to death
+HdbAv starved to death
+HdbAv starved to death
+HdbAx starved to death
+HdbA starved to death
+HdbA starved to death
+HdbA starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboGa starved to death
+HdboGa starved to death
+HdboGa starved to death
+HdboGa starved to death
+HdboGa starved to death
+HdboGa starved to death
+HdboGi starved to death
+HdboGj starved to death
+HdboGk starved to death
+HdboG starved to death
+HdboG starved to death
+HdboGl starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboG starved to death
+HdboGd starved to death
+HdboGd starved to death
+HdboGd starved to death
+HdboGm starved to death
+HdboGn starved to death
+HdboGo starved to death
+HdboG starved to death
+HdboGp starved to death
+HdboG starved to death
+Ccath survived.
+Ccath survived.
+HdboGd survived.
+HdboGd survived.
+==========================[ROUND 19]===========================
+================1st Hunt================
+Ccatha killed HdboGdd in a hunt
+Ccathb killed HdboGd in a hunt
+Ccathb killed Ccath in a hunt
+================2nd Hunt================
+Ccathb killed HdboGdc in a hunt
+Ccatha survived.
+Ccathb survived.
+HdboGda survived.
+HdboGdb survived.
+HdboGd survived.
+HdboGd survived.
+HdboGd survived.
+HdboGd survived.
+HdboGd survived.
+==========================[ROUND 20]===========================
+================1st Hunt================
+Ccatha killed HdboGd in a hunt
+Ccatha killed Ccathb in a hunt
+Ccathb killed HdboGda in a hunt
+================2nd Hunt================
+Ccatha killed HdboGda in a hunt
+Ccathb killed HdboGdf in a hunt
+HdboGda starved to death
+HdboGdb starved to death
+HdboGdb starved to death
+HdboGdb starved to death
+HdboGdb starved to death
+HdboGdb starved to death
+HdboGde starved to death
+HdboGd starved to death
+HdboGd starved to death
+HdboGdg starved to death
+HdboGdh starved to death
+HdboGdj starved to death
+HdboGdk starved to death
+HdboGd starved to death
+HdboGd starved to death
+HdboGd starved to death
+HdboGd starved to death
+HdboGd starved to death
+HdboGd starved to death
+HdboGd starved to death
+HdboGd starved to death
+HdboGdm starved to death
+Ccatha survived.
+Ccatha survived.
+Ccathb survived.
+HdboGda survived.
+HdboGda survived.
+HdboGd survived.
+HdboGdi survived.
+HdboGd survived.
+HdboGd survived.
+HdboGd survived.
+HdboGdl survived.
+HdboGd survived.
+HdboGd survived.
+===============================
+Final Surviving Species
+Species: Ccatha
+Stats: {'Combative': 4, 'Scavenging': 0, 'Stealth': 0, 'Breeding': 1, 'Resourcefulness': 3}
+Settings: {'Eats': 0}
+Species: Ccatha
+Stats: {'Combative': 4, 'Scavenging': 0, 'Stealth': 1, 'Breeding': 1, 'Resourcefulness': 2}
+Settings: {'Eats': 0}
+Species: Ccathb
+Stats: {'Combative': 4, 'Scavenging': 2, 'Stealth': 2, 'Breeding': 1, 'Resourcefulness': 3}
+Settings: {'Eats': 0}
+Species: HdboGda
+Stats: {'Combative': 0, 'Scavenging': 4, 'Stealth': 1, 'Breeding': 2, 'Resourcefulness': 2}
+Settings: {'Eats': 2}
+Species: HdboGda
+Stats: {'Combative': 0, 'Scavenging': 4, 'Stealth': 1, 'Breeding': 2, 'Resourcefulness': 2}
+Settings: {'Eats': 2}
+Species: HdboGd
+Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 3, 'Breeding': 2, 'Resourcefulness': 2}
+Settings: {'Eats': 2}
+Species: HdboGdi
+Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 3, 'Breeding': 2, 'Resourcefulness': 3}
+Settings: {'Eats': 2}
+Species: HdboGd
+Stats: {'Combative': 0, 'Scavenging': 4, 'Stealth': 3, 'Breeding': 2, 'Resourcefulness': 2}
+Settings: {'Eats': 2}
+Species: HdboGd
+Stats: {'Combative': 0, 'Scavenging': 4, 'Stealth': 3, 'Breeding': 3, 'Resourcefulness': 2}
+Settings: {'Eats': 2}
+Species: HdboGd
+Stats: {'Combative': 0, 'Scavenging': 4, 'Stealth': 3, 'Breeding': 2, 'Resourcefulness': 2}
+Settings: {'Eats': 2}
+Species: HdboGdl
+Stats: {'Combative': 0, 'Scavenging': 3, 'Stealth': 3, 'Breeding': 3, 'Resourcefulness': 2}
+Settings: {'Eats': 2}
+Species: HdboGd
+Stats: {'Combative': 0, 'Scavenging': 4, 'Stealth': 3, 'Breeding': 3, 'Resourcefulness': 2}
+Settings: {'Eats': 2}
+Species: HdboGd
+Stats: {'Combative': 0, 'Scavenging': 4, 'Stealth': 3, 'Breeding': 3, 'Resourcefulness': 2}
+Settings: {'Eats': 2}
+=======================
+Geneology of Random
+H->Hd->Hdb->Hdbo->HdboG->HdboGd
+H:{'Combative': 1, 'Scavenging': 1, 'Stealth': 1, 'Breeding': 1, 'Resourcefulness': 1}:{'Eats': 2}->Hd:{'Combative': 1, 'Scavenging': 2, 'Stealth': 1, 'Breeding': 1, 'Resourcefulness': 2}:{'Eats': 2}->Hdb:{'Combative': 1, 'Scavenging': 3, 'Stealth': 1, 'Breeding': 2, 'Resourcefulness': 2}:{'Eats': 2}->Hdbo:{'Combative': 0, 'Scavenging': 3, 'Stealth': 2, 'Breeding': 2, 'Resourcefulness': 2}:{'Eats': 2}->HdboG:{'Combative': 0, 'Scavenging': 3, 'Stealth': 3, 'Breeding': 3, 'Resourcefulness': 2}:{'Eats': 2}->HdboGd:{'Combative': 0, 'Scavenging': 4, 'Stealth': 3, 'Breeding': 2, 'Resourcefulness': 2}:{'Eats': 2}

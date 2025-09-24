@@ -8,7 +8,7 @@ __location__ = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file
 randomTableContent = open(__location__ + "/random-tables/random-tables-from-knave.txt",  "r", encoding="utf-8", errors="ignore").read()
 
 tables = dict()
-entries = re.findall(r"(([\w ]*)=(\n(\d+ ?[A-Za-z()-. ]+) ?(\d+ ?[A-Za-z()-. ]+))*)", randomTableContent)
+entries = re.findall(r"(([\w ]+)=(\n(\d+ ?[A-Za-z()-. ]+) ?(\d+ ?[A-Za-z()-. ]+))*)", randomTableContent)
 for entry in entries:
     tableName = re.match(r"([A-Za-z()-. ]+)=", entry[0]).group(1).title()
     items = re.findall(r"(\d+) ?([A-Za-z()-. ]+)", entry[0])

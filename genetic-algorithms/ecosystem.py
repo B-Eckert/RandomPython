@@ -200,7 +200,7 @@ for x in range(0, 6):
 time = 20
 dumpy = ""
 highestNumber = statMax + 3
-defaultForage = 500
+defaultForage = 200
 class World:
     def __init__(self, popcap):
         self.forage = 0
@@ -243,6 +243,8 @@ class World:
             stealthList[x.stealthNum()-1].append(x)
         neg = 0
         for x in range(0, carnivores.__len__()):
+            if(x-neg >= len(carnivores)):
+                break
             if not carnivores[x-neg].satisfied():
                 brackets = carnivores[x-neg].resourceNum()
                 preyList = []

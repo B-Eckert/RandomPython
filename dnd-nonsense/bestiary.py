@@ -136,4 +136,7 @@ class Bestiary:
 
 b = Bestiary(["mm", "mtf", "vgm"])
 monster = b.bestiarySearch("Mind Flayer")
+running = True
 print(b.useEconomy(monster, "Mind Blast {@recharge 5}"))
+while(running):
+    break
