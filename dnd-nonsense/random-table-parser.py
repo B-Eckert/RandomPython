@@ -17,6 +17,8 @@ for entry in entries:
     for item in items:
         tables[tableName].append(item[1])
 
+randomNumber = r"^r(\d)+$"
+number = r"^-?\d+$"
 option = 0
 while(option != -1):
     print("Choose a table to choose from or -1 for none...")
@@ -26,8 +28,17 @@ while(option != -1):
         print(str(index) + ") " + str(key))
         keylist.append(str(key))
         index += 1
-    option = int(input())
-    if(option != -1):
+    rawOption = input()
+    if(re.match(number, rawOption)):
+        option = int(rawOption)
+    elif(rawOption == "q"):
+        option = -1
+    else:
+        option = -2
+    
+    if(option == -2 or option > len(tables) or option < -1):
+        print("Input invalid")
+    elif(option != -1):
         print("Rolling on tablename: " + keylist[option-1])
         index = secrets.randbelow(len(tables[keylist[option-1]]))
         print(str(index+1) + ". " + tables[keylist[option-1]][index])

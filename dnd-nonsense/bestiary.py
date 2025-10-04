@@ -101,9 +101,10 @@ class Bestiary:
         return ability
     def bestiarySearch(self, name):
         for entry in self.masterMonsterList:
-            if(entry["name"] == name):
+            if(entry["name"].lower() == name.lower()):
                 return entry
-    def useEconomy(self, entry, actionName, actionEconomy=""):
+        return None
+    def gatherActions(self, entry, actionEconomy=""):
         actionKey = ""
         if(actionEconomy.upper() == "A"):
             actionKey = "action"
@@ -128,15 +129,69 @@ class Bestiary:
         else:
             if(actionKey in entry):
                 actions = entry[actionKey]
+        return actions
+        
+    def useEconomy(self, entry, actionName, actionEconomy=""):
+        actions = self.gatherActions(entry, actionEconomy)
         for econ in actions:
             if(econ["name"] == actionName):
                 return self.abilityExtract(econ["entries"][0], econ["name"])
         return colored("No such ability found.", "red", attrs=["bold"])
-                
+    
+    def printUsageMenu(self, entry):
+        usageOption = r"[ABRT]\d+"
+        print(entry["name"], "\n------------------")
+        traits = self.gatherActions(entry, "T")
+        if(not len(traits) == 0):
+            print("Traits\n------")
+            for x in range(0, len(traits)):
+                print(str(x+1) + ") " + traits[x]["name"])
+            print("")
+        actions = self.gatherActions(entry, "A")
+        if(not len(actions) == 0):
+            print("Actions\n-------")
+            for x in range(0, len(actions)):
+                print(str(x+1) + ") " + actions[x]["name"])
+            print("")
+        bonusActions = self.gatherActions(entry, "B")
+        if(not len(bonusActions) == 0):
+            print("Bonus Actions\n-------------")
+            for x in range(0, len(bonusActions)):
+                print(str(x+1) + ") " + bonusActions[x]["name"])
+            print("")
+        reactions = self.gatherActions(entry, "R")
+        if(not len(reactions) == 0):
+            print("Reactions\n---------")
+            for x in range(0, len(reactions)):
+                print(str(x+1) + ") " + reactions[x]["name"])
+            print("")
+    def selectFromUsageMenu(self, entry, input):
+        usageOption = r"([ABRT])(\d+)"
+        match = re.match(usageOption, input)
+        if(match):
+            actions = self.gatherActions(match.group(1))
+            if(int(match.group(2)) > 0):
+                pass                
+        
 
-b = Bestiary(["mm", "mtf", "vgm"])
-monster = b.bestiarySearch("Mind Flayer")
-running = True
-print(b.useEconomy(monster, "Mind Blast {@recharge 5}"))
-while(running):
-    break
+b = Bestiary(["mm", "mtf", "vgm", "mme1", "mme2", "mme3"])
+# monster = b.bestiarySearch("Mind Flayer")
+monster = b.bestiarySearch("Maurezhi Lord")
+searchRunning = False
+# print(b.useEconomy(monster, "Mind Blast {@recharge 5}"))
+b.printUsageMenu(monster)
+while(searchRunning):
+    # search loop
+    creature = input("What is the creature you are looking for (Q to quit, I for index): ")    
+    if(creature.lower() == "q"):
+        searchRunning = False
+    elif(creature.lower() == "i"):
+        # run index functionality
+        pass
+    monster = b.bestiarySearch(creature)
+    if(not b.bestiarySearch(creature)):
+        print("That is not a valid creature, please search again.")
+    else:
+        actionsRunning = True
+        while(actionsRunning):
+            pass
