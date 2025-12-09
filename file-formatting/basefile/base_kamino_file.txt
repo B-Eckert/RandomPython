@@ -1,0 +1,58 @@
+ÿÿÿÿ   CharacterPool        ArrayProperty               
+   PoolFileName        StrProperty     (       $   CharacterPool\Importable\Kamino.bin    None        
+   strFirstName        StrProperty     
+          Clone    strLastName        StrProperty               CT-0001    strNickName        StrProperty                   m_SoldierClassTemplateName     
+   NameProperty                Rookie        CharacterTemplateName     
+   NameProperty               Soldier        kAppearance        StructProperty     :         TAppearance         nmHead     
+   NameProperty            
+   LatMale_A        iGender        IntProperty                  iRace        IntProperty               
+   nmHaircut     
+   NameProperty               MaleHair_Blank        iHairColor        IntProperty            
+      iFacialHair        IntProperty                   nmBeard     
+   NameProperty               MaleBeard_Blank        iSkinColor        IntProperty                
+   iEyeColor        IntProperty                    nmFlag     
+   NameProperty     !          Country_GalacticRepublic         iVoice        IntProperty                
+   iAttitude        IntProperty                   iArmorDeco        IntProperty                   iArmorTint        IntProperty            [      iArmorTintSecondary        IntProperty            [      iWeaponTint        IntProperty                  iTattooTint        IntProperty            W      nmWeaponPattern     
+   NameProperty               Pat_Nothing         nmPawn     
+   NameProperty     
+          None        nmTorso     
+   NameProperty               CloneTorso_V3_R         nmArms     
+   NameProperty     
+          None         nmLegs     
+   NameProperty               CloneLegs_V3_R     	   nmHelmet     
+   NameProperty     "          Armor_Helmet_Phase1_Basic        nmEye     
+   NameProperty               DefaultEyes       nmTeeth     
+   NameProperty            
+   DefaultTeeth        nmFacePropLower     
+   NameProperty               Prop_FaceLower_Blank        nmFacePropUpper     
+   NameProperty               Prop_FaceUpper_Blank        nmPatterns     
+   NameProperty               Pat_Nothing        nmVoice     
+   NameProperty               CloneVoice_V3_R        nmLanguage     
+   NameProperty     
+          None        nmTattoo_LeftArm     
+   NameProperty               Tattoo_Arms_BLANK        nmTattoo_RightArm     
+   NameProperty               Tattoo_Arms_BLANK        nmScars     
+   NameProperty               Scars_BLANK        nmTorso_Underlay     
+   NameProperty     #          CnvUnderlay_Std_Torsos_A_M        nmArms_Underlay     
+   NameProperty     !          CnvUnderlay_Std_Arms_A_M        nmLegs_Underlay     
+   NameProperty     !          CnvUnderlay_Std_Legs_A_M        nmFacePaint     
+   NameProperty     
+          None     
+   nmLeftArm     
+   NameProperty               CloneLArm_V3_R        nmRightArm     
+   NameProperty               CloneRArm_V3_R        nmLeftArmDeco     
+   NameProperty               LeftArmDeco_Invisible        nmRightArmDeco     
+   NameProperty               RightArmDeco_Invisible        nmLeftForearm     
+   NameProperty               LeftForearm_Invisible        nmRightForearm     
+   NameProperty               RightForearm_Invisible     	   nmThighs     
+   NameProperty               Thighs_Invisible        nmShins     
+   NameProperty               Shins_Invisible        nmTorsoDeco     
+   NameProperty               TorsoDeco_Invisible        bGhostPawn     
+   BoolProperty                 None        Country     
+   NameProperty     !          Country_GalacticRepublic        AllowedTypeSoldier     
+   BoolProperty                AllowedTypeVIP     
+   BoolProperty                 AllowedTypeDarkVIP     
+   BoolProperty                 PoolTimestamp        StrProperty               January 18, 2023 - 8:37 PM    BackgroundText        StrProperty     ‡      ƒ  Country of Origin: Germany
+Date of Birth: September 5, 2008
+
+This is one of many soldiers mass-produced in Kamino for the Republic from the Django Fett template.    None     

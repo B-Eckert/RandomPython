@@ -8,7 +8,7 @@ import re
 readable = r'.*(.txt|.nut)'
 properties = r'.properties.(.*?)(\/|\)|\s|=)'
 #prefstring = r'(\[CREATURE:.*? MAN.*?\])'
-prefstring = r"buildAttachedLocation"
+prefstring = r"IsShieldwallRelevant"
 # credit to stack overflow user monkut for the get_size method
 def findlines(filepath, regex):
     validlines = []

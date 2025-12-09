@@ -3,7 +3,7 @@ from datetime import datetime
 import secrets
 
 eliteTable = [
-    'Nocturnal: Crits on 19s in dim light and 18s in darkness.',
+    'Nocturnal: Crits on 19s in dim light and 18s in darkness. You have a 30ft Darkvision that pierces magical darkness. / (CR 5+) You may cast Darkness once per long rest.',
     'Abyssal: The area 10ft around the creature is always considered as being dark. If the creature does not have darkvision, they gain 30ft of darkvision.',
     'Adaptive Defense: When under 75% HP, you gain 1 AC. When under 50% HP, you gain resistance to physical damage. When under 25% HP, you gain an additional +1 AC.',
     'Ambusher: Starts stealthed with its passive stealth. Gains proficiency or expertise (if already proficient) in stealth. Gains +10 to initiative. Surprises if it starts combat.',
@@ -13,7 +13,7 @@ eliteTable = [
     "Berserker: Gains 5/10/15/20ft of movement speed and deals an additional 2/4/6/8 damage on all attacks. Gains the 'Reckless' feature. Reckless: You can choose to gain advantage on melee attack rolls. Enemies have advantage to hit you.", 
     'Blooming: Can spend its action to heal all allies in a 20ft radius for 2d8+WIS/4d8+WIS/6d8+WIS/8d8+WIS',
     'Charming: Charisma increases by 6. Can spend its action to charm the player, Charisma DC or be charmed for 1 minute. Can repeat save at the end of their turn to end the effect.',
-    'Conjurer: Can spend its action to conjure a minion of a CR equivalent to 1/4 its CR.',
+    'Conjurer: Can spend its action/action/bonus action/bonus action to conjure a minion of a CR equivalent to 1/4 its CR.',
     "Corrosive Weapon: Attacks reduce the target's AC by 1 every time they hit, to a maximum of -5. If they are wearing nonmagical armor, the armor breaks upon reaching -5. The penalty is removed after the encounter.", 
     "Corrosive Armor: Being attacked reduces the target's weapon damage by -1, to a maximum of -5. If they are wielding a nonmagical weapon, the weapon breaks upon reaching -5. The penalty is removed after the encounter.", 
     'Curse: Deals an extra 1d4/1d6/1d8/1d10 necrotic damage on one of its attacks. This attack causes a DC-Con/Cha Wisdom saving throw which, on failure, reduces the next saving throw done by the target by the necrotic damage.',
@@ -105,7 +105,9 @@ eliteTable = [
     'Fiendish: You gain resistance to fire damage and your creature type becomes Fiend. They also gain one of the following traits: [[1d3]]\nDemon: You gain resistance to cold and lightning damage.\nDevil: You gain Magic Resistance and have advantage on saving throws against magical effects.\nYugoloth: You gain the Teleport action and can teleport to a point you can see within 60ft as an action.',
     'Celestial: You gain resistance to radiant damage and your creature type becomes Celestial. They also gain one of the following traits: [[1d3]]\nWings: You gain a fly speed equal to your move speed.\nSmiter: Once per turn, you can deal an additional 2d8/4d8/6d8/8d8 radiant damage on an attack.\nHealer: You can use your action to heal an ally for 2d8+WIS/4d8+WIS/6d8+WIS/8d8+WIS health and purge all negative effects from them.',
     'Aberrant: You gain resistance to psychic or force damage and your creature type becomes Aberration. They also gain one of the following traits: [[1d2]]\nGibbering: You can use your reaction to cause an Intelligence saving throw DC Int/Con when you are attacked. On a failure, the creature becomes Confused until the end of its next turn (not the current turn), as per the Confusion spell.\nGazing: You gain a Truesight and a Blindsight of 5/10/15/20ft.\n',
-    'Monstrous: Your creature type becomes Monstrosity. They also gain one of the following traits: [[1d3]]\nMonstrous Claws: Your Strength increases by 4 and you gain a Claw attack that deals 1d6/2d6/3d6/4d6 slashing damage added to your Multiattack.\nMonstrous Hide: Increase your Constitution by 4 and choose 1/1/2/3 damage types to gain resistance to.\nMonstrous Appendage: Gain 1/1/2/3 of the following speeds equal to your movement speed - A fly speed, a climb speed, a burrow speed.'
+    'Monstrous: Your creature type becomes Monstrosity. They also gain one of the following traits: [[1d3]]\nMonstrous Claws: Your Strength increases by 4 and you gain a Claw attack that deals 1d6/2d6/3d6/4d6 slashing damage added to your Multiattack.\nMonstrous Hide: Increase your Constitution by 4 and choose 1/1/2/3 damage types to gain resistance to.\nMonstrous Appendage: Gain 1/1/2/3 of the following speeds equal to your movement speed - A fly speed, a climb speed, a burrow speed.',
+    'Humanoid Race: You are strongly associated with a humanoid race. Choose a random race and gain all of the benefits, ASIs, etc, of being that race.',
+    'Oathsworn: Your Strength and Charisma increase by 2. 2/3/4/5 times per day you may smite on your attacks, dealing an additional 2d8/3d8/4d8/5d8 radiant, thunder or necrotic damage - your choice.'
 ]
 
 option = 0
