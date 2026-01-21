@@ -107,7 +107,8 @@ eliteTable = [
     'Aberrant: You gain resistance to psychic or force damage and your creature type becomes Aberration. They also gain one of the following traits: [[1d2]]\nGibbering: You can use your reaction to cause an Intelligence saving throw DC Int/Con when you are attacked. On a failure, the creature becomes Confused until the end of its next turn (not the current turn), as per the Confusion spell.\nGazing: You gain a Truesight and a Blindsight of 5/10/15/20ft.\n',
     'Monstrous: Your creature type becomes Monstrosity. They also gain one of the following traits: [[1d3]]\nMonstrous Claws: Your Strength increases by 4 and you gain a Claw attack that deals 1d6/2d6/3d6/4d6 slashing damage added to your Multiattack.\nMonstrous Hide: Increase your Constitution by 4 and choose 1/1/2/3 damage types to gain resistance to.\nMonstrous Appendage: Gain 1/1/2/3 of the following speeds equal to your movement speed - A fly speed, a climb speed, a burrow speed.',
     'Humanoid Race: You are strongly associated with a humanoid race. Choose a random race and gain all of the benefits, ASIs, etc, of being that race.',
-    'Oathsworn: Your Strength and Charisma increase by 2. 2/3/4/5 times per day you may smite on your attacks, dealing an additional 2d8/3d8/4d8/5d8 radiant, thunder or necrotic damage - your choice.'
+    'Oathsworn: Your Strength and Charisma increase by 2. 2/3/4/5 times per day you may smite on your attacks, dealing an additional 2d8/3d8/4d8/5d8 radiant, thunder or necrotic damage - your choice.',
+    'Elemental Affinity: You gain resistance to two/three/four/four damage types and vulnerability to one/one/two/one.'
 ]
 
 option = 0
