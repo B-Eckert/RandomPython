@@ -177,7 +177,7 @@ class Bestiary:
 b = Bestiary(["mm", "mtf", "vgm", "mme1", "mme2", "mme3"])
 # monster = b.bestiarySearch("Mind Flayer")
 monster = b.bestiarySearch("Maurezhi Lord")
-searchRunning = False
+searchRunning = True
 # print(b.useEconomy(monster, "Mind Blast {@recharge 5}"))
 b.printUsageMenu(monster)
 while(searchRunning):
@@ -185,13 +185,66 @@ while(searchRunning):
     creature = input("What is the creature you are looking for (Q to quit, I for index): ")    
     if(creature.lower() == "q"):
         searchRunning = False
+        break
     elif(creature.lower() == "i"):
-        # run index functionality
-        pass
+        indexSearch = True
+        index = 0
+        while(indexSearch):
+            # paginate 10 monsters at a time
+            finalIndex = index+10
+            if(len(b.masterMonsterList) <= finalIndex):
+                finalIndex = len(b.masterMonsterList) - 1
+            for i in range(index, finalIndex):
+                mon = b.masterMonsterList[i]
+                print(str(i+1) + ") " + mon['name'])
+            pageControl = input("Type 'n' for next, 'p' for previous, 'q' for quit, and a number to choose a monster from the index. You can also append a number to next or previous to go that many pages ahead. ")
+            if(pageControl.lower() == 'q'):
+                searchRunning = False
+                indexSearch = False
+            if(pageControl.lower() == 'n'):
+                if(index+10 >= len(b.masterMonsterList)):
+                    print("Cannot go higher.")
+                    wait = input()
+                else:
+                    index += 10
+            elif(pageControl.lower() == 'p'):
+                if(index-10 < 0):
+                    print("Cannot go lower.")
+                    wait = input()
+                else:
+                    index -= 10
+            elif(re.match(r'n\d+', pageControl.lower())):
+                pagesForward = int(pageControl[1:])*10
+                if(index + (pagesForward) >= len(b.masterMonsterList)):
+                    print("Cannot go " + str(pagesForward) + " pages forward.")
+                    wait = input()
+                else:
+                    index += pagesForward
+            elif(re.match(r'p\d+', pageControl.lower())):
+                pagesBackward = int(pageControl[1:])*10
+                if(index - (pagesBackward) < 0):
+                    print("Cannot go " + str(pagesBackward) + " pages backwward.")
+                    wait = input()
+                else:
+                    index -= pagesBackward
+            elif(re.match(r"\d+", pageControl)):
+                tryIndex = int(pageControl)
+                if(tryIndex > len(b.masterMonsterList)):
+                    print("Number too large.")
+                    wait = input()
+                elif(tryIndex < 1):
+                    print("Number too small.")
+                    wait = input()
+                else:
+                    creature = b.masterMonsterList[tryIndex-1]['name']
+                    indexSearch = False
+    if(not searchRunning):
+        break
     monster = b.bestiarySearch(creature)
     if(not b.bestiarySearch(creature)):
         print("That is not a valid creature, please search again.")
     else:
+        b.printUsageMenu(monster)
         actionsRunning = True
         while(actionsRunning):
-            pass
+            actionsRunning = False
