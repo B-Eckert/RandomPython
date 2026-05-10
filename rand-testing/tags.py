@@ -13,7 +13,7 @@ eliteTable = [
     "Berserker: Gains 5/10/15/20ft of movement speed and deals an additional 2/4/6/8 damage on all attacks. Gains the 'Reckless' feature. Reckless: You can choose to gain advantage on melee attack rolls. Enemies have advantage to hit you.", 
     'Blooming: Can spend its action to heal all allies in a 20ft radius for 2d8+WIS/4d8+WIS/6d8+WIS/8d8+WIS',
     'Charming: Charisma increases by 6. Can spend its action to charm the player, Charisma DC or be charmed for 1 minute. Can repeat save at the end of their turn to end the effect.',
-    'Conjurer: Can spend its action/action/bonus action/bonus action to conjure a minion of a CR equivalent to 1/4 its CR.',
+    'Conjurer: Can spend its action/action/bonus action/bonus action to conjure a minion of a CR equivalent to 1/4 its CR. (CR 5+) You may do this as a bonus action once every other turn.',
     "Corrosive Weapon: Attacks reduce the target's AC by 1 every time they hit, to a maximum of -5. If they are wearing nonmagical armor, the armor breaks upon reaching -5. The penalty is removed after the encounter.", 
     "Corrosive Armor: Being attacked reduces the target's weapon damage by -1, to a maximum of -5. If they are wielding a nonmagical weapon, the weapon breaks upon reaching -5. The penalty is removed after the encounter.", 
     'Curse: Deals an extra 1d4/1d6/1d8/1d10 necrotic damage on one of its attacks. This attack causes a DC-Con/Cha Wisdom saving throw which, on failure, reduces the next saving throw done by the target by the necrotic damage.',
